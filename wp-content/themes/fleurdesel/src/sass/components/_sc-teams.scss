@@ -1,0 +1,55 @@
+// SC: Teams
+.fleurdesel-team__item {
+  position: relative;
+
+  &:hover {
+    .fleurdesel-team__img img {
+      transform: scale(1.1);
+    }
+
+    .fleurdesel-team__title {
+      color: $color-1;
+    }
+  }
+}
+
+.fleurdesel-team__img {
+  position: relative;
+  overflow: hidden;
+
+  &:before {
+    @include paddingTop(360,440);
+  }
+
+  img {
+    width: 100%;
+    transition: all .4s ease;
+
+    @include absolute(0,0,0,0);
+  }
+}
+
+.fleurdesel-team__info {
+  padding: 20px;
+}
+
+.fleurdesel-team__title {
+  margin-bottom: 12px;
+  font-size: 1.875rem;
+  transition: all .4s ease;
+}
+
+.fleurdesel-team__meta {
+  letter-spacing: 3px;
+  color: $color-4;
+  font-size: 12px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.fleurdesel-team__action {
+  a {
+    display: inline-block;
+    width: 32px;
+  }
+}

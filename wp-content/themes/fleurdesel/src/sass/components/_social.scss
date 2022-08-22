@@ -1,0 +1,19 @@
+.social-icons {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  li,
+  a,
+  span {
+    font-size: 14px;
+    color: $color-2;
+    letter-spacing: 3px;
+    margin-right: 7px;
+    display: inline-block;
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+}

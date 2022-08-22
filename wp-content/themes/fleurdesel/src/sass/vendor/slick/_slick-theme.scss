@@ -1,0 +1,231 @@
+@charset "UTF-8";
+
+// Default Variables
+
+// Slick icon entity codes outputs the following
+// "\2190" outputs ascii character "←"
+// "\2192" outputs ascii character "→"
+// "\2022" outputs ascii character "•"
+
+$slick-font-path: "./fonts/" !default;
+$slick-font-family: "slick" !default;
+$slick-loader-path: "./" !default;
+$slick-arrow-color: white !default;
+$slick-dot-color: black !default;
+$slick-dot-color-active: $slick-dot-color !default;
+$slick-prev-character: "\2190" !default;
+$slick-next-character: "\2192" !default;
+$slick-dot-character: "\2022" !default;
+$slick-dot-size: 6px !default;
+$slick-opacity-default: 0.75 !default;
+$slick-opacity-on-hover: 1 !default;
+$slick-opacity-not-active: 0.25 !default;
+
+@function slick-image-url($url) {
+    @if function-exists(image-url) {
+        @return image-url($url);
+    }
+    @else {
+        @return url($slick-loader-path + $url);
+    }
+}
+
+@function slick-font-url($url) {
+    @if function-exists(font-url) {
+        @return font-url($url);
+    }
+    @else {
+        @return url($slick-font-path + $url);
+    }
+}
+
+/* Slider */
+
+.slick-list {
+    .slick-loading & {
+        background: #fff slick-image-url("ajax-loader.gif") center center no-repeat;
+    }
+}
+
+/* Icons */
+@if $slick-font-family == "slick" {
+    @font-face {
+        font-family: "slick";
+        src: slick-font-url("slick.eot");
+        src: slick-font-url("slick.eot?#iefix") format("embedded-opentype"), slick-font-url("slick.woff") format("woff"), slick-font-url("slick.ttf") format("truetype"), slick-font-url("slick.svg#slick") format("svg");
+        font-weight: normal;
+        font-style: normal;
+    }
+}
+
+/* Arrows */
+
+.slick-prev,
+.slick-next {
+  position: absolute;
+  top: 50%;
+  z-index: 9;
+  width: 48px;
+  height: 48px;
+  padding: 0;
+  text-align: center;
+  overflow: hidden;
+  font-size: 0;
+  background: none transparent;
+  color: #fff;
+  border: none;
+  border-radius: 100%;
+  transform: translateY(-50%);
+
+  &:before {
+    font-family: $slick-font-family;
+    font-size: 30px;
+    line-height: 1;
+  }
+
+  &:hover {
+    background: none transparent;
+    color: $color-1;
+  }
+
+  &:focus,
+  &:active,
+  &:active:focus {
+    outline: none;
+    box-shadow: none;
+  }
+
+  &.slick-disabled:before {
+    opacity: $slick-opacity-not-active;
+  }
+}
+
+.slick-prev {
+  left: 10px;
+
+  [dir="rtl"] & {
+    left: auto;
+    right: 10px;
+  }
+
+  &:before {
+    content: $slick-prev-character;
+
+    [dir="rtl"] & {
+      content: $slick-next-character;
+    }
+  }
+}
+
+.slick-next {
+  right: 10px;
+
+  [dir="rtl"] & {
+    left: 10px;
+    right: auto;
+  }
+
+  &:before {
+    content: $slick-next-character;
+
+    [dir="rtl"] & {
+      content: $slick-prev-character;
+    }
+  }
+}
+
+.fleurdesel-slick-modern {
+  .slick-prev,
+  .slick-next {
+    width: 40px;
+    height: 40px;
+    border: 1px solid $color-3;
+    background-color: #fff;
+    color: #000;
+
+    &:before {
+      font-size: 10px;
+    }
+
+    &:hover {
+      border-color: $color-1;
+      color: $color-1;
+    }
+  }
+
+  .slick-prev {
+    left: -60px !important;
+
+    [dir="rtl"] & {
+      right: -60px !important;
+    }
+  }
+
+  .slick-next {
+    right: -60px !important;
+
+    [dir="rtl"] & {
+      left: -60px !important;
+    }
+  }
+}
+
+/* Dots */
+
+.slick-dotted.slick-slider {
+    margin-bottom: 30px;
+}
+
+.slick-dots {
+  position: absolute;
+  bottom: -25px;
+  list-style: none;
+  display: block;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+
+  li {
+    position: relative;
+    display: inline-block;
+    width: 10px;
+    height: 20px;
+    line-height: 1.1;
+    text-align: center;
+    margin: 0 5px;
+    padding: 0;
+    cursor: pointer;
+
+    &.slick-active button:before {
+      color: $slick-dot-color-active;
+    }
+  }
+
+  button {
+    border: 1px solid $color-1;
+    padding: 0;
+    display: inline-block;
+    outline: none;
+    font-size: 0;
+    background: none $color-1;
+    color: $color-1;
+    width: 9px;
+    height: 9px;
+    border-radius: 100%;
+
+    &:hover, &:focus, &:active, &:active:focus {
+      outline: none;
+      box-shadow: none;
+      background: none transparent;
+      color: #fff;
+    }
+
+    &:before {
+      font-family: $slick-font-family;
+      content: $slick-dot-character;
+      font-size: $slick-dot-size;
+      line-height: 1;
+    }
+  }
+}

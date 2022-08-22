@@ -1,0 +1,422 @@
+{
+    "version": "0.4",
+    "title": "Post single content",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-other",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "14294d40",
+            "settings": {
+                "margin": {
+                    "unit": "px",
+                    "top": "33",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "gap": "no"
+            },
+            "elements": [
+                {
+                    "id": "ec291a",
+                    "settings": {
+                        "_column_size": "100",
+                        "space_between_widgets": "18"
+                    },
+                    "elements": [
+                        {
+                            "id": "7cf786ac",
+                            "settings": {
+                                "editor": "<p>You've gotta dance like there's nobody watching, love like you'll never be hurt, sing like there's nobody listening, and live like it's heaven on earth. Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.<\/p>",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=d1ee25e"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "73afbc0d",
+                            "settings": {
+                                "editor": "<p>When we love, we always strive to become better than we are. When we strive to become better than we are, everything around us becomes better too. One is loved because one is loved. No reason is needed for loving.<\/p>",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=d1ee25e"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2cf61b75",
+                            "settings": {
+                                "title": "Our Story",
+                                "header_size": "h3",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=69675d0"
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "34",
+                                    "right": "0",
+                                    "bottom": "11",
+                                    "left": "0",
+                                    "isLinked": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "43d884a6",
+                            "settings": {
+                                "editor": "<p>The simple things are also the most extraordinary things, and only the wise can see them. Everyone seems to have a clear idea of how other people should lead their lives, but none about his or her own. Remember that wherever your heart is, there you will find your treasure. No matter what he does, every person on earth plays a central role in the history of the world. And normally he doesn't know it.<\/p>",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "26",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=d1ee25e"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4c72aa58",
+                            "settings": {
+                                "gap": "no",
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "75a7f36a",
+                                    "settings": {
+                                        "_column_size": "50",
+                                        "_inline_size": 52,
+                                        "space_between_widgets": "7",
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "10",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "padding_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6d0566e2",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/post_img.jpg",
+                                                    "id": "2187"
+                                                },
+                                                "align": "left"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "6f95bb0f",
+                                            "settings": {
+                                                "editor": "<p>Your eyes show the strength of your soul.<\/p>",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Montserrat",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": "12",
+                                                    "sizes": []
+                                                },
+                                                "typography_font_weight": "400",
+                                                "typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": "33",
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "5448b7e0",
+                                    "settings": {
+                                        "_column_size": "50",
+                                        "_inline_size": 48,
+                                        "space_between_widgets": "18"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3caff1a2",
+                                            "settings": {
+                                                "editor": "<p>Tell your heart that the fear of suffering is worse than the suffering itself. And that no heart has ever suffered when it goes in search of its dreams, because every second of the search is a second's encounter with God and with eternity.\u00a0<\/p>",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=d1ee25e"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "35c19a27",
+                                            "settings": {
+                                                "editor": "We are travelers on a cosmic journey,stardust,swirling and dancing in the eddies and whirlpools of infinity. Life is eternal. We have stopped for a moment to encounter each other, to meet, to love, to share.",
+                                                "align": "left",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=d1ee25e"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        },
+                        {
+                            "id": "60278f19",
+                            "settings": {
+                                "editor": "This is precious moment. It is a little parenthesis in eternity. I don\u2019t live in either my past or my future. I\u2019m interested only in the present. If you can concentrate always on the present, you\u2019ll be a happy man. Life will be a party for you, a festival, because life is the moment we\u2019re living now.",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-13",
+                                    "right": "0",
+                                    "bottom": "30",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=d1ee25e"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "522ae318",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": "750",
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "10",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "66fbb82b",
+                    "settings": {
+                        "_column_size": "100",
+                        "background_background": "classic",
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=8f005b3"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5d6403e9",
+                            "settings": {
+                                "border_border": "solid",
+                                "border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": "1"
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "56",
+                                    "right": "40",
+                                    "bottom": "55",
+                                    "left": "40",
+                                    "isLinked": ""
+                                },
+                                "padding_mobile": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": "1"
+                                },
+                                "__globals__": {
+                                    "border_color": "globals\/colors?id=6a45eea"
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "1e3a25e6",
+                                    "settings": {
+                                        "_column_size": "100",
+                                        "space_between_widgets": "25"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2bb656bf",
+                                            "settings": {
+                                                "title": "So, I love you because the entire universe conspired to help me find you.",
+                                                "header_size": "h4",
+                                                "align": "center",
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=47e9c7e"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "2de44a36",
+                                            "settings": {
+                                                "title": "\u2015 Paulo Coelho, The Alchemist",
+                                                "header_size": "h6",
+                                                "align": "center",
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=79df2e2",
+                                                    "typography_typography": "globals\/typography?id=0763bb8"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "68d90b30",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": "770",
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "48",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "gap": "no"
+            },
+            "elements": [
+                {
+                    "id": "ce7a18",
+                    "settings": {
+                        "_column_size": "100",
+                        "space_between_widgets": "19"
+                    },
+                    "elements": [
+                        {
+                            "id": "40e427",
+                            "settings": {
+                                "editor": "<p>It was the pure Language of the World. It required no explanation, just as the universe needs none as it travels through endless time. What the boy felt at that moment was that he was in the presence of the only woman in his life, and that, with no need for words, she recognized the same thing. He was more certain of it than of anything in the world. He had been told by his parents and grandparents that he must fall in love and really know a person before becoming committed.<\/p>",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=d1ee25e"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "72149a10",
+                            "settings": {
+                                "editor": "<p>But maybe people who felt that way had never learned the universal language. Because, when you know that language, it's easy to understand that someone in the world awaits you, whether it's in the middle of the desert or in some great city. And when two such people encounter each other, and their eyes meet, the past and the future become unimportant. There is only that moment, and the incredible certainty that everything under the sun has been written by one hand only. It is the hand that evokes love, and creates a twin soul for every person in the world. Without such love, one's dreams would have no meaning.<\/p>",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=d1ee25e"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        }
+    ]
+}

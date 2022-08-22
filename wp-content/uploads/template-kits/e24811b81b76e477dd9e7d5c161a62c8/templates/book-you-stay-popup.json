@@ -1,0 +1,275 @@
+{
+    "version": "0.4",
+    "title": "Book you stay popup",
+    "type": "popup",
+    "metadata": {
+        "template_type": "section-popup",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "elementor_library_type": "popup",
+        "elementor_pro_conditions": [
+            "include\/general"
+        ],
+        "additional_template_information": [
+            "This is a \"Popup\" template for Elementor Pro.",
+            "This template will display on: Entire Site."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "b04c82e",
+            "settings": {
+                "background_background": "classic",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=8f005b3"
+                },
+                "content_width": {
+                    "unit": "px",
+                    "size": "500",
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "160",
+                    "right": "0",
+                    "bottom": "146",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "overflow": "hidden",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/before.png",
+                    "id": "597"
+                },
+                "background_overlay_position": "bottom center",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": "0.03",
+                    "sizes": []
+                },
+                "background_overlay_size": "initial",
+                "background_overlay_size_tablet": "initial",
+                "background_overlay_bg_width": {
+                    "unit": "px",
+                    "size": "1570",
+                    "sizes": []
+                },
+                "background_overlay_bg_width_tablet": {
+                    "unit": "px",
+                    "size": "700",
+                    "sizes": []
+                },
+                "background_overlay_bg_width_mobile": {
+                    "unit": "px",
+                    "size": "569",
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "0",
+                    "bottom": "",
+                    "left": "0",
+                    "isLinked": "1"
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "0",
+                    "bottom": "20",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": "0",
+                    "bottom": "70",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "height": "full"
+            },
+            "elements": [
+                {
+                    "id": "5ec79aa2",
+                    "settings": {
+                        "_column_size": "100",
+                        "space_between_widgets": "0",
+                        "__globals__": {
+                            "color_link_hover": ""
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "22f28b93",
+                            "settings": {
+                                "title": "Time to book \nyour stay",
+                                "align": "center",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=47e9c7e",
+                                    "typography_typography": "globals\/typography?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "279e6b39",
+                            "settings": {
+                                "editor": "<p>1512 Chemin de Stramousse, 06530<br \/>Grasse, Provence-Alpes-C\u00f4te d'Azur, France<\/p>",
+                                "align": "center",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=47e9c7e",
+                                    "typography_typography": "globals\/typography?id=text"
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "72",
+                                    "right": "0",
+                                    "bottom": "50",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "10",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "text_color": "#FFFFFF"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1b20f83d",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "(555) 777 5555",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "55e5fa6"
+                                    },
+                                    {
+                                        "text": "book@brooklyn.com",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "eaf947d"
+                                    }
+                                ],
+                                "icon_align": "center",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=47e9c7e",
+                                    "icon_typography_typography": "globals\/typography?id=cb2670f",
+                                    "text_color_hover": "globals\/colors?id=accent"
+                                },
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": "10",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "52d67d13",
+                            "settings": {
+                                "editor": "<p><strong>Antoine Lavoisier<\/strong> - managing director<\/p>",
+                                "align": "center",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "38",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=143a878",
+                                    "text_color": "globals\/colors?id=accent"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "width": {
+            "unit": "vw",
+            "size": "100",
+            "sizes": []
+        },
+        "height_type": "fit_to_screen",
+        "hide_title": "yes",
+        "close_button_vertical": {
+            "unit": "px",
+            "size": "100",
+            "sizes": []
+        },
+        "close_button_horizontal": {
+            "unit": "px",
+            "size": "100",
+            "sizes": []
+        },
+        "__globals__": {
+            "close_button_color": "globals\/colors?id=47e9c7e",
+            "close_button_hover_color": "globals\/colors?id=accent"
+        },
+        "width_mobile": {
+            "unit": "vw",
+            "size": "100",
+            "sizes": []
+        },
+        "content_position": "center",
+        "horizontal_position_mobile": "center",
+        "vertical_position_mobile": "center",
+        "close_button_vertical_mobile": {
+            "unit": "px",
+            "size": "120",
+            "sizes": []
+        },
+        "close_button_horizontal_mobile": {
+            "unit": "px",
+            "size": "22",
+            "sizes": []
+        },
+        "entrance_animation": "fadeIn",
+        "exit_animation": "fadeInDown"
+    }
+}

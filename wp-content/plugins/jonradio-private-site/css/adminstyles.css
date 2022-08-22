@@ -1,0 +1,56 @@
+#jr_ps_admin_landing_page_url {
+    width: 500px;
+}
+
+#my_private_site_admin_public_pages_url{
+    width: 500px;
+}
+
+#jr_ps_admin_advanced_password_reset_url,
+#jr_ps_admin_advanced_url {
+    width: 500px;
+}
+
+.my_private_site_main_admin_grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 2em;
+}
+
+
+/* Fix header issue */
+.option-my_private_site_tab_main input#submit-cmb.button.button-primary {
+    display : none;
+}
+
+.option-my_private_site_tab_site_privacy input#submit-cmb.button.button-primary {
+    display : none;
+}
+
+.option-my_private_site_tab_landing_page input#submit-cmb.button.button-primary {
+    display : none;
+}
+
+.option-my_private_site_tab_selective_content input#submit-cmb.button.button-primary {
+    display : none;
+}
+
+.option-my_private_site_tab_public_pages input#submit-cmb.button.button-primary {
+    display : none;
+}
+
+.option-my_private_site_tab_membership input#submit-cmb.button.button-primary {
+    display : none;
+}
+
+.option-my_private_site_tab_addons input#submit-cmb.button.button-primary {
+    display : none;
+}
+
+.option-my_private_site_tab_licenses input#submit-cmb.button.button-primary {
+    display : none;
+}
+
+.option-my_private_site_tab_advanced input#submit-cmb.button.button-primary {
+    display : none;
+}

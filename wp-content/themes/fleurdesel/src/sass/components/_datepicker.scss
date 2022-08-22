@@ -1,0 +1,68 @@
+.awebooking-calendar .ui-datepicker .ui-datepicker-title, .ui-datepicker.awebooking-datepicker .ui-datepicker-title {
+  text-transform: none !important;
+}
+
+.awebooking-calendar .ui-datepicker .ui-datepicker-title, .awebooking-calendar .ui-datepicker .ui-datepicker-title span, .ui-datepicker.awebooking-datepicker .ui-datepicker-title, .ui-datepicker.awebooking-datepicker .ui-datepicker-title span {
+  font-size: 20px !important;
+  font-weight: 700 !important;
+  color: $color-1 !important;
+}
+
+.awebooking-calendar .ui-datepicker .ui-datepicker-prev, .awebooking-calendar .ui-datepicker .ui-datepicker-next, .ui-datepicker.awebooking-datepicker .ui-datepicker-prev, .ui-datepicker.awebooking-datepicker .ui-datepicker-next {
+  border-color: transparent !important;
+}
+
+.awebooking-calendar .ui-datepicker .ui-datepicker-prev, .ui-datepicker.awebooking-datepicker .ui-datepicker-prev,
+.awebooking-calendar .ui-datepicker .ui-datepicker-next, .ui-datepicker.awebooking-datepicker .ui-datepicker-next {
+  top: 50% !important;
+  transform: translateY(-55%);
+}
+
+.awebooking-calendar .ui-datepicker .ui-datepicker-prev:hover, .awebooking-calendar .ui-datepicker .ui-datepicker-prev:focus, .ui-datepicker.awebooking-datepicker .ui-datepicker-prev:hover, .ui-datepicker.awebooking-datepicker .ui-datepicker-prev:focus,
+.awebooking-calendar .ui-datepicker .ui-datepicker-next:hover, .awebooking-calendar .ui-datepicker .ui-datepicker-next:focus, .ui-datepicker.awebooking-datepicker .ui-datepicker-next:hover, .ui-datepicker.awebooking-datepicker .ui-datepicker-next:focus {
+  top: 50% !important;
+}
+
+.awebooking-calendar .ui-datepicker .ui-datepicker-prev:hover, .awebooking-calendar .ui-datepicker .ui-datepicker-prev:focus, .awebooking-calendar .ui-datepicker .ui-datepicker-next:hover, .awebooking-calendar .ui-datepicker .ui-datepicker-next:focus, .ui-datepicker.awebooking-datepicker .ui-datepicker-prev:hover, .ui-datepicker.awebooking-datepicker .ui-datepicker-prev:focus, .ui-datepicker.awebooking-datepicker .ui-datepicker-next:hover, .ui-datepicker.awebooking-datepicker .ui-datepicker-next:focus {
+  border-color: transparent !important;
+  color: $color-1 !important;
+}
+
+.awebooking-product_thumb .owl-prev, .awebooking .awebookingfc-prev > span, .awebooking .ui-datepicker-prev > span, .ui-datepicker.awebooking-datepicker .awebookingfc-prev > span, .ui-datepicker.awebooking-datepicker .ui-datepicker-prev > span, .awebooking-fc-prev, .awebooking-product_thumb .owl-next, .awebooking .awebookingfc-next > span, .awebooking .ui-datepicker-next > span, .ui-datepicker.awebooking-datepicker .awebookingfc-next > span, .ui-datepicker.awebooking-datepicker .ui-datepicker-next > span, .awebooking-fc-next {
+  color: #333 !important;
+}
+
+.awebooking-product_thumb .owl-prev:after, .awebooking .awebookingfc-prev > span:after, .awebooking .ui-datepicker-prev > span:after, .ui-datepicker.awebooking-datepicker .awebookingfc-prev > span:after, .ui-datepicker.awebooking-datepicker .ui-datepicker-prev > span:after, .awebooking-fc-prev:after, .awebooking-product_thumb .owl-next:after, .awebooking .awebookingfc-next > span:after, .awebooking .ui-datepicker-next > span:after, .ui-datepicker.awebooking-datepicker .awebookingfc-next > span:after, .ui-datepicker.awebooking-datepicker .ui-datepicker-next > span:after, .awebooking-fc-next:after {
+  font-size: 14px !important;
+}
+
+.awebooking .awebookingfc-prev > span:hover:after, .awebooking .ui-datepicker-prev > span:hover:after, .ui-datepicker.awebooking-datepicker .awebookingfc-prev > span:hover:after, .ui-datepicker.awebooking-datepicker .ui-datepicker-prev > span:hover:after,
+.awebooking .awebookingfc-next > span:hover:after, .awebooking .ui-datepicker-next > span:hover:after, .ui-datepicker.awebooking-datepicker .awebookingfc-next > span:hover:after, .ui-datepicker.awebooking-datepicker .ui-datepicker-next > span:hover:after {
+  color: $color-1 !important;
+}
+
+.awebooking-calendar .ui-datepicker td, .ui-datepicker.awebooking-datepicker td {
+  padding: 0 !important;
+}
+
+.awebooking-calendar .ui-datepicker td a, .awebooking-calendar .ui-datepicker td span, .awebooking-calendar .ui-datepicker th span, .ui-datepicker.awebooking-datepicker td a, .ui-datepicker.awebooking-datepicker td span, .ui-datepicker.awebooking-datepicker th span {
+  font-size: 14px !important;
+}
+
+.ui-datepicker.awebooking-datepicker td a, .ui-datepicker.awebooking-datepicker td span {
+  padding: 13px 10px 14px !important;
+  border-radius: 100% !important;
+  border-color: transparent !important;
+}
+
+.ui-datepicker.awebooking-datepicker td a:hover, .ui-datepicker.awebooking-datepicker td a:focus, .ui-datepicker.awebooking-datepicker td.awebooking-highlight a, .ui-datepicker.awebooking-datepicker .ui-state-active {
+  color: #333 !important;
+  border-color: #f1e6d7 !important;
+  background-color: #f1e6d7 !important;
+}
+
+.ui-datepicker.awebooking-datepicker .ui-state-active {
+  border-color: $color-1 !important;
+  background-color: $color-1 !important;
+  color: #fff !important;
+}

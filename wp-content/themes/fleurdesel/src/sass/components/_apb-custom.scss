@@ -1,0 +1,1201 @@
+// CUSTOM STYLE AWE PLUGIN BOOKING
+#ui-datepicker-div {
+  z-index: 99 !important;
+}
+
+.fleurdesel-apb-carousel {
+  position: relative;
+  margin-bottom: 20px;
+
+  &.fullscreen {
+    z-index: 999;
+
+    .fleurdesel-apb-carousel__product-image {
+      background-color: rgba(0,0,0,.5);
+    }
+
+    .fleurdesel-apb-carousel__item:before {
+      padding-top: 100vh;
+    }
+
+    .fleurdesel-apb-carousel__icon {
+      position: fixed;
+    }
+
+    .fleurdesel-apb-carousel__img-bg {
+      background-size: contain !important;
+    }
+  }
+
+  .slider-fix {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.fleurdesel-apb-carousel__icon {
+  font-size: 20px;
+  color: #fff;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  z-index: 9;
+  transition: all .4s ease;
+
+  @include absolute(null,20px,23px);
+
+  &:hover {
+    color: $color-1;
+  }
+}
+
+.fleurdesel-apb-carousel__icon--zoom-out {
+  display: none;
+}
+
+.fleurdesel-apb-carousel__item {
+  position: relative;
+
+  &:before {
+    @include paddingTop(750,650);
+  }
+
+  &:after {
+    content: "";
+    display: block;
+    z-index: 1;
+    transition: all .4s ease;
+
+    @include absolute(0,0,0,0);
+  }
+}
+
+.fleurdesel-apb-carousel__img-bg {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  z-index: 0;
+  transform: translate(-50%, -50%);
+
+  @include absolute(50%,null,null,50%);
+}
+
+.fleurdesel-apb-carousel__item-thumb {
+  text-align: center;
+  padding: 0 10px;
+
+  img {
+    display: inline-block;
+    cursor: pointer;
+  }
+
+  &.slick-current {
+    img {
+      border: 1px solid $color-1;
+    }
+  }
+}
+
+.apb-field-group i {
+  color: #000 !important;
+  top: 50% !important;
+  transform: translateY(-50%);
+  right: 10px;
+  position: absolute;
+  font-size: 14px;
+  z-index: 2;
+
+  &.apbf-select:before {
+    @include fa("\f078");
+  }
+}
+
+.apb-input,
+.apb-select {
+  height: 50px;
+  padding: 5px 20px !important;
+  font-family: $font-1;
+  font-size: 1.25rem !important;
+  background-color: #fff !important;
+  position: relative;
+  z-index: 2;
+}
+
+.apbf {
+  z-index: 4;
+}
+
+.ui-datepicker.apb-datepicker {
+  width: 20em !important;
+  z-index: 99 !important;
+
+  @include media(">=md") {
+    width: 22em !important;
+  }
+}
+
+.tab-pane {
+  overflow-y: visible !important;
+  font-size: 0.875rem !important;
+  line-height: 1.857 !important;
+
+  p {
+    font-size: 0.875rem !important;
+    line-height: 1.857 !important;
+  }
+}
+
+.fleurdesel-amenities {
+  margin-bottom: 35px;
+  display: table;
+
+  i {
+    display: table-cell;
+    font-size: 40px;
+    height: 40px;
+    color: $color-1;
+    vertical-align: middle;
+    width: 1%;
+  }
+
+  span {
+    display: table-cell;
+    vertical-align: middle;
+    padding-left: 15px;
+    line-height: 1.5;
+    width: 100%;
+    font-size: 0.875rem;
+  }
+}
+
+.apb-package_item {
+  .apb-package_text {
+    @include media(">=lg") {
+      padding-right: 25%;
+    }
+
+    label {
+      font-size: 1.25rem !important;
+      font-family: $font-1;
+      text-transform: none !important;
+      margin-bottom: 0;
+    }
+
+    p {
+      margin-bottom: 0;
+    }
+  }
+
+  .apb-package_book-price {
+    margin-top: 20px;
+
+    @include media(">=lg") {
+      margin-top: 0;
+
+      @include absolute(0,10%);
+    }
+
+    .apb-package_price {
+      padding-top: 0;
+      line-height: 1 !important;
+      font-size: 0.75rem !important;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+    }
+
+    .amount {
+      font-size: 1.5625rem !important;
+      color: $color-1;
+      display: block;
+      font-weight: 400 !important;
+      margin-bottom: 10px;
+      letter-spacing: 0;
+    }
+  }
+}
+
+// STANDARD
+.awebooking--standard {
+  .fleurdesel-room-extra-info {
+    margin: 75px 0 50px;
+    background: url(../../src/images/pattern-bg.jpg) repeat top left;
+
+    @include media(">=lg") {
+      border: 1px solid #e8e8e8;
+    }
+  }
+
+  .fleurdesel-room-extra-info__item {
+    float: left;
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    padding: 30px 0 14px;
+    border: 1px solid #e8e8e8;
+
+    @include media(">=sm") {
+      width: 50%;
+
+      &:last-child {
+        width: 100%;
+      }
+    }
+
+    @include media(">=lg") {
+      width: 20%;
+      border: none;
+
+      &:last-child {
+        width: 20%;
+      }
+    }
+
+    @include media(">=lg","<xl") {
+      font-size: 1rem;
+    }
+
+    i {
+      font-size: 60px;
+      height: 60px;
+      margin-bottom: 20px;
+      display: block;
+      color: $color-1;
+    }
+  }
+
+  .room-detail_book {
+    margin-top: 30px;
+
+    @include media(">=lg") {
+      margin-top: 0;
+    }
+
+    .room-detail_total {
+      display: none;
+      font-family: $font-1;
+
+      .price {
+        font-family: $font-2;
+      }
+
+      .amount {
+        color: $color-1 !important;
+      }
+    }
+  }
+
+  .apb-product_tab {
+    margin: 0 -15px;
+  }
+
+  .apb-product_tab-header {
+    float: left;
+    width: 100%;
+    padding: 0 15px !important;
+    text-align: left !important;
+    border-bottom: none !important;
+    margin: 0 0 30px;
+    border-top: none;
+
+    @include media(">=md") {
+      width: 25%;
+      padding-right: 30px !important;
+    }
+
+    li {
+      display: block !important;
+      border: none !important;
+    }
+
+    a {
+      display: block !important;
+      padding: 15px 0 !important;
+      font-size: 1.25rem !important;
+      font-family: $font-1;
+      text-transform: none !important;
+      font-weight: 700;
+
+      &:after {
+        content: '';
+        height: 1px;
+        background-color: #e8e8e8;
+        display: block;
+        position: absolute;
+        width: 100%;
+        bottom: -1px;
+        left: 0;
+      }
+    }
+
+    .active a {
+      color: $color-1;
+
+      &:after {
+        height: 1px !important;
+        background-color: $color-1 !important;
+        bottom: -1px !important;
+      }
+    }
+  }
+
+  .apb-product_tab-panel {
+    float: left;
+    width: 100%;
+    padding: 15px !important;
+    min-height: 300px;
+
+    @include media(">=md") {
+      width: 75%;
+      border-left: 1px solid #e8e8e8;
+      padding: 15px 15px 15px 30px !important;
+      border-top: none;
+    }
+  }
+}
+
+// MODERN
+.awebooking--modern {
+  .fleurdesel-apb-carousel__item {
+    position: relative;
+
+    &:before {
+      @include paddingTop(1140,560);
+    }
+  }
+
+  .apb-container {
+    width: 100%;
+    padding: 0;
+  }
+
+  .apb-layout {
+    @include media(">=lg") {
+      margin-bottom: 80px;
+    }
+  }
+
+  .room-detail_book {
+    margin-top: 30px;
+  }
+
+  .room-detail_total {
+    padding: 0;
+    padding-top: 80px;
+    margin-bottom: 30px;
+    border-bottom: none;
+    text-align: center;
+  }
+
+  .apb-heading {
+    font-size: 2.5rem;
+    font-family: $font-1;
+    text-transform: none;
+    border-bottom: none;
+    padding: 0 0 60px;
+  }
+
+  // .apb-content {
+  //   padding: 0;
+  //   margin: 0 -15px;
+  //   overflow: hidden;
+
+  //   > .list-room {
+  //     padding: 0 15px;
+  //   }
+
+  //   > .apb-field {
+  //     width: 100%;
+  //     padding: 0 15px;
+
+  //     @include media(">=md") {
+  //       width: 50%;
+  //     }
+
+  //     @include media(">=lg") {
+  //       width: 28%;
+  //     }
+
+  //     .apb-input,
+  //     .apb-select {
+  //       @include media(">=xl") {
+  //         padding-left: 140px !important;
+  //       }
+  //     }
+  //   }
+
+  //   > .apb-field--night,
+  //   > .apb-field--room {
+  //     width: 100% !important;
+
+  //     @include media(">=md") {
+  //       width: 50% !important;
+  //     }
+
+  //     @include media(">=lg") {
+  //       width: 20% !important;
+  //     }
+
+  //     .apb-input,
+  //     .apb-select {
+  //       @include media(">=xl") {
+  //         padding-left: 120px !important;
+  //       }
+  //     }
+  //   }
+  // }
+
+  // .apb-field,
+  // .apb-sidebar_group {
+  //   margin-bottom: 40px;
+  // }
+
+  // .apb-field {
+  //   position: relative;
+
+  //   label {
+  //     font-family: $font-1;
+  //     font-size: 1rem !important;
+  //     font-style: italic;
+  //     font-weight: 400;
+  //     text-transform: none;
+  //     color: $color-1;
+
+  //     @include media(">=xl") {
+  //       padding: 0 3px;
+  //       margin: 0;
+  //       z-index: 2;
+  //       transform: translateY(-50%);
+
+  //       @include absolute(50%,null,null,30px);
+  //     }
+
+  //     &:after {
+  //       @include media(">=xl") {
+  //         content: "";
+  //         display: block;
+  //         width: 100%;
+  //         height: 1px;
+  //         background-color: $color-1;
+  //         z-index: 3;
+
+  //         @include absolute(null,null,0);
+  //       }
+  //     }
+  //   }
+  // }
+
+  // .apb-input,
+  // .apb-select {
+  //   height: 70px !important;
+  //   font-size: 1.5625rem !important;
+
+  //   @include media(">=xl") {
+  //     text-align: right;
+  //     padding-right: 30px !important;
+  //   }
+  // }
+
+  // .apb-sidebar_group {
+  //   .apb-field_group {
+  //     margin: 0 -15px;
+  //   }
+
+  //   .apb-field {
+  //     padding-left: 15px;
+  //     padding-right: 15px;
+  //   }
+
+  //   .apb-select {
+  //     @include media(">=xl") {
+  //       padding-left: 10% !important;
+  //     }
+  //   }
+  // }
+
+  .apb-input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: #fff;
+  }
+
+  .apb-input::-moz-placeholder { /* Firefox 19+ */
+    color: #fff;
+  }
+
+  .apb-input:-ms-input-placeholder { /* IE 10+ */
+    color: #fff;
+  }
+
+  .apb-input:-moz-placeholder { /* Firefox 18- */
+    color: #fff;
+  }
+
+  .fleurdesel-room-extra-info {
+    padding: 80px 0 50px;
+    margin: 0 -15px;
+  }
+
+  .fleurdesel-room-extra-info__item {
+    float: left;
+    padding: 0 15px;
+    margin-bottom: 30px;
+    width: 100%;
+    text-align: center;
+
+    @include media(">=sm") {
+      width: 50%;
+
+      &:last-child {
+        width: 100%;
+      }
+    }
+
+    @include media(">=lg") {
+      width: 20%;
+      margin-bottom: 0;
+
+      &:last-child {
+        width: 20%;
+      }
+    }
+  }
+
+  .fleurdesel-room-extra-info__wrap {
+    position: relative;
+    border: 1px solid #e8e8e8;
+    transition: all .4s ease;
+    background: url(../../src/images/pattern-bg.jpg) repeat top left;
+
+    @include fleurstyle(true, $color-1);
+
+    &:hover {
+      border-color: $color-1;
+    }
+
+    p {
+      margin-bottom: 0;
+      padding: 30px 10px;
+      font-size: 1.25rem;
+
+      @include fleurstyle(true, $color-1, 8px, bottom);
+
+      @include media(">=lg","<xl") {
+        font-size: 1rem;
+      }
+    }
+
+    i {
+      display: block;
+      margin: 0 auto 30px;
+      font-size: 60px;
+      height: 60px;
+      color: $color-1;
+    }
+  }
+
+  .apb-product_tab-header {
+    border-bottom: none;
+    text-align: center;
+    margin: 0 0 30px;
+
+    li {
+      position: relative;
+      display: block;
+      text-align: left;
+      border: none;
+
+      @include media(">=sm") {
+        display: inline-block;
+        text-align: center;
+      }
+    }
+
+    li:not(:last-child):after {
+      @include media(">=sm") {
+        content: "/";
+        font-size: 1.25rem;
+        margin: 0 10px;
+      }
+    }
+
+    a {
+      font-family: $font-1;
+      font-size: 1.25rem;
+      text-transform: none;
+      padding: 15px 0;
+      display: block;
+      font-weight: 700;
+
+      @include media(">=sm") {
+        padding: 10px 15px;
+        display: inline-block;
+      }
+
+      &:after {
+        content: '';
+        height: 1px !important;
+        background-color: #e8e8e8;
+        position: absolute;
+        width: 100%;
+        bottom: -1px !important;
+        left: 0;
+
+        @include media(">=sm") {
+          display: none !important;
+        }
+      }
+    }
+
+    li:hover a,
+    li.active a {
+      color: $color-1;
+
+      &:after {
+        background-color: $color-1 !important;
+      }
+    }
+  }
+
+  .apb-product_tab-panel {
+    @include media(">=lg") {
+      padding: 0 15px;
+      width: 66.66667%;
+      margin-left: 16.66667%;
+      border: none;
+    }
+  }
+}
+
+.apb-select:focus, .apb-select:active, .apb-input.apb-calendar:focus, .apb-input.apb-calendar:active {
+  border-color: $color-1 !important;
+}
+
+.apb-calendar .ui-datepicker-inline td a:hover, .apb-calendar .ui-datepicker-inline td a:focus, .apb-calendar .ui-datepicker-inline td.apb-highlight a {
+  background-color: $color-1 !important;
+}
+
+.apb-calendar .ui-datepicker .ui-datepicker-prev:hover, .apb-calendar .ui-datepicker .ui-datepicker-prev:focus, .apb-calendar .ui-datepicker .ui-datepicker-next:hover, .apb-calendar .ui-datepicker .ui-datepicker-next:focus, .ui-datepicker.apb-datepicker .ui-datepicker-prev:hover, .ui-datepicker.apb-datepicker .ui-datepicker-prev:focus, .ui-datepicker.apb-datepicker .ui-datepicker-next:hover, .ui-datepicker.apb-datepicker .ui-datepicker-next:focus,
+.ui-datepicker.apb-datepicker td a:hover, .ui-datepicker.apb-datepicker td a:focus, .ui-datepicker.apb-datepicker td.apb-highlight a {
+  border-color: $color-1 !important;
+  color: $color-1 !important;
+}
+
+.awebooking .apbfc-next > span:hover:after, .awebooking .ui-datepicker-next > span:hover:after, .ui-datepicker.apb-datepicker .apbfc-next > span:hover:after, .ui-datepicker.apb-datepicker .ui-datepicker-next > span:hover:after,
+.awebooking .apbfc-prev > span:hover:after, .awebooking .ui-datepicker-prev > span:hover:after, .ui-datepicker.apb-datepicker .apbfc-prev > span:hover:after, .ui-datepicker.apb-datepicker .ui-datepicker-prev > span:hover:after {
+  color: $color-1 !important;
+}
+
+.apb-step {
+  li.active {
+    color: $color-1 !important;
+
+    > span {
+      background-color: $color-1 !important;
+    }
+  }
+}
+
+.apb-modal-title {
+  font-family: $font-1 !important;
+}
+
+.apb-modal-body .list-price-item span {
+  color: $color-1 !important;
+}
+
+// CHECK AVAILABILITY
+.apb-check-availability {
+  .apb-heading {
+    font-family: $font-1;
+    font-size: 1.25rem;
+    text-transform: none;
+  }
+
+  .apb-room-selected {
+    .apb-room-seleted_current.apb-bg_blue {
+      color: $color-1;
+    }
+  }
+
+  .apb-room_item {
+    .apb-room_name {
+      font-family: $font-1;
+      font-size: 1.875rem;
+      text-transform: none;
+
+      a:hover {
+        color: $color-1;
+      }
+    }
+
+    .apb-total-price-wrapper .apb-room_price .apb-room_amount {
+      color: $color-1;
+    }
+  }
+
+  .apb-room_package-more:hover, .apb-room_package-more:focus {
+    color: $color-1;
+    border-color: $color-1;
+  }
+
+  .apb-room_package .apb-package_img {
+    margin-top: 2px;
+  }
+
+  .apb-room-select-item .apb-room-select-package ul li span,
+  .apb-room-select-item .apb-room-select-price .price {
+    color: $color-1;
+  }
+}
+
+// CHECKOUT BOOKING FORM
+.apb-checkout {
+  .apb-step {
+    padding: 0 15px;
+    background-color: transparent;
+
+    ul {
+      padding: 12px 15px;
+      background-color: #f7f7f7;
+    }
+  }
+
+  .apb-room-selected {
+    margin-bottom: 50px;
+
+    .apb-heading {
+      font-size: 1.875rem;
+      font-family: $font-1;
+      text-transform: none;
+    }
+
+    .apb-room-selected_item:not(:last-child) {
+      .apb-room-seleted_name,
+      .apb-option,
+      .apb-room-seleted_package,
+      .apb-room-seleted_total-room {
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+    }
+
+    .apb-room-selected_item:last-child {
+      margin-bottom: 0;
+
+      .apb-room-seleted_total-room,
+      .apb-room-seleted_total-room .apb-amount {
+        font-size: 1.25rem;
+      }
+    }
+
+    .apb-room-seleted_package {
+      border-bottom: 1px dashed rgba(0, 0, 0, 0.1);
+
+      h6 {
+        display: block;
+        margin-right: 0;
+        padding-bottom: 5px;
+        border-bottom: 1px dashed rgba(0, 0, 0, 0.1);
+      }
+
+      ul {
+        margin-bottom: 15px;
+      }
+    }
+
+    .apb-room-seleted_total-room .apb-amount {
+      color: $color-1;
+    }
+  }
+
+  .apb-checkout-form {
+    .apb-billing-fields,
+    .apb-billing-fields--right {
+      h3 {
+        font-size: 1.875rem;
+        font-family: $font-1;
+      }
+    }
+  }
+
+  .apb-content .entry-title {
+    font-size: 1.875rem;
+    font-family: $font-1;
+  }
+}
+
+.awebooking h1, .awebooking h2, .awebooking h3, .awebooking h4, .awebooking h5, .awebooking h6, .apb-datepicker h1, .apb-datepicker h2, .apb-datepicker h3, .apb-datepicker h4, .apb-datepicker h5, .apb-datepicker h6, .awebooking-widget h1, .awebooking-widget h2, .awebooking-widget h3, .awebooking-widget h4, .awebooking-widget h5, .awebooking-widget h6 {
+  font-family: $font-1 !important;
+}
+
+.awebooking-informations,
+.awebooking-checkout-page {
+  .button {
+    padding: 15px 50px;
+    color: #fff;
+    background-color: #b98036;
+    border-color: #b98036;
+    line-height: 1.25;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    font-weight: bold;
+
+    &:hover {
+      background-color: #92652a;
+      border-color: #8a5f28;
+    }
+  }
+}
+
+.awebooking-checkout-form {
+  padding-top: 50px;
+}
+
+.apb-sidebar_group .apb-field {
+  float: left;
+  width: 50%;
+  margin-bottom: 0;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.apb-package_item + .apb-package_item {
+  margin-top: 25px;
+  border-top: solid 1px #e4e4e4;
+}
+
+.apb-package_item {
+  overflow: hidden;
+  padding-top: 25px;
+}
+
+.apb-package_book-price {
+    display: inline-block;
+    vertical-align: middle;
+    float: left;
+}
+
+.apb-package_text {
+    overflow: hidden;
+    position: relative;
+}
+
+.awebooking-tab__controls li {
+    position: relative !important;
+    border: 1px solid #eee;
+    border-bottom: none !important;
+    background-color: transparent !important;
+}
+
+.apb-field-group .apbf-select {
+    top: 12px;
+    right: 12px;
+    font-size: 10px;
+}
+
+.apb-field-group {
+    position: relative;
+}
+
+.apbf {
+  font-family: 'Awebooking' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  display: inline-block;
+}
+
+.apb-heading {
+    text-align: center;
+}
+
+.fleurdesel-awebooking--modern .apb-field{
+  &.apb-field--arrival,
+  &.apb-field--daparture {
+    padding-bottom: 10px !important;
+  }
+}
+
+.fl-rooms {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.woocommerce form .form-row input.input-text, .woocommerce form .form-row textarea {
+  line-height: 2;
+}
+
+.woocommerce .col2-set .col-1, .woocommerce-page .col2-set .col-1 {
+  max-width: 100% !important;
+}
+
+.woocommerce .col2-set .col-2, .woocommerce-page .col2-set .col-2 {
+  max-width: 100% !important;
+}
+
+.awebooking-shortcode table {
+  table-layout: fixed;
+}
+
+.searchbox__popup {
+  transition: all 0.25s ease;
+
+  &.open {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+
+  &.open--transition {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.searchbox--vertical {
+  .searchbox__wrap {
+    background: url(../../src/images/pattern-bg.jpg) repeat top left;
+    background-color: #fff !important;
+    padding: 20px 15px;
+    border: 1px solid #e8e8e8;
+
+    @include media(">=md") {
+      padding: 40px 30px;
+    }
+  }
+
+  .searchbox__box {
+    box-shadow: none;
+    margin-bottom: 30px;
+    border: 1px solid #e4e4e4;
+  }
+
+  .searchbox__box-wrap {
+    padding: 10px 15px;
+  }
+
+  .searchbox__box-label {
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+  }
+
+  .searchbox__input-display,
+  .searchbox-occupancy-info {
+    color: #333;
+    line-height: 1.42857143;
+    font-family: "Playfair Display",serif;
+    font-size: 1.25rem !important;
+    background-color: #fff !important;
+    position: relative;
+    z-index: 2;
+    user-select: none;
+  }
+
+  .searchbox__box-icon {
+    display: none;
+  }
+
+  .searchbox__box-line {
+    margin-left: 0;
+  }
+
+  .searchbox__box--button {
+    padding: 0;
+    margin-bottom: 0;
+  }
+}
+
+.searchbox.searchbox--horizontal {
+  .searchbox__box-label,
+  .searchbox--box-line-occupancy {
+    margin-bottom: 0;
+    overflow: unset;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-family: "Playfair Display", serif;
+    font-size: 1rem !important;
+    font-style: italic;
+    font-weight: 400;
+    text-transform: none;
+    color: #b98036;
+  }
+
+  .searchbox__box-line {
+    margin-left: 15px;
+  }
+
+  .searchbox__box-icon {
+    color: #b7b7b7;
+  }
+
+  .searchbox__input.input-transparent,
+  .searchbox__input-display,
+  .searchbox-occupancy-info{
+    font-family: "Playfair Display", serif;
+    color: #333;
+    line-height: 1.42857143;
+    font-size: 18px;
+    height: auto;
+  }
+
+  .searchbox__box-icon {
+    display: none;
+  }
+}
+
+.roommaster-occupancy-list {
+  padding: 0 10px;
+}
+
+.roommaster-header {
+  padding: 15px 15px;
+}
+
+.roommaster-inventory .awebooking-price {
+  font-size: 22px;
+}
+
+.awebooking-tab__content {
+  display: none;
+}
+
+.room__section {
+  border-bottom: none;
+}
+
+.room__section-title {
+  display: none;
+}
+
+.awebooking .button,
+.awebooking-block .button {
+  font-size: 0.875rem;
+  font-weight: 700;
+  background-color: $color-1;
+  line-height: 3.214;
+  text-transform: uppercase;
+  border-color: #b98036;
+  color: #fff;
+
+  @extend .btn-view;
+
+  &:hover {
+    background-color: darken($color-1, 15%);
+  }
+}
+
+.apb-btn {
+  font-size: 0.875rem !important;
+  font-weight: 700 !important;
+  background-color: $color-1 !important;
+  line-height: 3.214 !important;
+
+  @extend .btn-view;
+
+  &:hover {
+    background-color: darken($color-1, 15%) !important;
+  }
+}
+
+.awebooking button.booknow {
+  &:after {
+    content: none;
+  }
+}
+
+/* Datepicker */
+.awebooking-datepicker {
+  .flatpickr-day.hidden {
+    display: block !important;
+  }
+
+  .flatpickr-day.selected,
+  .flatpickr-day.startRange,
+  .flatpickr-day.endRange,
+  .flatpickr-day.selected.inRange,
+  .flatpickr-day.startRange.inRange,
+  .flatpickr-day.endRange.inRange,
+  .flatpickr-day.selected:focus,
+  .flatpickr-day.startRange:focus,
+  .flatpickr-day.endRange:focus,
+  .flatpickr-day.selected:hover,
+  .flatpickr-day.startRange:hover,
+  .flatpickr-day.endRange:hover,
+  .flatpickr-day.selected.prevMonthDay,
+  .flatpickr-day.startRange.prevMonthDay,
+  .flatpickr-day.endRange.prevMonthDay,
+  .flatpickr-day.selected.nextMonthDay,
+  .flatpickr-day.startRange.nextMonthDay,
+  .flatpickr-day.endRange.nextMonthDay,
+  .flatpickr-day.today:focus {
+    color: #fff;
+    border-color: #b98036;
+    background: #b98036;
+    box-shadow: none;
+  }
+
+  .flatpickr-day:hover,
+  .flatpickr-day.prevMonthDay:hover,
+  .flatpickr-day.nextMonthDay:hover,
+  .flatpickr-day:focus,
+  .flatpickr-day.prevMonthDay:focus,
+  .flatpickr-day.nextMonthDay:focus,
+  .flatpickr-day.inRange,
+  .flatpickr-day.prevMonthDay.inRange,
+  .flatpickr-day.nextMonthDay.inRange,
+  .flatpickr-day.today.inRange,
+  .flatpickr-day.prevMonthDay.today.inRange,
+  .flatpickr-day.nextMonthDay.today.inRange,
+  .flatpickr-day.today:hover {
+    background: #f1e6d7;
+    border-color: #f1e6d7;
+    box-shadow: none;
+    color: #fff;
+  }
+
+  .flatpickr-day.selected.startRange + .endRange:not(:nth-child(7n+1)),
+  .flatpickr-day.startRange.startRange + .endRange:not(:nth-child(7n+1)),
+  .flatpickr-day.endRange.startRange + .endRange:not(:nth-child(7n+1)) {
+    box-shadow: none;
+  }
+
+  .flatpickr-weekdays,
+  .flatpickr-months .flatpickr-month,
+  span.flatpickr-weekday {
+    background: #b98036;
+  }
+
+  .flatpickr-day.today {
+    border: none;
+  }
+
+  &.flatpickr-calendar.arrowTop:after {
+    border-bottom-color: #b98036;
+  }
+}
+
+.awebooking--modern .room-detail_book {
+  background-color: #f7f7f7;
+  padding: 100px 0;
+}
+
+.searchbox--vertical .searchbox__box-wrap {
+  padding: 0;
+}
+.searchbox--vertical .searchbox__box-line {
+  padding: 7px 12px;
+  margin: 0;
+  border: none;
+  background-color: transparent;
+  box-shadow: none;
+}

@@ -1,0 +1,3191 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "KingHo - Hotel Booking",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/demothemesflat.com\/kinghokit",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header style 01",
+            "screenshot": "screenshots\/header-style-01.jpg",
+            "source": "templates\/header-style-01.json",
+            "preview_url": "https:\/\/demothemesflat.com\/kinghokit\/template-kit\/header-style-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header style 02",
+            "screenshot": "screenshots\/header-style-02.jpg",
+            "source": "templates\/header-style-02.json",
+            "preview_url": "https:\/\/demothemesflat.com\/kinghokit\/template-kit\/header-style-02\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header style 03",
+            "screenshot": "screenshots\/header-style-03.jpg",
+            "source": "templates\/header-style-03.json",
+            "preview_url": "https:\/\/demothemesflat.com\/kinghokit\/template-kit\/header-style-03\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer style 01",
+            "screenshot": "screenshots\/footer-style-01.jpg",
+            "source": "templates\/footer-style-01.json",
+            "preview_url": "https:\/\/demothemesflat.com\/kinghokit\/template-kit\/footer-style-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer style 02",
+            "screenshot": "screenshots\/footer-style-02.jpg",
+            "source": "templates\/footer-style-02.json",
+            "preview_url": "https:\/\/demothemesflat.com\/kinghokit\/template-kit\/footer-style-02\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer style 03",
+            "screenshot": "screenshots\/footer-style-03.jpg",
+            "source": "templates\/footer-style-03.json",
+            "preview_url": "https:\/\/demothemesflat.com\/kinghokit\/template-kit\/footer-style-03\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Check Availability Block for Page Home 01",
+            "screenshot": "screenshots\/form-check-availability-block-for-page-home-01.jpg",
+            "source": "templates\/form-check-availability-block-for-page-home-01.json",
+            "preview_url": "https:\/\/demothemesflat.com\/kinghokit\/template-kit\/form-check-availability-block-for-page-home-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Check Availability Block for Page Home 03",
+            "screenshot": "screenshots\/form-check-availability-block-for-page-home-03.jpg",
+            "source": "templates\/form-check-availability-block-for-page-home-03.json",
+            "preview_url": "https:\/\/demothemesflat.com\/kinghokit\/template-kit\/form-check-availability-block-for-page-home-03\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Email Block for Page Home 03",
+            "screenshot": "screenshots\/form-email-block-for-page-home-03.jpg",
+            "source": "templates\/form-email-block-for-page-home-03.json",
+            "preview_url": "https:\/\/demothemesflat.com\/kinghokit\/template-kit\/form-email-block-for-page-home-03\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Contact Block for Page Contact Us",
+            "screenshot": "screenshots\/form-contact-block-for-page-contact-us.jpg",
+            "source": "templates\/form-contact-block-for-page-contact-us.json",
+            "preview_url": "https:\/\/demothemesflat.com\/kinghokit\/template-kit\/form-contact-block-for-page-contact-us\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tab Feature Block for Page Home 01",
+            "screenshot": "screenshots\/tab-feature-block-for-page-home-01.jpg",
+            "source": "templates\/tab-feature-block-for-page-home-01.json",
+            "preview_url": "https:\/\/demothemesflat.com\/kinghokit\/template-kit\/tab-feature-block-for-page-home-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Slider Feedback Block for Page Home 02",
+            "screenshot": "screenshots\/slider-feedback-block-for-page-home-02.jpg",
+            "source": "templates\/slider-feedback-block-for-page-home-02.json",
+            "preview_url": "https:\/\/demothemesflat.com\/kinghokit\/template-kit\/slider-feedback-block-for-page-home-02\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Slider Rooms Block 01 for Page Home 03",
+            "screenshot": "screenshots\/slider-rooms-block-01-for-page-home-03.jpg",
+            "source": "templates\/slider-rooms-block-01-for-page-home-03.json",
+            "preview_url": "https:\/\/demothemesflat.com\/kinghokit\/template-kit\/slider-rooms-block-01-for-page-home-03\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Slider Testimonial Block for Page Our Team",
+            "screenshot": "screenshots\/slider-testimonial-block-for-page-our-team.jpg",
+            "source": "templates\/slider-testimonial-block-for-page-our-team.json",
+            "preview_url": "https:\/\/demothemesflat.com\/kinghokit\/template-kit\/slider-testimonial-block-for-page-our-team\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 01",
+            "screenshot": "screenshots\/home-01.jpg",
+            "source": "templates\/home-01.json",
+            "preview_url": "https:\/\/demothemesflat.com\/kinghokit\/template-kit\/home-01\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 02",
+            "screenshot": "screenshots\/home-02.jpg",
+            "source": "templates\/home-02.json",
+            "preview_url": "https:\/\/demothemesflat.com\/kinghokit\/template-kit\/home-02\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 03",
+            "screenshot": "screenshots\/home-03.jpg",
+            "source": "templates\/home-03.json",
+            "preview_url": "https:\/\/demothemesflat.com\/kinghokit\/template-kit\/home-03\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/demothemesflat.com\/kinghokit\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Services",
+            "screenshot": "screenshots\/our-services.jpg",
+            "source": "templates\/our-services.json",
+            "preview_url": "https:\/\/demothemesflat.com\/kinghokit\/template-kit\/our-services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Room Grid",
+            "screenshot": "screenshots\/room-grid.jpg",
+            "source": "templates\/room-grid.json",
+            "preview_url": "https:\/\/demothemesflat.com\/kinghokit\/template-kit\/room-grid\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/demothemesflat.com\/kinghokit\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Gallery",
+            "screenshot": "screenshots\/our-gallery.jpg",
+            "source": "templates\/our-gallery.json",
+            "preview_url": "https:\/\/demothemesflat.com\/kinghokit\/template-kit\/our-gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Pricing",
+            "screenshot": "screenshots\/our-pricing.jpg",
+            "source": "templates\/our-pricing.json",
+            "preview_url": "https:\/\/demothemesflat.com\/kinghokit\/template-kit\/our-pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "News",
+            "screenshot": "screenshots\/news.jpg",
+            "source": "templates\/news.json",
+            "preview_url": "https:\/\/demothemesflat.com\/kinghokit\/template-kit\/news\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/demothemesflat.com\/kinghokit\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.4.7",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.4.0",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.5.6",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Sticky Header Effects for Elementor",
+            "version": "1.4.7",
+            "file": "sticky-header-effects-for-elementor\/sticky-header-effects-for-elementor.php",
+            "author": "Rwattner"
+        },
+        {
+            "name": "Themesflat Addons For Elementor",
+            "version": "1.8.6",
+            "file": "themesflat-addons-for-elementor\/themesflat-addons-for-elementor.php",
+            "author": "Themesflat"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo-hotel-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/logo-hotel-01.png",
+            "templates": [
+                {
+                    "source": "templates\/header-style-01.json",
+                    "name": "Header style 01"
+                },
+                {
+                    "source": "templates\/header-style-02.json",
+                    "name": "Header style 02"
+                },
+                {
+                    "source": "templates\/header-style-03.json",
+                    "name": "Header style 03"
+                },
+                {
+                    "source": "templates\/footer-style-01.json",
+                    "name": "Footer style 01"
+                },
+                {
+                    "source": "templates\/footer-style-02.json",
+                    "name": "Footer style 02"
+                },
+                {
+                    "source": "templates\/footer-style-03.json",
+                    "name": "Footer style 03"
+                }
+            ],
+            "filesize": 3343,
+            "dimensions": [
+                103,
+                75
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-hotel-03.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/logo-hotel-03.png",
+            "templates": [
+                {
+                    "source": "templates\/header-style-02.json",
+                    "name": "Header style 02"
+                }
+            ],
+            "filesize": 3157,
+            "dimensions": [
+                103,
+                81
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-home-03.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/logo-home-03.png",
+            "templates": [
+                {
+                    "source": "templates\/header-style-03.json",
+                    "name": "Header style 03"
+                }
+            ],
+            "filesize": 1487,
+            "dimensions": [
+                92,
+                36
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "img-arward-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/img-arward-01.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-01.json",
+                    "name": "Footer style 01"
+                },
+                {
+                    "source": "templates\/footer-style-03.json",
+                    "name": "Footer style 03"
+                }
+            ],
+            "filesize": 2447,
+            "dimensions": [
+                53,
+                46
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "img-arward-02.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/img-arward-02.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-01.json",
+                    "name": "Footer style 01"
+                },
+                {
+                    "source": "templates\/footer-style-03.json",
+                    "name": "Footer style 03"
+                }
+            ],
+            "filesize": 2015,
+            "dimensions": [
+                67,
+                46
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "img-arward-03.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/img-arward-03.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-01.json",
+                    "name": "Footer style 01"
+                },
+                {
+                    "source": "templates\/footer-style-03.json",
+                    "name": "Footer style 03"
+                }
+            ],
+            "filesize": 2382,
+            "dimensions": [
+                53,
+                46
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-02.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/logo-02.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-01.json",
+                    "name": "Footer style 01"
+                },
+                {
+                    "source": "templates\/footer-style-02.json",
+                    "name": "Footer style 02"
+                }
+            ],
+            "filesize": 4927,
+            "dimensions": [
+                140,
+                28
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-04png.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/logo-04png.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-01.json",
+                    "name": "Footer style 01"
+                },
+                {
+                    "source": "templates\/footer-style-02.json",
+                    "name": "Footer style 02"
+                }
+            ],
+            "filesize": 4006,
+            "dimensions": [
+                140,
+                28
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-03.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/logo-03.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-01.json",
+                    "name": "Footer style 01"
+                },
+                {
+                    "source": "templates\/footer-style-02.json",
+                    "name": "Footer style 02"
+                }
+            ],
+            "filesize": 4737,
+            "dimensions": [
+                140,
+                28
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "bg-footer-01.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/bg-footer-01-800x221.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-02.json",
+                    "name": "Footer style 02"
+                }
+            ],
+            "filesize": 368917,
+            "dimensions": [
+                1920,
+                531
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Fk9d0cxYqC4"
+        },
+        {
+            "filename": "partner-footer-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/partner-footer-01.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-02.json",
+                    "name": "Footer style 02"
+                }
+            ],
+            "filesize": 2446,
+            "dimensions": [
+                51,
+                46
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "partner-footer-02.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/partner-footer-02.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-02.json",
+                    "name": "Footer style 02"
+                }
+            ],
+            "filesize": 2000,
+            "dimensions": [
+                59,
+                46
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "partner-footer-03.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/partner-footer-03.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-02.json",
+                    "name": "Footer style 02"
+                }
+            ],
+            "filesize": 2380,
+            "dimensions": [
+                53,
+                46
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "bg-video.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/bg-video-800x444.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-feature-block-for-page-home-01.json",
+                    "name": "Tab Feature Block for Page Home 01"
+                }
+            ],
+            "filesize": 382920,
+            "dimensions": [
+                1170,
+                650
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/g51F6-WYzyU"
+        },
+        {
+            "filename": "img_testimonial_Home02-PQNY3TT.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/img_testimonial_Home02-PQNY3TT.jpg",
+            "templates": [
+                {
+                    "source": "templates\/slider-feedback-block-for-page-home-02.json",
+                    "name": "Slider Feedback Block for Page Home 02"
+                }
+            ],
+            "filesize": 64350,
+            "dimensions": [
+                300,
+                383
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PQNY3TT"
+        },
+        {
+            "filename": "icon-quote.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/icon-quote.png",
+            "templates": [
+                {
+                    "source": "templates\/slider-feedback-block-for-page-home-02.json",
+                    "name": "Slider Feedback Block for Page Home 02"
+                }
+            ],
+            "filesize": 3412,
+            "dimensions": [
+                256,
+                220
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "rooms-01.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/rooms-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/slider-rooms-block-01-for-page-home-03.json",
+                    "name": "Slider Rooms Block 01 for Page Home 03"
+                }
+            ],
+            "filesize": 91566,
+            "dimensions": [
+                410,
+                260
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/L7EwHkq1B2s"
+        },
+        {
+            "filename": "icon-tripadvisor@3x-1.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/icon-tripadvisor@3x-1.png",
+            "templates": [
+                {
+                    "source": "templates\/slider-testimonial-block-for-page-our-team.json",
+                    "name": "Slider Testimonial Block for Page Our Team"
+                }
+            ],
+            "filesize": 5015,
+            "dimensions": [
+                114,
+                80
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "bg-inner-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/bg-inner-01-800x788.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 45895,
+            "dimensions": [
+                858,
+                845
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-heading.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/icon-heading.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1248,
+            "dimensions": [
+                41,
+                40
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img_home01-Y7WfCuz5tn0-unsplash.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/img_home01-Y7WfCuz5tn0-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 61035,
+            "dimensions": [
+                495,
+                566
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Y7WfCuz5tn0"
+        },
+        {
+            "filename": "img-wellcome-01.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/img-wellcome-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 125208,
+            "dimensions": [
+                270,
+                370
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/bd6WND-S-L8"
+        },
+        {
+            "filename": "img-wellcome-02.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/img-wellcome-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 156406,
+            "dimensions": [
+                270,
+                530
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/-27u_GzlAFw"
+        },
+        {
+            "filename": "logo-hotel-02.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/logo-hotel-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 1789,
+            "dimensions": [
+                61,
+                46
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "img-feature-01.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/img-feature-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 106496,
+            "dimensions": [
+                370,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/N_Y88TWmGwA"
+        },
+        {
+            "filename": "img-feature-02.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/img-feature-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 218319,
+            "dimensions": [
+                370,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/4f4YZfDMLeU"
+        },
+        {
+            "filename": "img-feature-03.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/img-feature-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 93536,
+            "dimensions": [
+                370,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Id2IIl1jOB0"
+        },
+        {
+            "filename": "partner-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/partner-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 6301,
+            "dimensions": [
+                168,
+                70
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "partner-02.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/partner-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 4577,
+            "dimensions": [
+                122,
+                70
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "partner-03.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/partner-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 5328,
+            "dimensions": [
+                138,
+                70
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "partner-04.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/partner-04.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 5539,
+            "dimensions": [
+                133,
+                70
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "partner-05.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/partner-05.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 6217,
+            "dimensions": [
+                167,
+                70
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "img-room-01.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/img-room-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 110385,
+            "dimensions": [
+                570,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/aRT5UCf2MYY"
+        },
+        {
+            "filename": "img-room-02.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/img-room-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 108199,
+            "dimensions": [
+                570,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/M8iGdeTSOkg"
+        },
+        {
+            "filename": "img-room-03.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/img-room-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 149104,
+            "dimensions": [
+                570,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/R-w5Q-4Mqm0"
+        },
+        {
+            "filename": "img-room-04.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/img-room-04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 138752,
+            "dimensions": [
+                570,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/CbZ4EDP__VQ"
+        },
+        {
+            "filename": "img-shedule-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/img-shedule-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 25876,
+            "dimensions": [
+                142,
+                142
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.dreamstime.com\/chicken-salad-vegetables-olives-chicken-salad-vegetables-capern-olives-served-plate-white-background-top-image141905341"
+        },
+        {
+            "filename": "icon-open-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/icon-open-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 320,
+            "dimensions": [
+                16,
+                16
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-open-02.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/icon-open-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 299,
+            "dimensions": [
+                18,
+                16
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-open-03.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/icon-open-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 239,
+            "dimensions": [
+                16,
+                16
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-tab-07.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/icon-tab-07.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1300,
+            "dimensions": [
+                50,
+                51
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-tab-12.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/icon-tab-12.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 1594,
+            "dimensions": [
+                67,
+                51
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-tab-09.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/icon-tab-09.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 2046,
+            "dimensions": [
+                50,
+                51
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-tab-10.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/icon-tab-10.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 2048,
+            "dimensions": [
+                59,
+                51
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-tab-11.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/icon-tab-11.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 2412,
+            "dimensions": [
+                54,
+                51
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-tab-06.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/icon-tab-06.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 2071,
+            "dimensions": [
+                51,
+                51
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-feedback-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/icon-feedback-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 7714,
+            "dimensions": [
+                230,
+                256
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img_testimonial_Home01-5EP5GAB.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/img_testimonial_Home01-5EP5GAB.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 6874,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5EP5GAB"
+        },
+        {
+            "filename": "icon-feedback-02.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/icon-feedback-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 11608,
+            "dimensions": [
+                212,
+                256
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img_testimonial_Home01-7REK9UD.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/img_testimonial_Home01-7REK9UD.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 4769,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7REK9UD"
+        },
+        {
+            "filename": "icon-feedback-03.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/icon-feedback-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 5647,
+            "dimensions": [
+                256,
+                256
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img_testimonial_Home01-PW2BQD5.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/img_testimonial_Home01-PW2BQD5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 5077,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PW2BQD5"
+        },
+        {
+            "filename": "bg-breakfast.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/bg-breakfast-800x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 394009,
+            "dimensions": [
+                1170,
+                489
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/wVoP_Q2Bg_A"
+        },
+        {
+            "filename": "icon-breakfast-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/icon-breakfast-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 4806,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "bg-banner-home2.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/bg-banner-home2-800x404.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 272634,
+            "dimensions": [
+                1920,
+                970
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Yrxr3bsPdS0"
+        },
+        {
+            "filename": "img-wellcom-02.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/img-wellcom-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 374225,
+            "dimensions": [
+                520,
+                700
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/-27u_GzlAFw"
+        },
+        {
+            "filename": "icon-map-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/icon-map-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 12828,
+            "dimensions": [
+                290,
+                243
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Trustpilot_logo.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/Trustpilot_logo.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 2903,
+            "dimensions": [
+                145,
+                36
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-feature.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/icon-feature.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                }
+            ],
+            "filesize": 823,
+            "dimensions": [
+                25,
+                30
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-service-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/icon-service-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 1657,
+            "dimensions": [
+                44,
+                44
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-service-03.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/icon-service-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 1389,
+            "dimensions": [
+                59,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-service-02.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/icon-service-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 1742,
+            "dimensions": [
+                50,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "our-room-01.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/our-room-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 136387,
+            "dimensions": [
+                410,
+                410
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Id2IIl1jOB0"
+        },
+        {
+            "filename": "our-room-02.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/our-room-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 111430,
+            "dimensions": [
+                410,
+                410
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/FX61rYaAfCQ"
+        },
+        {
+            "filename": "our-room-03.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/our-room-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 118276,
+            "dimensions": [
+                410,
+                410
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/ffFnddUEaL4"
+        },
+        {
+            "filename": "our-room-04.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/our-room-04-800x386.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 273403,
+            "dimensions": [
+                850,
+                410
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/op9evfg3qww"
+        },
+        {
+            "filename": "our-room-05.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/our-room-05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 189104,
+            "dimensions": [
+                410,
+                410
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/4sDvPgKK4jE"
+        },
+        {
+            "filename": "img_salon_Home02-NCF39MK.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/img_salon_Home02-NCF39MK.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 98491,
+            "dimensions": [
+                645,
+                522
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NCF39MK"
+        },
+        {
+            "filename": "img-salon-02.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/img-salon-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 249413,
+            "dimensions": [
+                645,
+                522
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/_wdOjxXPxUU"
+        },
+        {
+            "filename": "bg-contact-now.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/bg-contact-now-800x124.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 171960,
+            "dimensions": [
+                1290,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/YCW4BEhKluw"
+        },
+        {
+            "filename": "bg-counter-room.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/bg-counter-room-800x146.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 364422,
+            "dimensions": [
+                1920,
+                350
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/R5v8Xtc0ecg"
+        },
+        {
+            "filename": "img-accordin-01.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/img-accordin-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 474748,
+            "dimensions": [
+                600,
+                681
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/CepDpEiALqM"
+        },
+        {
+            "filename": "bg-faq.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/10\/bg-faq.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 122038,
+            "dimensions": [
+                325,
+                681
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/GFcWwwGNu_w"
+        },
+        {
+            "filename": "bg-pricing.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/bg-pricing-800x318.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 278357,
+            "dimensions": [
+                1920,
+                762
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/DGa0LQ0yDPc"
+        },
+        {
+            "filename": "bg-banner-05.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/bg-banner-05-800x457.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 280266,
+            "dimensions": [
+                1180,
+                674
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/a8iCZvtrHpQ"
+        },
+        {
+            "filename": "img-wellcom-04.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/img-wellcom-04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 139925,
+            "dimensions": [
+                410,
+                370
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/h0AnGGgseio"
+        },
+        {
+            "filename": "img-wellcom-05.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/img-wellcom-05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 182706,
+            "dimensions": [
+                410,
+                520
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/oyxsG2Lh_uA"
+        },
+        {
+            "filename": "img-wellcom-06.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/img-wellcom-06.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 128846,
+            "dimensions": [
+                410,
+                370
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Fy9JXanwJi0"
+        },
+        {
+            "filename": "icon-feature-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/icon-feature-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 1079,
+            "dimensions": [
+                36,
+                40
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-feature-02.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/icon-feature-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 1381,
+            "dimensions": [
+                44,
+                40
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-feature-03.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/icon-feature-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 1640,
+            "dimensions": [
+                40,
+                40
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-feature-04.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/icon-feature-04.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 1511,
+            "dimensions": [
+                38,
+                40
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img-form.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/img-form.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 144338,
+            "dimensions": [
+                600,
+                609
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/_6ROq_LmdkM"
+        },
+        {
+            "filename": "room-video-01.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/room-video-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 251993,
+            "dimensions": [
+                435,
+                435
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Koei_7yYtIo"
+        },
+        {
+            "filename": "room-video-02.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/room-video-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 210205,
+            "dimensions": [
+                435,
+                435
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/f-MvFZ6-M3U"
+        },
+        {
+            "filename": "room-video-03.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/room-video-03-800x774.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 215328,
+            "dimensions": [
+                930,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/N4bOFvyrXgo"
+        },
+        {
+            "filename": "room-video-04.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/room-video-04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 203452,
+            "dimensions": [
+                435,
+                435
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/425b2PhNuHA"
+        },
+        {
+            "filename": "room-video-05.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/room-video-05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 193859,
+            "dimensions": [
+                435,
+                435
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/rlwE8f8anOc"
+        },
+        {
+            "filename": "img-counter-01.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/img-counter-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 351122,
+            "dimensions": [
+                600,
+                550
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/-27u_GzlAFw"
+        },
+        {
+            "filename": "gallery-01.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/gallery-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 93419,
+            "dimensions": [
+                384,
+                384
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/TQE2kWqyFGk"
+        },
+        {
+            "filename": "gallery-02.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/gallery-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 100205,
+            "dimensions": [
+                384,
+                384
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/2jlRllahuMk"
+        },
+        {
+            "filename": "gallery-03.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/gallery-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 102514,
+            "dimensions": [
+                384,
+                384
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/qeIuFR5vPm8"
+        },
+        {
+            "filename": "gallery-04.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/gallery-04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 104899,
+            "dimensions": [
+                384,
+                384
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/FD0Ga_KJTwM"
+        },
+        {
+            "filename": "gallery-05.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/gallery-05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 108713,
+            "dimensions": [
+                384,
+                384
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/9uH-hM0VwPg"
+        },
+        {
+            "filename": "bg-inner-page.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/bg-inner-page-800x167.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/room-grid.json",
+                    "name": "Room Grid"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                },
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 485731,
+            "dimensions": [
+                1920,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/giL2fHNr3Lc"
+        },
+        {
+            "filename": "about-us-01.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/about-us-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 116651,
+            "dimensions": [
+                570,
+                550
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/x_VOtnVJeGE"
+        },
+        {
+            "filename": "video-01.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/video-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 133160,
+            "dimensions": [
+                570,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/AH8zKXqFITA"
+        },
+        {
+            "filename": "video-02.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/video-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 216992,
+            "dimensions": [
+                570,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/iAftdIcgpFc"
+        },
+        {
+            "filename": "img-choose-01.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/img-choose-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 124666,
+            "dimensions": [
+                620,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Y7WfCuz5tn0"
+        },
+        {
+            "filename": "service-01.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/service-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 306652,
+            "dimensions": [
+                645,
+                522
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/iAftdIcgpFc"
+        },
+        {
+            "filename": "service-2.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/service-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 203176,
+            "dimensions": [
+                645,
+                522
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/AH8zKXqFITA"
+        },
+        {
+            "filename": "room-grid-01.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/room-grid-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/room-grid.json",
+                    "name": "Room Grid"
+                }
+            ],
+            "filesize": 85039,
+            "dimensions": [
+                370,
+                260
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/L7EwHkq1B2s"
+        },
+        {
+            "filename": "room-grid-02.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/room-grid-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/room-grid.json",
+                    "name": "Room Grid"
+                }
+            ],
+            "filesize": 80261,
+            "dimensions": [
+                370,
+                260
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/PJNO2sLlbB8"
+        },
+        {
+            "filename": "room-grid-03.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/room-grid-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/room-grid.json",
+                    "name": "Room Grid"
+                }
+            ],
+            "filesize": 46979,
+            "dimensions": [
+                370,
+                260
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com"
+        },
+        {
+            "filename": "room-grid-04.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/room-grid-04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/room-grid.json",
+                    "name": "Room Grid"
+                }
+            ],
+            "filesize": 79356,
+            "dimensions": [
+                370,
+                260
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/yoOeM6iXVPY"
+        },
+        {
+            "filename": "room-grid-05.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/room-grid-05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/room-grid.json",
+                    "name": "Room Grid"
+                }
+            ],
+            "filesize": 80705,
+            "dimensions": [
+                370,
+                260
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/xc4oxgAbDmw"
+        },
+        {
+            "filename": "room-grid-06.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/room-grid-06.jpg",
+            "templates": [
+                {
+                    "source": "templates\/room-grid.json",
+                    "name": "Room Grid"
+                }
+            ],
+            "filesize": 44903,
+            "dimensions": [
+                370,
+                260
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/uocSnWMhnAs"
+        },
+        {
+            "filename": "room-grid-07.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/room-grid-07.jpg",
+            "templates": [
+                {
+                    "source": "templates\/room-grid.json",
+                    "name": "Room Grid"
+                }
+            ],
+            "filesize": 46252,
+            "dimensions": [
+                370,
+                260
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com"
+        },
+        {
+            "filename": "room-grid-08.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/room-grid-08.jpg",
+            "templates": [
+                {
+                    "source": "templates\/room-grid.json",
+                    "name": "Room Grid"
+                }
+            ],
+            "filesize": 72381,
+            "dimensions": [
+                370,
+                260
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/emqnSQwQQDo"
+        },
+        {
+            "filename": "room-grid-09.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/room-grid-09.jpg",
+            "templates": [
+                {
+                    "source": "templates\/room-grid.json",
+                    "name": "Room Grid"
+                }
+            ],
+            "filesize": 74065,
+            "dimensions": [
+                370,
+                260
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/pHcLOc_RzQ0"
+        },
+        {
+            "filename": "room-grid-10.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/room-grid-10.jpg",
+            "templates": [
+                {
+                    "source": "templates\/room-grid.json",
+                    "name": "Room Grid"
+                }
+            ],
+            "filesize": 83314,
+            "dimensions": [
+                370,
+                260
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/R-w5Q-4Mqm0"
+        },
+        {
+            "filename": "room-grid-11.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/room-grid-11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/room-grid.json",
+                    "name": "Room Grid"
+                }
+            ],
+            "filesize": 44710,
+            "dimensions": [
+                370,
+                260
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com"
+        },
+        {
+            "filename": "room-grid-12.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/room-grid-12.jpg",
+            "templates": [
+                {
+                    "source": "templates\/room-grid.json",
+                    "name": "Room Grid"
+                }
+            ],
+            "filesize": 78280,
+            "dimensions": [
+                370,
+                260
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/pSDe7ePo0Tc"
+        },
+        {
+            "filename": "img_Team-5EP5GAB.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/img_Team-5EP5GAB.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 51555,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5EP5GAB"
+        },
+        {
+            "filename": "img_Team-7REK9UD.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/img_Team-7REK9UD.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 25446,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7REK9UD"
+        },
+        {
+            "filename": "img_Team-PW2BQD5.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/img_Team-PW2BQD5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 32275,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PW2BQD5"
+        },
+        {
+            "filename": "img_Team-AW5Y4NG.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/img_Team-AW5Y4NG.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 22776,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AW5Y4NG"
+        },
+        {
+            "filename": "img_Team-BYRG62A.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/img_Team-BYRG62A.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 26774,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BYRG62A"
+        },
+        {
+            "filename": "img_Team-KDGDZV2.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/img_Team-KDGDZV2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 31516,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KDGDZV2"
+        },
+        {
+            "filename": "img_Team-JD5CJPP.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/img_Team-JD5CJPP.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 29147,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JD5CJPP"
+        },
+        {
+            "filename": "img_Team-QPWUJCX.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/img_Team-QPWUJCX.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 24311,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QPWUJCX"
+        },
+        {
+            "filename": "gallery-01-1.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/gallery-01-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                }
+            ],
+            "filesize": 134044,
+            "dimensions": [
+                370,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Cj7a21nHLyo"
+        },
+        {
+            "filename": "gallery-02-1.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/gallery-02-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                }
+            ],
+            "filesize": 89022,
+            "dimensions": [
+                370,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/IP8_8izFE4k"
+        },
+        {
+            "filename": "gallery-03-1.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/gallery-03-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                }
+            ],
+            "filesize": 81120,
+            "dimensions": [
+                370,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/p3UWyaujtQo"
+        },
+        {
+            "filename": "gallery-04-1.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/gallery-04-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                }
+            ],
+            "filesize": 93830,
+            "dimensions": [
+                370,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/lw3Lqe2K7xc"
+        },
+        {
+            "filename": "gallery-05-1.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/gallery-05-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                }
+            ],
+            "filesize": 125547,
+            "dimensions": [
+                370,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/RiOhen_OLPs"
+        },
+        {
+            "filename": "gallery-06.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/gallery-06.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                }
+            ],
+            "filesize": 90243,
+            "dimensions": [
+                370,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/gwV9eklemSg"
+        },
+        {
+            "filename": "gallery-07.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/gallery-07.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                }
+            ],
+            "filesize": 74060,
+            "dimensions": [
+                370,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/AkqnZZR1oL4"
+        },
+        {
+            "filename": "gallery-08.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/gallery-08.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                }
+            ],
+            "filesize": 58814,
+            "dimensions": [
+                370,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/lTrbjFd8Iwo"
+        },
+        {
+            "filename": "gallery-09.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/gallery-09.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                }
+            ],
+            "filesize": 105471,
+            "dimensions": [
+                370,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/GHCVUtBECuY"
+        },
+        {
+            "filename": "gallery-010.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/gallery-010.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                }
+            ],
+            "filesize": 180434,
+            "dimensions": [
+                370,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/t7zYZzO_CX0"
+        },
+        {
+            "filename": "gallery-11.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/gallery-11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                }
+            ],
+            "filesize": 75073,
+            "dimensions": [
+                370,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/tOVmshavtoo"
+        },
+        {
+            "filename": "gallery-12.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/gallery-12.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                }
+            ],
+            "filesize": 88562,
+            "dimensions": [
+                370,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/QZGQO3NvsLo"
+        },
+        {
+            "filename": "gallery-13.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/gallery-13.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                }
+            ],
+            "filesize": 156535,
+            "dimensions": [
+                370,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/1emWndlDHs0"
+        },
+        {
+            "filename": "gallery-14.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/gallery-14.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                }
+            ],
+            "filesize": 104976,
+            "dimensions": [
+                370,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/W5dsm9n6e3g"
+        },
+        {
+            "filename": "gallery-15.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/gallery-15.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                }
+            ],
+            "filesize": 91196,
+            "dimensions": [
+                370,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/lYLeIM2W-cw"
+        },
+        {
+            "filename": "gallery-16.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/gallery-16.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                }
+            ],
+            "filesize": 169579,
+            "dimensions": [
+                370,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/ln_slYqaMiI"
+        },
+        {
+            "filename": "gallery-17.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/gallery-17.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                }
+            ],
+            "filesize": 111368,
+            "dimensions": [
+                370,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/OtXADkUh3-I"
+        },
+        {
+            "filename": "gallery-18.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/gallery-18.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                }
+            ],
+            "filesize": 104702,
+            "dimensions": [
+                370,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/1_B4Zzh7UpQ"
+        },
+        {
+            "filename": "img-platter.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/img-platter.png",
+            "templates": [
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                }
+            ],
+            "filesize": 510348,
+            "dimensions": [
+                626,
+                599
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PSDNUX6"
+        },
+        {
+            "filename": "img_Blog-527TEPX.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/img_Blog-527TEPX.jpg",
+            "templates": [
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                }
+            ],
+            "filesize": 9137,
+            "dimensions": [
+                140,
+                140
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-527TEPX"
+        },
+        {
+            "filename": "icon-mail.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/icon-mail.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 8334,
+            "dimensions": [
+                156,
+                153
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-phone.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/icon-phone.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 10113,
+            "dimensions": [
+                152,
+                152
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-map.png",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/icon-map.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 9559,
+            "dimensions": [
+                153,
+                156
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img-contact.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.com\/kinghokit\/wp-content\/uploads\/2021\/11\/img-contact.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 413459,
+            "dimensions": [
+                600,
+                709
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Qkf0dfItwYc"
+        }
+    ]
+}

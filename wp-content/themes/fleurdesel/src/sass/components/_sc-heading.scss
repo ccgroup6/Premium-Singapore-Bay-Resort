@@ -1,0 +1,14 @@
+// SC: Heading
+.fleurdesel__meta {
+  letter-spacing: 3px;
+}
+
+.fleurdesel__title {
+  line-height: 75px;
+
+  @include media("<md") {
+    font-size: 2.5rem;
+    line-height: 1.2;
+    word-break: break-word;
+  }
+}

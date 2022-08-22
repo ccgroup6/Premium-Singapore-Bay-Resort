@@ -1,0 +1,126 @@
+/*
+ * jQuery FlexSlider v2.2.0
+ * http://www.woothemes.com/flexslider/
+ *
+ * Copyright 2012 WooThemes
+ * Free to use under the GPLv2 license.
+ * http://www.gnu.org/licenses/gpl-2.0.html
+ *
+ * Contributing author: Tyler Smith (@mbmufffin)
+ */
+
+.flex-container a:active,
+.flexslider a:active,
+.flex-container a:focus,
+.flexslider a:focus  {outline: none;}
+.slides,
+.flex-control-nav,
+.flex-direction-nav {margin: 0; padding: 0; list-style: none; z-index: 300;}
+.flexslider {margin: 0; padding: 0;}
+.flexslider .slides > li {display: none; -webkit-backface-visibility: hidden;}
+.flexslider .slides img {width: 100%; display: block;}
+.flex-control-thumbs img {cursor:pointer;}
+.flex-pauseplay span {text-transform: capitalize;}
+.slides:after {content: "\0020"; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;}
+html[xmlns] .slides {display: block;}
+* html .slides {height: 1%;}
+.no-js .slides > li:first-child {display: block;}
+.flexslider {overflow:hidden; position: relative; z-index:2;}
+.flex-viewport { max-height: 2000px; -webkit-transition: all 1s ease; -moz-transition: all 1s ease; -o-transition: all 1s ease; transition: all 1s ease; }
+.loading .flex-viewport { max-height: 300px; }
+.flexslider .slides { zoom: 1; }
+.carousel li { margin-right: 5px; }
+
+
+/* Direction Nav
+*********************************/
+.flexslider .flex-direction-nav a {
+    z-index: 9999;
+    text-align: center;
+    display: block;
+    width: 60px;
+    height: 60px;
+    outline: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: #f96868;
+    color: #fff;   
+}
+
+.flexslider.directionnav-circle .flex-direction-nav a,
+.flexslider.directionnav-circle-border .flex-direction-nav a {
+    border-radius: 50%;
+}
+
+.flexslider.directionnav-circle-border .flex-direction-nav a {
+    border: 2px solid;
+    background-color: transparent !important;
+}
+
+.flexslider.directionnav-square-border .flex-direction-nav a {
+    border: 2px solid;
+    background-color: transparent !important;
+}
+
+.flexslider .flex-direction-nav a:hover {
+    background-color: #4d4d4d;
+    text-decoration: none;
+    color: #fff;
+}
+
+.flexslider .flex-direction-nav .flex-prev {
+    position: absolute;
+    left: 0;
+}
+
+.flexslider .flex-direction-nav .flex-next {
+    position: absolute;
+    right: 0;
+}
+
+.flexslider .flex-direction-nav i {
+    font-size: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+
+/* Control Nav
+*********************************/
+.flexslider .flex-control-nav {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 27px;
+    text-align: center;
+}
+
+.flexslider .flex-control-nav li {
+    margin: 0 3px;
+    display: inline-block;
+    zoom: 1;
+    *display: inline;
+}
+
+.flexslider .flex-control-nav li a {
+    z-index: 9999px;
+    width: 7px;
+    height: 7px;
+    display: block;
+    background-color: #4d4d4d;
+    cursor: pointer;
+    text-indent: -9999px;    
+}
+
+.flexslider.controlnav-circle .flex-control-nav li a {
+    -webkit-border-radius: 50%;
+       -moz-border-radius: 50%;
+         -o-border-radius: 50%;
+            border-radius: 50%;
+}
+
+.flexslider .flex-control-nav li a.flex-active {
+    background-color: #f96868; 
+}

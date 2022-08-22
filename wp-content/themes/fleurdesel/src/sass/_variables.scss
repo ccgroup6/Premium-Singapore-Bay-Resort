@@ -1,0 +1,57 @@
+//== Breakpoints
+// $breakpoints: ('sm': 540px, 'md': 720px, 'lg': 960px, 'xl': 1170px);
+
+//== Colors
+$color-1: #b98036;
+$color-2: #1c1c1c;
+$color-3: #e8e8e8;
+$color-4: #898989;
+
+// Fonts
+//
+// Font, line-height, and color for body text, headings, and more.
+$font-1: "Playfair Display", serif;
+$font-2: "Roboto", sans-serif;
+
+$font-family-base: $font-2;
+
+$font-size-h1: 3.75rem;
+$font-size-h2: 3.125rem;
+$font-size-h3: 2.5rem;
+$font-size-h4: 1.875rem;
+$font-size-h5: 1.5625rem;
+$font-size-h6: 1.25rem;
+
+$line-height-base: 1.75;
+
+$headings-font-weight:   700;
+
+$brand-primary: $color-1;
+$body-color: $color-2;
+$link-color: #000;
+$link-hover-color: $color-1;
+$link-hover-decoration: none;
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1170px
+);
+
+$border-radius: 0;
+$border-radius-lg: 0;
+$border-radius-sm: 0;
+
+$input-border-color: $color-3;
+$input-line-height: 2;
+
+// Slick
+$slick-loader-path: "../../src/images/";
+$slick-font-family: "FontAwesome";
+$slick-prev-character: "\f053";
+$slick-next-character: "\f054";
+$slick-dot-character: "\f111";
+$slick-dot-color: $color-1;
+$slick-dot-color-active: #fff;
+$slick-dot-size: 7px;

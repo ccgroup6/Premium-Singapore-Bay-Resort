@@ -1,0 +1,77 @@
+// SC: Mailchimp
+.fleurdesel-mailchimp {
+  position: relative;
+  border: 1px solid $color-3;
+  transition: all .4s ease;
+
+  &:hover {
+    border-color: $color-1;
+  }
+
+  @include fleurstyle(true, $color-1, 8px, top, true);
+
+  input[type="text"],
+  input[type="email"] {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    border-color: transparent;
+    color: $color-1;
+    padding: 0;
+    vertical-align: middle;
+
+    @include media(">=sm") {
+      width: 365px;
+    }
+
+    // Firefox
+    &::-moz-placeholder {
+      color: $color-1;
+      opacity: 1; // Override Firefox's unusual default opacity; see https://github.com/twbs/bootstrap/pull/11526
+      transition: all .4s ease;
+    }
+    &:-ms-input-placeholder { color: $color-1; transition: all .4s ease; } // Internet Explorer 10+
+    &::-webkit-input-placeholder  { color: $color-1; transition: all .4s ease; } // Safari and Chrome
+
+    &:focus {
+      // Firefox
+      &::-moz-placeholder {
+        color: $color-3;
+        opacity: 1; // Override Firefox's unusual default opacity; see https://github.com/twbs/bootstrap/pull/11526
+      }
+      &:-ms-input-placeholder { color: $color-3; } // Internet Explorer 10+
+      &::-webkit-input-placeholder  { color: $color-3; } // Safari and Chrome
+    }
+  }
+
+  button {
+    background: none transparent;
+    color: $color-1;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+
+    &:focus,
+    &:active,
+    &:active:focus {
+      outline: none;
+      box-shadow: none;
+    }
+  }
+}
+
+.fleurdesel-mailchimp__title {
+  color: #fff;
+}
+
+.fleurdesel-mailchimp--black {
+  .fleurdesel-mailchimp__title {
+    color: #000;
+  }
+}
+
+.fleurdesel-mailchimp__wrap {
+  padding: 50px 100px;
+
+  @include fleurstyle(true, $color-1, 8px, bottom, true);
+}

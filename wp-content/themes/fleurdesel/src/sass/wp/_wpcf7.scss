@@ -1,0 +1,32 @@
+// Contact Form 7
+.wpcf7-form > p {
+  @extend .form-group;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.wpcf7-form br {
+  display: none !important;
+}
+
+.wpcf7-not-valid {
+  border-color: $brand-danger !important;
+}
+
+span.wpcf7-not-valid-tip {
+  display: block;
+  font-size: 12px;
+  padding-top: 5px;
+  color: $brand-danger;
+}
+
+div.wpcf7-response-output {
+  @extend .alert;
+  margin: 0 0 15px !important;
+}
+
+div.wpcf7-validation-errors {
+  @extend .alert-danger;
+}

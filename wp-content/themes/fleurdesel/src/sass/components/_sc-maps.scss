@@ -1,0 +1,65 @@
+// SC: Maps
+.fleurdesel-map {
+  position: relative;
+  overflow: hidden;
+}
+
+.fleurdesel-map__data {
+  padding: 30px 50px;
+
+  span {
+    vertical-align: text-top;
+  }
+}
+
+.fleurdesel-map__icon {
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+  border-radius: 100%;
+  background-color: $color-1;
+  color: #fff;
+  cursor: pointer;
+  z-index: 10;
+  transform: translateX(-50%);
+  transition: all .4s ease;
+
+  @include absolute(null,null,-30px, 50%);
+}
+
+.fleurdesel-map__data {
+  margin: auto;
+  background-color: #fff;
+  box-shadow: 0px 10px 30px 0px rgba(1, 1, 1, 0.2);
+  border: 1px solid $color-3;
+  z-index: 9;
+  transition: all .4s ease;
+
+  @include media(">=lg") {
+    min-width: 600px;
+    max-width: 945px;
+  }
+}
+
+.fleurdesel-map--popup {
+  .fleurdesel-map__data {
+    height: 340px;
+
+    @include center();
+  }
+
+  .fleurdesel-map__data.off {
+    top: -20px;
+    transform: translate(-50%,-100%);
+
+    .fleurdesel-map__icon {
+      bottom: -50px;
+      border-radius: 0 0 50% 50%;
+
+      &:hover {
+        bottom: -70px;
+      }
+    }
+  }
+}

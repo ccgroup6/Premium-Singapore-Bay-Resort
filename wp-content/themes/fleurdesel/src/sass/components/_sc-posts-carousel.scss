@@ -1,0 +1,79 @@
+// SC: Posts Carousel
+.fleurdesel-posts-carousel__item {
+  margin-bottom: 30px;
+
+  .post-media {
+    background-color: transparent !important;
+
+    &:before {
+      display: none !important;
+    }
+  }
+
+  .post-image {
+    margin-bottom: 25px;
+    position: relative;
+
+    &:before {
+      @include paddingTop(360,260);
+    }
+
+    img {
+      width: 100%;
+
+      @include absolute(0,0,0,0);
+    }
+  }
+
+  .post-data {
+    padding: 0 30px;
+  }
+
+  .post-date {
+    font-size: 0.750rem;
+    letter-spacing: 3px;
+    margin-bottom: 5px;
+
+    a {
+      color: $color-1;
+    }
+  }
+
+  .post-title {
+    margin-bottom: 30px;
+    line-height: 1.4;
+    font-size: 1.5625rem;
+
+    a {
+      display: block;
+    }
+  }
+
+  .post-meta {
+    display: none;
+    font-size: 14px;
+    color: $color-4;
+    margin-bottom: 30px;
+    margin-top: -15px;
+
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    li {
+      display: inline-block;
+    }
+
+    a {
+      font-weight: 600;
+    }
+  }
+
+  .post-content {
+    > p {
+      display: none;
+    }
+  }
+}

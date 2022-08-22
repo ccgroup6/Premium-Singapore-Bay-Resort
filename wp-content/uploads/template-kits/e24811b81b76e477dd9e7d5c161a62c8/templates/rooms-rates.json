@@ -1,0 +1,1410 @@
+{
+    "version": "0.4",
+    "title": "Rooms &#038; Rates",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "4ce366",
+            "settings": {
+                "background_background": "classic",
+                "background_image": {
+                    "url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/header_bg.png",
+                    "id": "2112"
+                },
+                "background_position": "center center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "margin": {
+                    "unit": "px",
+                    "top": "",
+                    "right": 0,
+                    "bottom": "",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "margin_tablet": {
+                    "unit": "px",
+                    "top": "",
+                    "right": 0,
+                    "bottom": "",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "",
+                    "right": 0,
+                    "bottom": "",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "231",
+                    "right": "0",
+                    "bottom": "148",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "170",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "61d02229",
+                    "settings": {
+                        "_column_size": "100"
+                    },
+                    "elements": [
+                        {
+                            "id": "36e8c9a1",
+                            "settings": {
+                                "title": "Everything you need for a rest",
+                                "align": "center",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=47e9c7e"
+                                },
+                                "header_size": "h1"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "76ecf16b",
+            "settings": {
+                "structure": "30",
+                "margin": {
+                    "unit": "px",
+                    "top": "139",
+                    "right": "0",
+                    "bottom": "54",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "content_position": "middle",
+                "content_width": {
+                    "unit": "px",
+                    "size": "1190",
+                    "sizes": []
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "0",
+                    "bottom": "50",
+                    "left": "0",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "29531277",
+                    "settings": {
+                        "_column_size": "33",
+                        "_inline_size": "25",
+                        "space_between_widgets": "0"
+                    },
+                    "elements": [
+                        {
+                            "id": "58a4029e",
+                            "settings": {
+                                "title": "5.0",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=85c78fe"
+                                },
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "157d8471",
+                            "settings": {
+                                "title": "Exelent",
+                                "header_size": "h6",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=9fe0915",
+                                    "title_color": "globals\/colors?id=8f005b3"
+                                },
+                                "align": "left",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-8",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "6",
+                                    "isLinked": ""
+                                },
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                },
+                {
+                    "id": "6db4ee2c",
+                    "settings": {
+                        "_column_size": "33",
+                        "_inline_size": "49.332",
+                        "space_between_widgets": "0"
+                    },
+                    "elements": [
+                        {
+                            "id": "737a5560",
+                            "settings": {
+                                "title": "\u201cAmazing location and views\u201d",
+                                "align": "center",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=f7204f1"
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "9",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "4",
+                                    "isLinked": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "171769e3",
+                            "settings": {
+                                "title": "Hank Jones",
+                                "header_size": "h6",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=9fe0915",
+                                    "title_color": "globals\/colors?id=accent"
+                                },
+                                "align": "center",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "8",
+                                    "isLinked": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                },
+                {
+                    "id": "11b23079",
+                    "settings": {
+                        "_column_size": "33",
+                        "_inline_size": "25"
+                    },
+                    "elements": [
+                        {
+                            "id": "c0deab1",
+                            "settings": {
+                                "image": {
+                                    "url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/rating.png",
+                                    "id": "1832"
+                                },
+                                "image_size": "full",
+                                "align": "right",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-28",
+                                    "right": "-10",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "align_mobile": "center",
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "-28",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": "1"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "72233f5b",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": "1190",
+                    "sizes": []
+                }
+            },
+            "elements": [
+                {
+                    "id": "4e2424ab",
+                    "settings": {
+                        "_column_size": "100"
+                    },
+                    "elements": [
+                        {
+                            "id": "3441ee8a",
+                            "settings": {
+                                "text": "Divider",
+                                "color": "#E4E7E9"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3ca1efee",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": "89",
+                                    "sizes": []
+                                },
+                                "space_mobile": {
+                                    "unit": "px",
+                                    "size": "20",
+                                    "sizes": []
+                                },
+                                "space_tablet": {
+                                    "unit": "px",
+                                    "size": "70",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "338be99f",
+                            "settings": {
+                                "title": "Inspiring place with exquisite views",
+                                "align": "center",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "49",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=69675d0"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "22600220",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": "1170",
+                    "sizes": []
+                },
+                "custom_height": {
+                    "unit": "px",
+                    "size": "",
+                    "sizes": []
+                }
+            },
+            "elements": [
+                {
+                    "id": "5af27692",
+                    "settings": {
+                        "_column_size": "100",
+                        "background_background": "classic",
+                        "background_image": {
+                            "url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/home4-banner.jpg",
+                            "id": "1672"
+                        },
+                        "background_position": "center center",
+                        "background_repeat": "no-repeat",
+                        "background_size": "cover",
+                        "padding": {
+                            "unit": "px",
+                            "top": "530",
+                            "right": "62",
+                            "bottom": "50",
+                            "left": "56",
+                            "isLinked": ""
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "300",
+                            "right": "30",
+                            "bottom": "100",
+                            "left": "30",
+                            "isLinked": ""
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "70",
+                            "right": "20",
+                            "bottom": "40",
+                            "left": "20",
+                            "isLinked": ""
+                        },
+                        "background_overlay_background": "gradient",
+                        "background_overlay_color": "#FFFFFF00",
+                        "background_overlay_color_b": "#7A7A7A",
+                        "background_overlay_opacity": {
+                            "unit": "px",
+                            "size": "0.3",
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "background_overlay_color": "",
+                            "background_overlay_color_b": "globals\/colors?id=secondary"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "47a13ff6",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "2488dc31",
+                                    "settings": {
+                                        "_column_size": "50",
+                                        "_inline_size_tablet": "60",
+                                        "space_between_widgets": "15"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3a107306",
+                                            "settings": {
+                                                "title": "Standard Room",
+                                                "align": "left",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=69675d0",
+                                                    "title_color": "globals\/colors?id=47e9c7e"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "20bb8cd3",
+                                            "settings": {
+                                                "title": "Two Bedroom with Mountain View",
+                                                "align": "left",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "4",
+                                                    "isLinked": ""
+                                                },
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=ed9973f",
+                                                    "title_color": "globals\/colors?id=47e9c7e"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "67419cc4",
+                                    "settings": {
+                                        "_column_size": "50",
+                                        "_inline_size_tablet": "40",
+                                        "content_position": "center"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1c24c5b0",
+                                            "settings": {
+                                                "text": "Book Now",
+                                                "align": "right",
+                                                "align_mobile": "left",
+                                                "background_color": "#DA975A00",
+                                                "border_border": "solid",
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": "1"
+                                                },
+                                                "__globals__": {
+                                                    "button_text_color": "globals\/colors?id=47e9c7e",
+                                                    "button_background_hover_color": "globals\/colors?id=accent",
+                                                    "border_color": "globals\/colors?id=47e9c7e",
+                                                    "button_hover_border_color": "globals\/colors?id=accent"
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "19",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": ""
+                                                },
+                                                "link": {
+                                                    "url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/single-listing\/",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "116a2dd4",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": "1170",
+                    "sizes": []
+                },
+                "custom_height": {
+                    "unit": "px",
+                    "size": "",
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "85",
+                    "right": "0",
+                    "bottom": "85",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": "0",
+                    "bottom": "30",
+                    "left": "0",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "21a9d281",
+                    "settings": {
+                        "_column_size": "100",
+                        "background_background": "classic",
+                        "background_image": {
+                            "url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/room.jpg",
+                            "id": "2281"
+                        },
+                        "background_position": "center center",
+                        "background_repeat": "no-repeat",
+                        "background_size": "cover",
+                        "padding": {
+                            "unit": "px",
+                            "top": "526",
+                            "right": "62",
+                            "bottom": "50",
+                            "left": "56",
+                            "isLinked": ""
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "300",
+                            "right": "30",
+                            "bottom": "100",
+                            "left": "30",
+                            "isLinked": ""
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "70",
+                            "right": "20",
+                            "bottom": "40",
+                            "left": "20",
+                            "isLinked": ""
+                        },
+                        "background_overlay_background": "gradient",
+                        "background_overlay_color": "#02010100",
+                        "background_overlay_opacity": {
+                            "unit": "px",
+                            "size": "0.3",
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "background_overlay_color_b": "globals\/colors?id=secondary"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "b331b91",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "30533809",
+                                    "settings": {
+                                        "_column_size": "50",
+                                        "_inline_size_tablet": "60",
+                                        "space_between_widgets": "15"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4d6e3c66",
+                                            "settings": {
+                                                "title": "Ocean View Room",
+                                                "align": "left",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=69675d0",
+                                                    "title_color": "globals\/colors?id=47e9c7e"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "5f24fef9",
+                                            "settings": {
+                                                "title": "Ocean Family Delux",
+                                                "align": "left",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "4",
+                                                    "isLinked": ""
+                                                },
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=ed9973f",
+                                                    "title_color": "globals\/colors?id=47e9c7e"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "7f6ca50f",
+                                    "settings": {
+                                        "_column_size": "50",
+                                        "_inline_size_tablet": "40",
+                                        "content_position": "center"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "d74488e",
+                                            "settings": {
+                                                "text": "Book Now",
+                                                "align": "right",
+                                                "align_mobile": "left",
+                                                "background_color": "#DA975A00",
+                                                "border_border": "solid",
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": "1"
+                                                },
+                                                "__globals__": {
+                                                    "button_text_color": "globals\/colors?id=47e9c7e",
+                                                    "button_background_hover_color": "globals\/colors?id=accent",
+                                                    "border_color": "globals\/colors?id=47e9c7e",
+                                                    "button_hover_border_color": "globals\/colors?id=accent"
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "19",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": ""
+                                                },
+                                                "link": {
+                                                    "url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/single-listing-light\/",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "5f8a93a",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": "1170",
+                    "sizes": []
+                },
+                "custom_height": {
+                    "unit": "px",
+                    "size": "",
+                    "sizes": []
+                }
+            },
+            "elements": [
+                {
+                    "id": "6e49678f",
+                    "settings": {
+                        "_column_size": "100",
+                        "background_background": "classic",
+                        "background_image": {
+                            "url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/room-1.jpg",
+                            "id": "2285"
+                        },
+                        "background_position": "center center",
+                        "background_repeat": "no-repeat",
+                        "background_size": "cover",
+                        "padding": {
+                            "unit": "px",
+                            "top": "528",
+                            "right": "62",
+                            "bottom": "50",
+                            "left": "56",
+                            "isLinked": ""
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "300",
+                            "right": "30",
+                            "bottom": "100",
+                            "left": "30",
+                            "isLinked": ""
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "70",
+                            "right": "20",
+                            "bottom": "40",
+                            "left": "20",
+                            "isLinked": ""
+                        },
+                        "background_overlay_background": "gradient",
+                        "background_overlay_color": "#FFFFFF00",
+                        "background_overlay_color_b": "#7A7A7A",
+                        "background_overlay_opacity": {
+                            "unit": "px",
+                            "size": "0.3",
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "background_overlay_color": "",
+                            "background_overlay_color_b": "globals\/colors?id=secondary"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "8e5a710",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "5bb9fd86",
+                                    "settings": {
+                                        "_column_size": "50",
+                                        "_inline_size_tablet": "60",
+                                        "space_between_widgets": "15"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "157420aa",
+                                            "settings": {
+                                                "title": "Private Villa",
+                                                "align": "left",
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=69675d0",
+                                                    "title_color": "globals\/colors?id=47e9c7e"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "25a027cc",
+                                            "settings": {
+                                                "title": "Luxurious Villa with Private Pool",
+                                                "align": "left",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "4",
+                                                    "isLinked": ""
+                                                },
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=ed9973f",
+                                                    "title_color": "globals\/colors?id=47e9c7e"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "45569ae4",
+                                    "settings": {
+                                        "_column_size": "50",
+                                        "_inline_size_tablet": "40",
+                                        "content_position": "center"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2aedc6bd",
+                                            "settings": {
+                                                "text": "Book Now",
+                                                "align": "right",
+                                                "align_mobile": "left",
+                                                "background_color": "#DA975A00",
+                                                "border_border": "solid",
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": "1"
+                                                },
+                                                "__globals__": {
+                                                    "button_text_color": "globals\/colors?id=47e9c7e",
+                                                    "button_background_hover_color": "globals\/colors?id=accent",
+                                                    "border_color": "globals\/colors?id=47e9c7e",
+                                                    "button_hover_border_color": "globals\/colors?id=accent"
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "19",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": ""
+                                                },
+                                                "link": {
+                                                    "url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/single-listing-light\/",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "1976c05",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": "1190",
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "134",
+                    "right": "0",
+                    "bottom": "51",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "margin_tablet": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": "0",
+                    "bottom": "50",
+                    "left": "0",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "5e315fd2",
+                    "settings": {
+                        "_column_size": "100"
+                    },
+                    "elements": [
+                        {
+                            "id": "516facaa",
+                            "settings": {
+                                "title": "FAQ",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "336df477",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": "1190",
+                    "sizes": []
+                },
+                "structure": "20"
+            },
+            "elements": [
+                {
+                    "id": "61da865f",
+                    "settings": {
+                        "_column_size": "50",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "25",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": ""
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": "1"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "106de75c",
+                            "settings": {
+                                "tabs": [
+                                    {
+                                        "tab_title": "What are the easiest way to get to Brooklyn Heights?",
+                                        "tab_content": "<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.<\/p>",
+                                        "_id": "6fd7128"
+                                    },
+                                    {
+                                        "tab_title": "Check-in and Check-out time",
+                                        "tab_content": "<p>You've gotta dance like there's nobody watching, love like you'll never be hurt, sing like there's nobody listening, and live like it's heaven on earth.<\/p>",
+                                        "_id": "ed249cc"
+                                    },
+                                    {
+                                        "tab_title": "Are you Pets Friendly?",
+                                        "tab_content": "<p>You've gotta dance like there's nobody watching, love like you'll never be hurt, sing like there's nobody listening, and live like it's heaven on earth.<\/p>",
+                                        "_id": "b8cfa6c"
+                                    },
+                                    {
+                                        "tab_title": "What are the prices for fitness?",
+                                        "tab_content": "<p>You've gotta dance like there's nobody watching, love like you'll never be hurt, sing like there's nobody listening, and live like it's heaven on earth.<\/p>",
+                                        "_id": "b239503"
+                                    },
+                                    {
+                                        "tab_title": "Do you have Spa?",
+                                        "tab_content": "<p>You've gotta dance like there's nobody watching, love like you'll never be hurt, sing like there's nobody listening, and live like it's heaven on earth.<\/p>",
+                                        "_id": "71cb8cf"
+                                    }
+                                ],
+                                "selected_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "border_color": "#E4E7E9",
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": "23",
+                                    "sizes": []
+                                },
+                                "title_padding": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "28",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "content_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "__globals__": {
+                                    "title_typography_typography": "globals\/typography?id=314ee7b"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "toggle",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                },
+                {
+                    "id": "36a58e61",
+                    "settings": {
+                        "_column_size": "50",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "25",
+                            "isLinked": ""
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": "1"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "3f89feb4",
+                            "settings": {
+                                "tabs": [
+                                    {
+                                        "tab_title": "What is the price for a standard meal?",
+                                        "tab_content": "<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.<\/p>",
+                                        "_id": "6fd7128"
+                                    },
+                                    {
+                                        "tab_title": "Do you have playgrounds for children?",
+                                        "tab_content": "<p>You've gotta dance like there's nobody watching, love like you'll never be hurt, sing like there's nobody listening, and live like it's heaven on earth.<\/p>",
+                                        "_id": "ed249cc"
+                                    },
+                                    {
+                                        "tab_title": "How much cost the wedding dinner package for 1000 guests?",
+                                        "tab_content": "<p>You've gotta dance like there's nobody watching, love like you'll never be hurt, sing like there's nobody listening, and live like it's heaven on earth.<\/p>",
+                                        "_id": "b8cfa6c"
+                                    },
+                                    {
+                                        "tab_title": "What are the limit for payments in cash in any currency?",
+                                        "tab_content": "<p>You've gotta dance like there's nobody watching, love like you'll never be hurt, sing like there's nobody listening, and live like it's heaven on earth.<\/p>",
+                                        "_id": "b239503"
+                                    },
+                                    {
+                                        "tab_title": "Cancellation\/prepayment",
+                                        "tab_content": "<p>You've gotta dance like there's nobody watching, love like you'll never be hurt, sing like there's nobody listening, and live like it's heaven on earth.<\/p>",
+                                        "_id": "71cb8cf"
+                                    }
+                                ],
+                                "selected_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "border_color": "#E4E7E9",
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": "23",
+                                    "sizes": []
+                                },
+                                "title_padding": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "28",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "content_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "__globals__": {
+                                    "title_typography_typography": "globals\/typography?id=314ee7b"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "toggle",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "17f53949",
+            "settings": {
+                "background_background": "classic",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=8f005b3"
+                },
+                "content_width": {
+                    "unit": "px",
+                    "size": "500",
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "160",
+                    "right": "0",
+                    "bottom": "146",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "overflow": "hidden",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/before.png",
+                    "id": "597"
+                },
+                "background_overlay_position": "bottom center",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": "0.03",
+                    "sizes": []
+                },
+                "background_overlay_size": "initial",
+                "background_overlay_size_tablet": "initial",
+                "background_overlay_bg_width": {
+                    "unit": "px",
+                    "size": "1570",
+                    "sizes": []
+                },
+                "background_overlay_bg_width_tablet": {
+                    "unit": "px",
+                    "size": "700",
+                    "sizes": []
+                },
+                "background_overlay_bg_width_mobile": {
+                    "unit": "px",
+                    "size": "569",
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "111",
+                    "right": "0",
+                    "bottom": "20",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "0",
+                    "bottom": "20",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": "0",
+                    "bottom": "70",
+                    "left": "0",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "27806d51",
+                    "settings": {
+                        "_column_size": "100",
+                        "space_between_widgets": "0",
+                        "__globals__": {
+                            "color_link_hover": ""
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "101df189",
+                            "settings": {
+                                "title": "Time to book \nyour stay",
+                                "align": "center",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=47e9c7e",
+                                    "typography_typography": "globals\/typography?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5e992391",
+                            "settings": {
+                                "editor": "1512 Chemin de Stramousse, 06530<br>\nGrasse, Provence-Alpes-C\u00f4te d'Azur, France",
+                                "align": "center",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=47e9c7e"
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "72",
+                                    "right": "0",
+                                    "bottom": "51",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "10",
+                                    "left": "0",
+                                    "isLinked": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "d914221",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "(555) 777 5555",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "55e5fa6"
+                                    },
+                                    {
+                                        "text": "book@brooklyn.com",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "eaf947d"
+                                    }
+                                ],
+                                "icon_align": "center",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=47e9c7e",
+                                    "icon_typography_typography": "globals\/typography?id=cb2670f",
+                                    "text_color_hover": "globals\/colors?id=accent"
+                                },
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": "12",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "27a6175f",
+                            "settings": {
+                                "editor": "<p><strong>Antoine Lavoisier<\/strong> - managing director<\/p>",
+                                "align": "center",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "38",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=143a878",
+                                    "text_color": "globals\/colors?id=accent"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes"
+    }
+}

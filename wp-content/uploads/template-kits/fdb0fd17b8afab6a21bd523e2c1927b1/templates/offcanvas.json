@@ -1,0 +1,437 @@
+{
+    "version": "0.4",
+    "title": "Offcanvas",
+    "type": "popup",
+    "metadata": {
+        "template_type": "section-popup",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "elementor_library_type": "popup",
+        "elementor_pro_conditions": [
+            "include\/general"
+        ],
+        "additional_template_information": [
+            "This is a \"Popup\" template for Elementor Pro.",
+            "This template will display on: Entire Site."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "32da86be",
+            "settings": {
+                "gap": "wider",
+                "content_position": "middle",
+                "padding": {
+                    "unit": "%",
+                    "top": "0",
+                    "right": "5",
+                    "bottom": "0",
+                    "left": "5",
+                    "isLinked": false
+                },
+                "height": "min-height",
+                "custom_height": {
+                    "unit": "vh",
+                    "size": 100,
+                    "sizes": []
+                },
+                "background_background": "classic",
+                "background_color": "#000000"
+            },
+            "elements": [
+                {
+                    "id": "664f8498",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "color_link": "#E69E86"
+                    },
+                    "elements": [
+                        {
+                            "id": "3b46557a",
+                            "settings": {
+                                "image": {
+                                    "id": 25,
+                                    "url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/logo-white.png"
+                                },
+                                "width": {
+                                    "unit": "px",
+                                    "size": 245,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "24",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "20cb268",
+                            "settings": {
+                                "title": "Nullam quis risus eget urna mollis ornare vel eu leo. Aenean lacinia bibendum nulla sed\u00a0",
+                                "align": "center",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=primary",
+                                    "title_color": "globals\/colors?id=ef96df1"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "390596c8",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "@resortly.kit",
+                                        "selected_icon": {
+                                            "value": "fab fa-instagram",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "2d8f144"
+                                    }
+                                ],
+                                "icon_align": "center",
+                                "icon_color": "#FFFFFF",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "text_color": "#FFFFFF",
+                                "icon_typography_typography": "custom",
+                                "icon_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 21,
+                                    "sizes": []
+                                },
+                                "icon_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 0.6,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "16",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3b095533",
+                            "settings": {
+                                "gallery": [
+                                    {
+                                        "id": 419,
+                                        "url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/a-bird-39-s-eye-view-of-the-beach-near-the-resort-56SDZZC.jpg"
+                                    },
+                                    {
+                                        "id": 418,
+                                        "url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/3d-rendering-luxury-tropical-bedroom-suite-in-reso-WBYZSNR.jpg"
+                                    },
+                                    {
+                                        "id": 217,
+                                        "url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/abandoned-hotel-P85U2XF.jpg"
+                                    },
+                                    {
+                                        "id": 430,
+                                        "url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/outdoor-restaurant-prepared-desk-waiting-for-food-FPDFRWT.jpg"
+                                    },
+                                    {
+                                        "id": 424,
+                                        "url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/luxury-family-room-8V32SB5.jpg"
+                                    },
+                                    {
+                                        "id": 427,
+                                        "url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/mountain-ski-resort-PC8JW3U.jpg"
+                                    }
+                                ],
+                                "galleries": [
+                                    {
+                                        "gallery_title": "New Gallery",
+                                        "_id": "080641a"
+                                    }
+                                ],
+                                "columns": 3,
+                                "columns_mobile": 2,
+                                "aspect_ratio": "1:1",
+                                "show_all_galleries_label": "All",
+                                "lazyload": "",
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "24",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "gallery",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7a414e64",
+                            "settings": {
+                                "view": "inline",
+                                "icon_list": [
+                                    {
+                                        "text": "Get in touch",
+                                        "selected_icon": {
+                                            "value": "icon dticon-chatbubble-outline",
+                                            "library": "dticon"
+                                        },
+                                        "_id": "2d8f144",
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    {
+                                        "text": "Direction",
+                                        "selected_icon": {
+                                            "value": "icon dticon-pin-outline",
+                                            "library": "dticon"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "5446574"
+                                    },
+                                    {
+                                        "text": "Gift card",
+                                        "selected_icon": {
+                                            "value": "icon dticon-gift-outline",
+                                            "library": "dticon"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "0d8eccc"
+                                    }
+                                ],
+                                "icon_align": "center",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "text_color": "#FFFFFF",
+                                "icon_typography_typography": "custom",
+                                "icon_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "icon_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.5,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "48",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 38,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "icon_color": "globals\/colors?id=ec25634",
+                                    "text_color_hover": "globals\/colors?id=primary",
+                                    "icon_color_hover": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "32bccaf6",
+                            "settings": {
+                                "social_icon_list": [
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-facebook",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "d497524"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-twitter",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "c5bc324"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-youtube",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "8cd6833"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-instagram",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "c837a4b"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-linkedin",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "dcedee2"
+                                    }
+                                ],
+                                "icon_color": "custom",
+                                "icon_primary_color": "rgba(51, 51, 51, 0)",
+                                "icon_secondary_color": "#FFFFFF",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "icon_spacing": {
+                                    "unit": "px",
+                                    "size": 12,
+                                    "sizes": []
+                                },
+                                "image_border_border": "solid",
+                                "image_border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "image_border_color": "#DEDEDE",
+                                "border_radius": {
+                                    "unit": "%",
+                                    "top": "50",
+                                    "right": "50",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": true
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "hover_animation": "grow",
+                                "__globals__": {
+                                    "hover_secondary_color": "globals\/colors?id=ec25634",
+                                    "hover_border_color": "globals\/colors?id=primary",
+                                    "hover_primary_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "social-icons",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "width": {
+            "unit": "px",
+            "size": "470",
+            "sizes": []
+        },
+        "height_type": "fit_to_screen",
+        "horizontal_position": "right",
+        "vertical_position": "top",
+        "entrance_animation": "slideInRight",
+        "exit_animation": "slideInRight",
+        "entrance_animation_duration": {
+            "unit": "px",
+            "size": "0.4",
+            "sizes": []
+        },
+        "background_background": "classic",
+        "background_image": {
+            "url": "https:\/\/kit.detheme.com\/kelud\/wp-content\/uploads\/sites\/2\/2020\/07\/dark-noise@2x.jpg",
+            "id": "550"
+        },
+        "background_size": "initial",
+        "background_bg_width": {
+            "unit": "px",
+            "size": "340",
+            "sizes": []
+        },
+        "overlay_background_background": "",
+        "overlay_background_color": "",
+        "close_button_color": "#FFFFFF",
+        "close_button_vertical": {
+            "unit": "px",
+            "size": "45",
+            "sizes": []
+        },
+        "close_button_horizontal": {
+            "unit": "%",
+            "size": "88.2",
+            "sizes": []
+        }
+    }
+}

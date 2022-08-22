@@ -1,0 +1,38 @@
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="number"],
+input[type="tel"],
+input[type="range"],
+input[type="date"],
+input[type="month"],
+input[type="week"],
+input[type="time"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="color"],
+input[type="value"],
+textarea,
+select {
+  @extend .form-control;
+
+  padding: 0.25rem 0.75rem;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  appearance: none;
+  margin: 0;
+}
+
+button,
+input[type="submit"] {
+  @extend .btn;
+  @extend .btn-primary;
+}
+
+input[type=number] {
+  -moz-appearance:textfield;
+}

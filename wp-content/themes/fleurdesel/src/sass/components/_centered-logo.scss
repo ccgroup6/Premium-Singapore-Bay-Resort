@@ -1,0 +1,63 @@
+.centered-logo {
+  position: relative;
+  min-height: 50px;
+}
+
+.centered-logo__logo {
+  text-align: center;
+}
+
+.centered-logo__text {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  transform: translateY(-50%);
+  font-size: 13px;
+  color: $color-2;
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    margin-right: 11px;
+
+    li {
+      display: inline-block;
+      margin-right: 10px;
+    }
+  }
+
+  a {
+    color: inherit;
+
+    &:hover,
+    &:focus {
+      color: $color-1;
+    }
+  }
+
+  i {
+    margin-right: 3px;
+  }
+
+  span {
+    margin-right: 16px;
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+
+  .social-icons {
+    a {
+      font-size: inherit;
+      margin-right: 4px;
+
+      &:last-child {
+        margin-right: 0;
+      }
+    }
+  }
+}

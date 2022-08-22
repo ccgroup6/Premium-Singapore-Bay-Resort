@@ -1,0 +1,874 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Luxury Hotel",
+    "page_builder": "elementor",
+    "kit_version": "1.0.2",
+    "templates": [
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.png",
+            "source": "templates\/contact-us.json",
+            "preview_url": "http:\/\/luxuryhotel.wpbuilt.co\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Accommodation",
+            "screenshot": "screenshots\/accommodation.png",
+            "source": "templates\/accommodation.json",
+            "preview_url": "http:\/\/luxuryhotel.wpbuilt.co\/template-kit\/accommodation\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.png",
+            "source": "templates\/about-us.json",
+            "preview_url": "http:\/\/luxuryhotel.wpbuilt.co\/template-kit\/about-us\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.png",
+            "source": "templates\/home.json",
+            "preview_url": "http:\/\/luxuryhotel.wpbuilt.co\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.png",
+            "source": "templates\/404.json",
+            "preview_url": "http:\/\/luxuryhotel.wpbuilt.co\/?elementor_library=page-not-found",
+            "type": "single",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog Archive",
+            "screenshot": "screenshots\/blog-archive.png",
+            "source": "templates\/blog-archive.json",
+            "preview_url": "http:\/\/luxuryhotel.wpbuilt.co\/?elementor_library=hotel-play-more-blog-archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.png",
+            "source": "templates\/popup.json",
+            "preview_url": "http:\/\/luxuryhotel.wpbuilt.co\/?elementor_library=template-kit-hotel-popup",
+            "type": "popup",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "popup",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Popup\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Blog",
+            "screenshot": "screenshots\/single-blog.png",
+            "source": "templates\/single-blog.json",
+            "preview_url": "http:\/\/luxuryhotel.wpbuilt.co\/?elementor_library=hotel-play-mode-single-blog",
+            "type": "single",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "http:\/\/luxuryhotel.wpbuilt.co\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.png",
+            "source": "templates\/footer.json",
+            "preview_url": "http:\/\/luxuryhotel.wpbuilt.co\/?elementor_library=hotel-play-mode-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.2",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "2.9.7",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "luxury-hero-bg.jpg",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/luxury-hero-bg-600x256.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/accommodation.json",
+                    "name": "Accommodation"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/blog-archive.json",
+                    "name": "Blog Archive"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 171541,
+            "dimensions": [
+                1920,
+                820
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-relaxing-by-the-pool-in-a-luxury-hotel-resor-JQGLFG6?irgwc=1&clickid=Sxh35PyoYxyOR%3AqwUx0Mo3wwUkixGxWQZRx3VQ0&iradid=275988&irpid=27795&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_27795&utm_medium=affiliate&utm_source=impact_radius"
+        },
+        {
+            "filename": "luxuarious-bg.png",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/luxuarious-bg.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 36319,
+            "dimensions": [
+                1493,
+                411
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "luxury-premiumroom-1.jpg",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/luxury-premiumroom-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/accommodation.json",
+                    "name": "Accommodation"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 41014,
+            "dimensions": [
+                400,
+                275
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/front-view-of-a-bright-natural-bedroom-interior-wi-YN8U52B?irgwc=1&clickid=Sxh35PyoYxyOR%3AqwUx0Mo3wwUkixGxXEZRx3VQ0&iradid=275988&irpid=27795&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_27795&utm_medium=affiliate&utm_source=impact_radius"
+        },
+        {
+            "filename": "luxury-premiumroom-2.jpg",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/luxury-premiumroom-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/accommodation.json",
+                    "name": "Accommodation"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 44942,
+            "dimensions": [
+                400,
+                275
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/grey-chair-in-bright-bedroom-PZFQJNS?irgwc=1&clickid=Sxh35PyoYxyOR%3AqwUx0Mo3wwUkixGzwQZRx3VQ0&iradid=275988&irpid=27795&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_27795&utm_medium=affiliate&utm_source=impact_radius"
+        },
+        {
+            "filename": "luxury-premiumroom-3.jpg",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/luxury-premiumroom-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/accommodation.json",
+                    "name": "Accommodation"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 43212,
+            "dimensions": [
+                400,
+                275
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hammock-in-cozy-bedroom-PR7YTT5?irgwc=1&clickid=Sxh35PyoYxyOR%3AqwUx0Mo3wwUkixGxXsZRx3VQ0&iradid=275988&irpid=27795&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_27795&utm_medium=affiliate&utm_source=impact_radius"
+        },
+        {
+            "filename": "testimonial.png",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/testimonial.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 23977,
+            "dimensions": [
+                103,
+                104
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-young-bride-groom-and-other-guests-dancing-and-s-KQH726B"
+        },
+        {
+            "filename": "our-hotel-02.jpg",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/our-hotel-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 72061,
+            "dimensions": [
+                441,
+                348
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/luxury-swimming-pool-on-the-beach-VFARJHC?irgwc=1&clickid=Sxh35PyoYxyOR%3AqwUx0Mo3wwUkixGzXkZRx3VQ0&iradid=275988&irpid=27795&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_27795&utm_medium=affiliate&utm_source=impact_radius"
+        },
+        {
+            "filename": "our-hotel-01.jpg",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/our-hotel-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 128671,
+            "dimensions": [
+                441,
+                348
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/3dac8841-fefd-46d0-9531-25e6f87ab779"
+        },
+        {
+            "filename": "our-hotel.jpg",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/our-hotel.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 111510,
+            "dimensions": [
+                441,
+                348
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/772840e5-e96a-414b-9f50-c64810e63f57"
+        },
+        {
+            "filename": "experience-img1.png",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/experience-img1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 26337,
+            "dimensions": [
+                186,
+                186
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/2cf05e60-27bc-42de-bef6-eb129ce0b6a4"
+        },
+        {
+            "filename": "experience-img2.png",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/experience-img2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 23237,
+            "dimensions": [
+                186,
+                186
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/f9ca0996-d0c2-4e03-b9ef-418e0c319bf1"
+        },
+        {
+            "filename": "experience-img3.png",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/experience-img3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 19773,
+            "dimensions": [
+                186,
+                186
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/b2ae21f7-cde8-41ab-bcec-cefb15cb76ff"
+        },
+        {
+            "filename": "experience-img5.png",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/experience-img5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 21079,
+            "dimensions": [
+                186,
+                186
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/b0ddfad3-03fa-40d7-acea-6a744f9f4a8a"
+        },
+        {
+            "filename": "experience-img4.png",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/experience-img4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 29642,
+            "dimensions": [
+                186,
+                186
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/c1ee5a20-d7a3-4d00-b04a-7f1d6d2287f3"
+        },
+        {
+            "filename": "experience-img6.png",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/experience-img6.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 21987,
+            "dimensions": [
+                186,
+                186
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/91384701-ef82-4697-a814-32e366860d43"
+        },
+        {
+            "filename": "quotation.png",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/quotation.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 625,
+            "dimensions": [
+                32,
+                32
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "luxury-womenbg.jpg",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/luxury-womenbg-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 204350,
+            "dimensions": [
+                1956,
+                1303
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-relaxing-by-the-pool-in-a-luxury-hotel-resor-MNRNLEG"
+        },
+        {
+            "filename": "luxury-news-img1.jpg",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/luxury-news-img1-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/blog-archive.json",
+                    "name": "Blog Archive"
+                }
+            ],
+            "filesize": 55819,
+            "dimensions": [
+                640,
+                480
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-relaxing-by-the-pool-in-a-luxury-hotel-resor-7U8HXLR?irgwc=1&clickid=Sxh35PyoYxyOR%3AqwUx0Mo3wwUkixGzToZRx3VQ0&iradid=275988&irpid=27795&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_27795&utm_medium=affiliate&utm_source=impact_radius"
+        },
+        {
+            "filename": "luxury-news-img2.jpg",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/luxury-news-img2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/blog-archive.json",
+                    "name": "Blog Archive"
+                }
+            ],
+            "filesize": 52626,
+            "dimensions": [
+                300,
+                232
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/couple-pending-time-by-secluded-swimming-pool-AAYW37A?irgwc=1&clickid=Sxh35PyoYxyOR%3AqwUx0Mo3wwUkixGzTsZRx3VQ0&iradid=275988&irpid=27795&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_27795&utm_medium=affiliate&utm_source=impact_radius"
+        },
+        {
+            "filename": "luxury-news-img3.jpg",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/luxury-news-img3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/blog-archive.json",
+                    "name": "Blog Archive"
+                }
+            ],
+            "filesize": 43082,
+            "dimensions": [
+                300,
+                232
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/6f2cd572-2052-4cc6-a57e-0f99acc9888f"
+        },
+        {
+            "filename": "luxury-ig-img1.jpg",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/luxury-ig-img1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 81066,
+            "dimensions": [
+                320,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/00816ab5-e3ce-4d67-8729-b37de30fbd11"
+        },
+        {
+            "filename": "luxury-ig-img2.jpg",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/luxury-ig-img2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 75913,
+            "dimensions": [
+                320,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/772840e5-e96a-414b-9f50-c64810e63f57"
+        },
+        {
+            "filename": "luxury-ig-img3.jpg",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/luxury-ig-img3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 48197,
+            "dimensions": [
+                320,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/luxury-swimming-pool-on-the-beach-VFARJHC?irgwc=1&clickid=Sxh35PyoYxyOR%3AqwUx0Mo3wwUkixGzXkZRx3VQ0&iradid=275988&irpid=27795&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_27795&utm_medium=affiliate&utm_source=impact_radius"
+        },
+        {
+            "filename": "luxury-ig-img4.jpg",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/luxury-ig-img4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 37871,
+            "dimensions": [
+                320,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-beautiful-woman-enjoying-summer-vacation-in--UALEPMT?irgwc=1&clickid=Sxh35PyoYxyOR%3AqwUx0Mo3wwUkixGzXUZRx3VQ0&iradid=275988&irpid=27795&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_27795&utm_medium=affiliate&utm_source=impact_radius"
+        },
+        {
+            "filename": "luxury-ig-img5.jpg",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/luxury-ig-img5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 87517,
+            "dimensions": [
+                320,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/3dac8841-fefd-46d0-9531-25e6f87ab779"
+        },
+        {
+            "filename": "luxury-ig-img6.jpg",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/luxury-ig-img6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 88707,
+            "dimensions": [
+                320,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/7b30064f-423f-4795-a7aa-922740929519"
+        },
+        {
+            "filename": "404-mobile.png",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/404-mobile-600x241.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 115206,
+            "dimensions": [
+                1685,
+                678
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Hotel.png",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/Hotel.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 296,
+            "dimensions": [
+                96,
+                29
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "popup-bg.jpg",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/popup-bg-600x360.jpg",
+            "templates": [
+                {
+                    "source": "templates\/popup.json",
+                    "name": "Popup"
+                }
+            ],
+            "filesize": 16056,
+            "dimensions": [
+                800,
+                480
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "woman-enjoying-summer-vacation-.jpg",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/woman-enjoying-summer-vacation-.jpg",
+            "templates": [
+                {
+                    "source": "templates\/popup.json",
+                    "name": "Popup"
+                }
+            ],
+            "filesize": 50368,
+            "dimensions": [
+                330,
+                494
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-beautiful-woman-enjoying-summer-vacation-in--UALEPMT?irgwc=1&clickid=Sxh35PyoYxyOR%3AqwUx0Mo3wwUkixGzXUZRx3VQ0&iradid=275988&irpid=27795&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_27795&utm_medium=affiliate&utm_source=impact_radius"
+        },
+        {
+            "filename": "popup-logo.png",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/popup-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/popup.json",
+                    "name": "Popup"
+                }
+            ],
+            "filesize": 737,
+            "dimensions": [
+                127,
+                38
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "luxury-logo.png",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/luxury-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 700,
+            "dimensions": [
+                121,
+                33
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "footer-bg.jpg",
+            "thumbnail_url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/footer-bg.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 43241,
+            "dimensions": [
+                1920,
+                480
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

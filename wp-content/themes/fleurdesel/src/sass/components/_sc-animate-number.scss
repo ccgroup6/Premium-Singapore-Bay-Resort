@@ -1,0 +1,30 @@
+// SC: Animate Number
+.fleurdesel-animate {
+  position: relative;
+  padding: 30px 0;
+}
+
+.fleurdesel-animate__icon {
+  display: none;
+  transform: translateX(-50%);
+
+  @include absolute(null,null,-15px,50%);
+
+  @include media(">=md") {
+    top: 50%;
+    right: -20px;
+    bottom: auto;
+    left: auto;
+    transform: translate(0,-50%);
+  }
+}
+
+.fleurdesel-animate--icon .fleurdesel-animate__icon {
+  display: block;
+}
+
+[class*="col"]:nth-child(2n+2) .fleurdesel-animate--icon .fleurdesel-animate__icon {
+  @include media(">=md","<lg") {
+    display: none;
+  }
+}

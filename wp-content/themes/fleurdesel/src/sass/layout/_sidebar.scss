@@ -1,0 +1,171 @@
+.widget-area {
+  .widget {
+    margin-bottom: 53px;
+  }
+
+  .widget:first-child() {
+    margin-top: 50px;
+
+    @include media(">=lg") {
+      margin-top: 0;
+    }
+  }
+
+  .widget-title {
+    font-size: 30px;
+    margin-bottom: 17px;
+  }
+}
+
+// Style default widgets
+.widget-area {
+  // Only style for main sidebar.
+  .widget_nav_menu ul,
+  .widget_archive ul,
+  .widget_meta ul,
+  .widget_pages ul,
+  #recentcomments,
+  .widget_rss ul,
+  .widget_recent_entries ul,
+  .widget_categories ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    .children,
+    .sub-menu {
+      padding-left: 15px;
+    }
+  }
+
+  .widget_nav_menu li a,
+  .widget_archive li a,
+  .widget_meta li a,
+  .widget_pages li a,
+  .widget_recent_entries li a,
+  .widget_categories li a {
+    display: block;
+    font-size: 14px;
+    line-height: 49px;
+    color: $color-2;
+    border-bottom: 1px solid $color-3;
+
+    span {
+      color: $color-4;
+      margin-left: 13px;
+    }
+
+    &:hover,
+    &:focus {
+      color: $color-1;
+      border-color: $color-1;
+      text-decoration: none;
+      outline: 0;
+
+      span {
+        color: inherit;
+      }
+    }
+  }
+
+  .widget_nav_menu li.current_menu_item a,
+  .widget_pages li.current_page_item a,
+  .widget_categories li.current-cat a {
+    color: $color-1;
+    border-color: $color-1;
+    text-decoration: none;
+    outline: 0;
+  }
+
+  .widget_archive select,
+  .widget_categories select {
+    @extend .form-control;
+  }
+
+  #recentcomments li,
+  .widget_rss li {
+    font-size: 14px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid $color-3;
+  }
+
+  .tagcloud {
+    a {
+      display: inline-block;
+      line-height: 38px;
+      border: 1px solid $color-3;
+      color: $color-2;
+      margin-right: 10px;
+      margin-bottom: 10px;
+      font-size: 14px !important;
+      padding: 0 18px;
+
+      &:hover,
+      &:focus {
+        outline: 0;
+        border-color: $color-1;
+        background-color: $color-1;
+        color: #fff;
+        text-decoration: none;
+      }
+    }
+  }
+
+  #wp-calendar {
+    td,
+    th {
+      text-align: center;
+
+      a {
+        color: $color-1;
+      }
+    }
+  }
+}
+
+.widget-comment__avatar {
+  float: left;
+
+  img {
+    border-radius: 50%;
+  }
+}
+
+.widget-comment__author {
+  color:  $color-2;
+  font-size: 16px;
+  font-weight: 700;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.widget-comment__meta {
+  padding-left: 100px;
+  padding-top: 10px;
+
+  time {
+    color:  $color-4;
+    font-size: 14px;
+    font-weight: 400;
+  }
+}
+
+.widget-comment__content {
+  color: #666666;
+  font-size: 14px;
+  font-weight: 400;
+  margin-top: 15px;
+
+  p {
+    margin-bottom: 0;
+  }
+}
+
+.fleurdesel-follow-us-banner-widget .widget-title {
+  margin-bottom: 35px;
+}
+
+.widget_tag_cloud .widget-title {
+  margin-bottom: 25px;
+}

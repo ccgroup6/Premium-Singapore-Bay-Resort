@@ -1,0 +1,85 @@
+// SC: Services
+.fleurdesel-service__item {
+  position: relative;
+  overflow: hidden;
+
+  &:before {
+    @include paddingTop(480,560);
+  }
+
+  &:after {
+    content: "";
+    display: block;
+    background: linear-gradient(to top, #000 0%, transparent 70%);
+    opacity: .9;
+    transition: all .4s ease;
+
+    @include media(">=lg") {
+      opacity: .4;
+    }
+
+    @include absolute(0,0,0,0);
+  }
+
+  img {
+    width: 100%;
+    transition: all .4s ease;
+
+    @include absolute(0,0,0,0);
+  }
+
+  &:hover {
+    &:after {
+      opacity: .9;
+    }
+
+    .fleurdesel-service__action {
+      margin-bottom: 0;
+
+      @include vdisplay();
+    }
+
+    .fleurdesel-service__img {
+      transform: rotate(5deg);
+    }
+
+    img {
+      transform: scale(1.1);
+    }
+  }
+
+  .btn-view {
+    padding: 18px 33px;
+  }
+}
+
+.fleurdesel-service__img {
+  transition: all .4s ease;
+
+  @include absolute(0,0,0,0);
+}
+
+.fleurdesel-service__info {
+  padding: 15px 15px 50px;
+  z-index: 1;
+
+  @include absolute(null,0,0,0);
+}
+
+.fleurdesel-service__meta {
+  letter-spacing: 3px;
+}
+
+.fleurdesel-service__title {
+  margin-bottom: 50px;
+}
+
+.fleurdesel-service__action {
+  transition: all .4s ease;
+
+  @include media(">=lg") {
+    margin-bottom: -70px;
+
+    @include vhidden();
+  }
+}

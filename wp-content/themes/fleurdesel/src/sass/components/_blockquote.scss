@@ -1,0 +1,48 @@
+blockquote {
+  font-family: $font-1;
+  color: $color-2;
+  font-size: 25px;
+  line-height: 40 / 25 * 1;
+  text-align: center;
+  position: relative;
+  padding: 150px 70px 105px;
+
+  p {
+    margin-bottom: 0;
+  }
+
+  &:before {
+    content: "“";
+    font-family: $font-1;
+    color: $color-1;
+    font-size: 60px;
+    font-weight: 700;
+    position: absolute;
+    top: 77px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  cite,
+  footer,
+  small {
+    font-family: $font-2;
+    font-weight: 700;
+    font-size: 16px;
+    color: $color-2;
+    display: block;
+    font-style: normal;
+    margin-top: 35px;
+
+    i {
+      color: $color-4;
+      font-size: 14px;
+      font-weight: 400;
+      font-style: normal;
+    }
+  }
+}
+
+.blockquote--bordered {
+  border: 1px solid $color-1;
+}

@@ -1,0 +1,14 @@
+/* This CSS file will be loaded at last. Any CSS customization should be placed here */
+
+#primary .entry-content {
+	float: none !important;
+	width: 100% !important;
+}
+
+.theme-twentytwentyone #primary .entry-content > .wrap {
+	max-width: var(--responsive--alignwide-width) !important;
+}
+
+.theme-twentytwentytwo main .wrap {
+	max-width: 1000px !important;
+}

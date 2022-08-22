@@ -1,0 +1,888 @@
+{
+    "manifest_version": "1.0.14",
+    "title": "Megan",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Homepage 1",
+            "screenshot": "screenshots\/homepage-1.jpg",
+            "source": "templates\/homepage-1.json",
+            "preview_url": "https:\/\/template.garisman.com\/template-kit\/homepage-1\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage 2",
+            "screenshot": "screenshots\/homepage-2.jpg",
+            "source": "templates\/homepage-2.json",
+            "preview_url": "https:\/\/template.garisman.com\/template-kit\/homepage-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/template.garisman.com\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Rooms 1",
+            "screenshot": "screenshots\/rooms-1.jpg",
+            "source": "templates\/rooms-1.json",
+            "preview_url": "https:\/\/template.garisman.com\/template-kit\/rooms\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Rooms 2",
+            "screenshot": "screenshots\/rooms-2.jpg",
+            "source": "templates\/rooms-2.json",
+            "preview_url": "https:\/\/template.garisman.com\/template-kit\/rooms-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Rooms",
+            "screenshot": "screenshots\/single-rooms.jpg",
+            "source": "templates\/single-rooms.json",
+            "preview_url": "https:\/\/template.garisman.com\/template-kit\/single-rooms\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/template.garisman.com\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/template.garisman.com\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/template.garisman.com\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/template.garisman.com\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/template.garisman.com\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/template.garisman.com\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.14",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor - Header, Footer & Blocks",
+            "version": "1.5.1",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "PowerPack Lite for Elementor",
+            "version": "1.3.0",
+            "file": "powerpack-lite-for-elementor\/powerpack-lite-elementor.php",
+            "author": "IdeaBox Creations"
+        }
+    ],
+    "images": [
+        {
+            "filename": "hotel-room.jpg",
+            "thumbnail_url": "https:\/\/template.garisman.com\/wp-content\/uploads\/2020\/07\/hotel-room-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/rooms-1.json",
+                    "name": "Rooms 1"
+                },
+                {
+                    "source": "templates\/rooms-2.json",
+                    "name": "Rooms 2"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 356242,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P8NCR59"
+        },
+        {
+            "filename": "modern-hotel-bedroom.jpg",
+            "thumbnail_url": "https:\/\/template.garisman.com\/wp-content\/uploads\/2020\/07\/modern-hotel-bedroom-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/rooms-1.json",
+                    "name": "Rooms 1"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 351267,
+            "dimensions": [
+                2000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PCFVXH6"
+        },
+        {
+            "filename": "3d-rendering-luxury-chinese-bedroom-suite-in-resort-hotel.jpg",
+            "thumbnail_url": "https:\/\/template.garisman.com\/wp-content\/uploads\/2020\/07\/3d-rendering-luxury-chinese-bedroom-suite-in-resort-hotel-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/rooms-1.json",
+                    "name": "Rooms 1"
+                },
+                {
+                    "source": "templates\/rooms-2.json",
+                    "name": "Rooms 2"
+                },
+                {
+                    "source": "templates\/single-rooms.json",
+                    "name": "Single Rooms"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 767444,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2KEPMDK"
+        },
+        {
+            "filename": "modern-hotel-room-interior-with-two-separate-beds-tourism-business.jpg",
+            "thumbnail_url": "https:\/\/template.garisman.com\/wp-content\/uploads\/2020\/07\/modern-hotel-room-interior-with-two-separate-beds-tourism-business-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/rooms-1.json",
+                    "name": "Rooms 1"
+                },
+                {
+                    "source": "templates\/rooms-2.json",
+                    "name": "Rooms 2"
+                },
+                {
+                    "source": "templates\/single-rooms.json",
+                    "name": "Single Rooms"
+                }
+            ],
+            "filesize": 389842,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PPCJHQB"
+        },
+        {
+            "filename": "hotel-room-at-a-luxury-resort-2.jpg",
+            "thumbnail_url": "https:\/\/template.garisman.com\/wp-content\/uploads\/2020\/07\/hotel-room-at-a-luxury-resort-2-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/rooms-1.json",
+                    "name": "Rooms 1"
+                },
+                {
+                    "source": "templates\/rooms-2.json",
+                    "name": "Rooms 2"
+                },
+                {
+                    "source": "templates\/single-rooms.json",
+                    "name": "Single Rooms"
+                }
+            ],
+            "filesize": 418410,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-H5AMQ39"
+        },
+        {
+            "filename": "hotel-room-at-a-luxury-resort-1.jpg",
+            "thumbnail_url": "https:\/\/template.garisman.com\/wp-content\/uploads\/2020\/07\/hotel-room-at-a-luxury-resort-1-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/rooms-1.json",
+                    "name": "Rooms 1"
+                }
+            ],
+            "filesize": 299053,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5F7Y6PU"
+        },
+        {
+            "filename": "standard-double-beds-hotel-room.jpg",
+            "thumbnail_url": "https:\/\/template.garisman.com\/wp-content\/uploads\/2020\/07\/standard-double-beds-hotel-room-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/rooms-1.json",
+                    "name": "Rooms 1"
+                },
+                {
+                    "source": "templates\/rooms-2.json",
+                    "name": "Rooms 2"
+                },
+                {
+                    "source": "templates\/single-rooms.json",
+                    "name": "Single Rooms"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 378315,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BUEW5VD"
+        },
+        {
+            "filename": "glamour-women-in-fur-cape.jpg",
+            "thumbnail_url": "https:\/\/template.garisman.com\/wp-content\/uploads\/2020\/07\/glamour-women-in-fur-cape-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                }
+            ],
+            "filesize": 405980,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PAT3G8G"
+        },
+        {
+            "filename": "nice-girl-in-swimsuit-and-shorts-posing-on-camera-while-leaning-on-locker-room-on-beach.jpg",
+            "thumbnail_url": "https:\/\/template.garisman.com\/wp-content\/uploads\/2020\/07\/nice-girl-in-swimsuit-and-shorts-posing-on-camera-while-leaning-on-locker-room-on-beach-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 430854,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MJ7GET9"
+        },
+        {
+            "filename": "beautiful-blonde-woman-in-car-lights-in-the-night-city-girl-young-fashion-face-person-portrai.jpg",
+            "thumbnail_url": "https:\/\/template.garisman.com\/wp-content\/uploads\/2020\/07\/beautiful-blonde-woman-in-car-lights-in-the-night-city-girl-young-fashion-face-person-portrai-600x899.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 394655,
+            "dimensions": [
+                1335,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6WJ3AKA"
+        },
+        {
+            "filename": "handsome-man-portrait-casual-home-in-glusses.jpg",
+            "thumbnail_url": "https:\/\/template.garisman.com\/wp-content\/uploads\/2020\/07\/handsome-man-portrait-casual-home-in-glusses-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 273416,
+            "dimensions": [
+                2000,
+                1334
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-29XEDD7"
+        },
+        {
+            "filename": "senior-women-wearing-novelty-glasses-making-face-while-taking-selfie.jpg",
+            "thumbnail_url": "https:\/\/template.garisman.com\/wp-content\/uploads\/2020\/07\/senior-women-wearing-novelty-glasses-making-face-while-taking-selfie-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 332152,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UANJ2FZ"
+        },
+        {
+            "filename": "swimming-pool-in-summer-time.jpg",
+            "thumbnail_url": "https:\/\/template.garisman.com\/wp-content\/uploads\/2020\/07\/swimming-pool-in-summer-time-600x468.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/single-rooms.json",
+                    "name": "Single Rooms"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 782585,
+            "dimensions": [
+                2000,
+                1561
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZ5P7XT"
+        },
+        {
+            "filename": "bedroom-with-stone-walls-comfortable-modern-hotel-room-interior-architecture.jpg",
+            "thumbnail_url": "https:\/\/template.garisman.com\/wp-content\/uploads\/2020\/07\/bedroom-with-stone-walls-comfortable-modern-hotel-room-interior-architecture-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 559466,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6TBGZCP"
+        },
+        {
+            "filename": "3d-rendering-luxury-tropical-bedroom-suite-in-resort-hotel-and-resort.jpg",
+            "thumbnail_url": "https:\/\/template.garisman.com\/wp-content\/uploads\/2020\/07\/3d-rendering-luxury-tropical-bedroom-suite-in-resort-hotel-and-resort-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/rooms-2.json",
+                    "name": "Rooms 2"
+                },
+                {
+                    "source": "templates\/single-rooms.json",
+                    "name": "Single Rooms"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 702573,
+            "dimensions": [
+                2000,
+                1499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LYA3KGP"
+        },
+        {
+            "filename": "interior-of-hous-with-swiming-pool-3d-rendering.jpg",
+            "thumbnail_url": "https:\/\/template.garisman.com\/wp-content\/uploads\/2020\/07\/interior-of-hous-with-swiming-pool-3d-rendering-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/single-rooms.json",
+                    "name": "Single Rooms"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 454549,
+            "dimensions": [
+                2000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P2SD93B"
+        },
+        {
+            "filename": "3d-rendering-luxury-hotel-reception-and-lounge-restaurant.jpg",
+            "thumbnail_url": "https:\/\/template.garisman.com\/wp-content\/uploads\/2020\/07\/3d-rendering-luxury-hotel-reception-and-lounge-restaurant-600x343.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/single-rooms.json",
+                    "name": "Single Rooms"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 493919,
+            "dimensions": [
+                2000,
+                1143
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UYSYZ7R"
+        },
+        {
+            "filename": "beautiful-massage-center-in-resort.jpg",
+            "thumbnail_url": "https:\/\/template.garisman.com\/wp-content\/uploads\/2020\/07\/beautiful-massage-center-in-resort-600x353.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 181596,
+            "dimensions": [
+                2000,
+                1175
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-T2R6J59"
+        },
+        {
+            "filename": "hotel-room-at-a-luxury-resort.jpg",
+            "thumbnail_url": "https:\/\/template.garisman.com\/wp-content\/uploads\/2020\/07\/hotel-room-at-a-luxury-resort-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/rooms-1.json",
+                    "name": "Rooms 1"
+                },
+                {
+                    "source": "templates\/rooms-2.json",
+                    "name": "Rooms 2"
+                },
+                {
+                    "source": "templates\/single-rooms.json",
+                    "name": "Single Rooms"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 350429,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DV74YS2"
+        },
+        {
+            "filename": "camping.jpg",
+            "thumbnail_url": "https:\/\/template.garisman.com\/wp-content\/uploads\/2020\/07\/camping-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/rooms-1.json",
+                    "name": "Rooms 1"
+                },
+                {
+                    "source": "templates\/rooms-2.json",
+                    "name": "Rooms 2"
+                },
+                {
+                    "source": "templates\/single-rooms.json",
+                    "name": "Single Rooms"
+                }
+            ],
+            "filesize": 826103,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PVB4X5W"
+        },
+        {
+            "filename": "handsome-man-portrait.jpg",
+            "thumbnail_url": "https:\/\/template.garisman.com\/wp-content\/uploads\/2020\/07\/handsome-man-portrait-600x399.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 195176,
+            "dimensions": [
+                2000,
+                1331
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P4GGCJP"
+        },
+        {
+            "filename": "friendly-handsome-man-in-a-hardware-store.jpg",
+            "thumbnail_url": "https:\/\/template.garisman.com\/wp-content\/uploads\/2020\/07\/friendly-handsome-man-in-a-hardware-store-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 385650,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PNYELV2"
+        },
+        {
+            "filename": "beautiful-women-drinking-tea-in-restaurant.jpg",
+            "thumbnail_url": "https:\/\/template.garisman.com\/wp-content\/uploads\/2020\/07\/beautiful-women-drinking-tea-in-restaurant-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 206381,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-64JUF3V"
+        },
+        {
+            "filename": "beautiful-women-in-sunset.jpg",
+            "thumbnail_url": "https:\/\/template.garisman.com\/wp-content\/uploads\/2020\/07\/beautiful-women-in-sunset-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 317250,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Y7ACUWG"
+        },
+        {
+            "filename": "young-beautiful-women-in-sportswear.jpg",
+            "thumbnail_url": "https:\/\/template.garisman.com\/wp-content\/uploads\/2020\/07\/young-beautiful-women-in-sportswear-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 244817,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LNFSXJP"
+        }
+    ]
+}

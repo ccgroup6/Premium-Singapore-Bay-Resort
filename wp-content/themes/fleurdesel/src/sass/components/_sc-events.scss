@@ -1,0 +1,290 @@
+// SC: Events
+.fleurdesel-event {
+  position: relative;
+  margin-bottom: 45px;
+
+  &:hover {
+    .post-image img {
+      transform: scale(1.1);
+    }
+  }
+
+  .post-image {
+    position: relative;
+    overflow: hidden;
+
+    img {
+      width: 100%;
+      transition: all .4s ease;
+
+      @include absolute(0,0,0,0);
+    }
+  }
+
+  .post-data {
+    padding: 25px;
+  }
+
+  .event-time {
+    color: $color-4;
+    margin-bottom: 20px;
+    padding-left: 5px;
+
+    @extend .clearfix;
+  }
+
+  .event-time__date {
+    font-family: $font-1;
+    font-size: 2.5rem;
+    font-weight: 700;
+    line-height: 0.875;
+    padding-right: 20px;
+    border-right: 1px solid #e8e8e8;
+    margin-right: 10px;
+  }
+
+  .event-time__date,
+  .event-time__month {
+    float: left;
+  }
+
+  .event-time__month span {
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 1.4;
+  }
+
+  .post-title {
+    margin-bottom: 15px;
+    font-size: 1.875rem;
+    padding-left: 5px;
+
+    a {
+      display: block;
+    }
+  }
+
+  .event-price {
+    font-size: 20px;
+    color: $color-1;
+    padding-left: 5px;
+  }
+
+  .event-info {
+    color: #666;
+
+    p {
+      margin-bottom: 5px;
+    }
+
+    > a {
+      color: $color-1;
+      font-size: 14px;
+
+      &:hover {
+        color: $color-2;
+      }
+
+      .fa {
+        margin-right: 8px;
+      }
+    }
+  }
+
+  .event-title {
+    color: #000;
+    letter-spacing: 3px;
+  }
+}
+
+// Events Grid
+.fleurdesel-event--grid {
+  .post-image:before {
+    @include paddingTop(555,400);
+  }
+}
+
+// Events Modern
+.fleurdesel-event--modern {
+  margin-bottom: 80px;
+
+  .post-image:before {
+    @include paddingTop(1139,560);
+  }
+
+  .post-data {
+    @include media(">=lg") {
+      background-color: #fff;
+      width: 457px;
+      padding: 50px 45px 45px;
+
+      @include absolute(0,null,null,100px);
+    }
+  }
+
+  .post-title a {
+    @include media(">=lg", "<1280px") {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+  }
+
+  .event-price {
+    margin-bottom: 22px;
+  }
+
+  .event-info {
+    padding-left: 5px;
+  }
+}
+
+// Events Zigzag & List
+.fleurdesel-event--zigzag,
+.fleurdesel-event--list {
+  position: relative;
+  margin-left: -15px;
+  margin-right: -15px;
+  margin-bottom: 80px;
+
+  @extend .clearfix;
+
+  .post-media,
+  .post-data {
+    float: left;
+    width: 100%;
+
+    @include media(">=lg") {
+      width: 50%;
+      padding: 0 15px;
+    }
+  }
+
+  .post-image:before {
+    @include paddingTop(555,400);
+  }
+
+  .post-data {
+    padding: 35px 0;
+
+    @include media-breakpoint-up(xl) {
+      padding: 15px 35px;
+      transform: translateY(-50%);
+
+      @include absolute(50%, 0);
+    }
+  }
+
+  &:nth-child(2n+2) {
+    .post-media {
+      float: right;
+    }
+  }
+
+  .event-price {
+    margin-bottom: 23px !important;
+  }
+
+  .event-info {
+    padding-left: 5px;
+
+    .event-title {
+      letter-spacing: 2.7px;
+    }
+  }
+}
+
+.fleurdesel-event--list {
+  &:nth-child(2n+2) {
+    .post-media {
+      float: left;
+    }
+  }
+}
+
+.fleurdesel-event--zigzag {
+  &:nth-child(2n+2) {
+    .post-data {
+      @include media-breakpoint-up(xl) {
+        left: 0;
+        right: auto;
+      }
+    }
+  }
+}
+
+// Event Detail
+.fleurdesel-event--detail {
+  &:hover {
+    .post-image img {
+      transform: scale(1);
+    }
+  }
+
+  .event-time {
+    margin-bottom: 25px;
+    padding-left: 0;
+  }
+
+  .post-image {
+    margin-bottom: 50px;
+
+    img {
+      position: static;
+    }
+  }
+
+  .post-title {
+    margin-bottom: 45px !important;
+    font-size: 40px !important;
+    padding-left: 0;
+  }
+
+  .entry-excerpt {
+    margin-bottom: 45px;
+  }
+
+  .event-info {
+    border: 1px solid #e8e8e8;
+    margin-bottom: 30px;
+    padding: 40px;
+
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    li {
+      display: inline-block;
+
+      a {
+        display: block;
+        width: 32px;
+        color: #666666;
+
+        &:hover {
+          color: $color-1;
+        }
+      }
+    }
+  }
+
+  .event-info__title {
+    font-family: $font-1;
+    font-size: 1.5625rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+
+  .fleurdesel-slider {
+    margin-top: 50px;
+  }
+}
+
+.fleurdesel-related-events {
+  border-top: 1px solid $color-3;
+}

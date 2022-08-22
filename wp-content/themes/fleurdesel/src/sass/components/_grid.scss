@@ -1,0 +1,45 @@
+// Grid system
+.site-layout {
+  @include make-row;
+
+  .content-area {
+    @extend .col-lg-8;
+  }
+  .widget-area {
+    @extend .col-lg-3, .offset-lg-1;
+  }
+
+  .page-builder {
+    @extend .col-lg-12;
+  }
+
+  &.sidebar-right {
+    //
+  }
+
+  &.sidebar-left {
+    .content-area {
+      @extend .push-lg-3;
+    }
+
+    .widget-area {
+      @extend .pull-lg-9, .offset-lg-0;
+    }
+  }
+
+  &.sidebar-none {
+    .content-area {
+      @extend .col-lg-12;
+    }
+
+    .widget-area {
+      display: none;
+    }
+  }
+
+  &.no-active-sidebar {
+    .content-area {
+      @extend .col-lg-12;
+    }
+  }
+}

@@ -1,0 +1,42 @@
+// SC: Catalogue Menu
+.fleurdesel-catalog {
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+
+.fleurdesel-catalog__wrap {
+  position: relative;
+  padding-bottom: 25px;
+}
+
+.fleurdesel-catalog__left,
+.fleurdesel-catalog__right {
+  display: table-cell;
+  vertical-align: top;
+}
+
+.fleurdesel-catalog__left {
+  width: 100%;
+  padding-right: 27%;
+
+  p {
+    margin-bottom: 0;
+  }
+}
+
+.fleurdesel-catalog__right {
+  width: 10000px;
+  overflow: hidden;
+  text-align: right;
+}
+
+.fleurdesel-catalog__recommend {
+  display: inline-block;
+  padding: 2px 8px;
+
+  @include absolute(null,0,0);
+
+  .fa {
+    margin-right: 3px;
+  }
+}

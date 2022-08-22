@@ -1,0 +1,144 @@
+// SC: Icons Box
+.fleurdesel-iconbox {
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.fleurdesel-iconbox__media {
+  position: relative;
+}
+
+.fleurdesel-iconbox__media--image {
+  overflow: hidden;
+
+  &:before {
+    @include paddingTop(750,460);
+  }
+
+  img {
+    width: 100%;
+
+    @include absolute(0,0,0,0);
+  }
+}
+
+.fleurdesel-iconbox__title {
+  a:not(:hover):not(:focus) {
+    color: inherit;
+  }
+}
+
+.fleurdesel-iconbox__desc {
+  color: #666;
+}
+
+// Icons Box: Horizontal
+.fleurdesel-iconbox--horizontal {
+  .fleurdesel-iconbox__media,
+  .fleurdesel-iconbox__title {
+    display: inline-block;
+  }
+
+  .fleurdesel-iconbox__media {
+    vertical-align: top;
+    margin-right: 25px;
+  }
+}
+
+.fleurdesel-iconbox--horizontal-2 {
+  .fleurdesel-style__wrap {
+    padding-bottom: 10px;
+  }
+
+  .fleurdesel-iconbox__media,
+  .fleurdesel-iconbox__data {
+    display: block;
+
+    @include media-breakpoint-up(xl) {
+      display: inline-block;
+      vertical-align: top;
+    }
+  }
+
+  .fleurdesel-iconbox__media {
+    font-size: 60px;
+    line-height: 1;
+    width: 100%;
+    height: 80px;
+    color: $color-1;
+    text-align: center;
+
+    @include media-breakpoint-up(xl) {
+      text-align: left;
+      margin-right: 30px;
+      width: 60px;
+      height: 60px;
+    }
+  }
+
+  .fleurdesel-iconbox__data {
+    text-align: center;
+
+    @include media-breakpoint-up(xl) {
+      text-align: left;
+    }
+  }
+
+  .fleurdesel-iconbox__desc p {
+    margin-bottom: 0;
+    line-height: 1.5;
+  }
+}
+
+// Icons Box: Vertical Border
+.fleurdesel-iconbox--border {
+  border: 1px solid $color-3;
+  transition: all .4s ease;
+
+  @include fleurstyle(true, $color-1);
+
+  &:hover {
+    border-color: $color-1;
+  }
+
+  .fleurdesel-iconbox__wrap {
+    padding: 40px;
+
+    @include media(">=1460px") {
+      padding: 60px 40px 40px;
+    }
+
+    @include fleurstyle(true, $color-1, 8px, bottom);
+  }
+}
+
+.fleurdesel-gap-style {
+  .fleurdesel-iconbox {
+    float: left;
+    width: 100%;
+
+    @include media(">=md") {
+      width: 50%;
+    }
+
+    @include media(">=lg") {
+      width: 25%;
+    }
+  }
+
+  .fleurdesel-iconbox__title {
+    line-height: 1.875;
+  }
+}
+
+.sc-iconbox-contact {
+  .fleurdesel-iconbox__media {
+    margin-bottom: 30px !important;
+  }
+
+  .fleurdesel-iconbox__title {
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 3px;
+  }
+}

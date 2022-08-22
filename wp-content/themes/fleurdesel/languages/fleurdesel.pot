@@ -1,0 +1,1138 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-30 08:57+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:22
+msgid "OOPS!"
+msgstr ""
+
+#: 404.php:24
+msgid "404"
+msgstr ""
+
+#: 404.php:28
+msgid ""
+"Error The Resource requested\n"
+"could not be found\n"
+"on this sever"
+msgstr ""
+
+#: 404.php:32
+msgid "HOME PAGE &rarr;"
+msgstr ""
+
+#: comments.php:32
+#, php-format
+msgctxt "comments title"
+msgid "Comment (%1$s)"
+msgid_plural "Comments (%1$s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:55
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:56
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:75
+msgid "Submit"
+msgstr ""
+
+#: functions.php:57
+msgid "Primary"
+msgstr ""
+
+#: functions.php:58
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:118 inc/class-fleurdesel-sidebar-core.php:257
+#: inc/class-fleurdesel-sidebar-core.php:302
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:120
+msgid "Add widgets here."
+msgstr ""
+
+#. %d: sidebar index
+#: functions.php:130
+#, php-format
+msgid "Footer centered column %d"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Playfair Display, translate this to 'off'. Do not translate into your own language.
+#: functions.php:173
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Roboto, translate this to 'off'. Do not translate into your own language.
+#: functions.php:178
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#. %s: copyright link
+#: functions.php:317
+#, php-format
+msgid "Copyright &copy; 2017 by %s. Fleur de sel Hotel Theme crafted with love"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: searchform.php:11
+msgid "Search&hellip;"
+msgstr ""
+
+#: awebooking/search-form-modern.php:57
+#: awebooking/search-form-standard-1.php:56
+#: awebooking/search-form-standard-1.php:59
+#: awebooking/search-form-standard-1.php:60
+#: awebooking/search-form-standard-2.php:55
+#: awebooking/search-form-standard-2.php:58
+#: awebooking/search-form-standard-2.php:59
+#: awebooking/search-form-standard-3.php:56
+#: awebooking/search-form-standard-3.php:59
+#: awebooking/search-form-standard-3.php:60
+msgid "Arrival Date"
+msgstr ""
+
+#: awebooking/search-form-modern.php:61 awebooking/search-form-modern.php:75
+msgid "Month"
+msgstr ""
+
+#: awebooking/search-form-modern.php:70
+#: awebooking/search-form-standard-1.php:65
+#: awebooking/search-form-standard-1.php:68
+#: awebooking/search-form-standard-1.php:69
+#: awebooking/search-form-standard-2.php:64
+#: awebooking/search-form-standard-2.php:67
+#: awebooking/search-form-standard-2.php:68
+#: awebooking/search-form-standard-3.php:65
+#: awebooking/search-form-standard-3.php:68
+#: awebooking/search-form-standard-3.php:69
+msgid "Departure Date"
+msgstr ""
+
+#: awebooking/search-form-modern.php:93 awebooking/search-form-modern.php:110
+#: awebooking/search-form-modern.php:127
+msgid "Person"
+msgstr ""
+
+#: awebooking/search-form-modern.php:135
+#: awebooking/search-form-standard-1.php:118
+#: awebooking/search-form-standard-2.php:117
+#: awebooking/search-form-standard-3.php:118
+msgid "CHECK AVAILABILITY"
+msgstr ""
+
+#: inc/awebooking-functions.php:100
+#: awebooking/template-parts/archive/content-grid_extra_info.php:81
+msgid "Bedroom"
+msgstr ""
+
+#: inc/awebooking-functions.php:141
+#: awebooking/template-parts/single/extra-info.php:32
+msgid "Max guest"
+msgstr ""
+
+#: inc/class-fleurdesel-awebooking-custom.php:41
+msgid "AweBooking"
+msgstr ""
+
+#: inc/class-fleurdesel-awebooking-custom.php:184
+#, php-format
+msgid "Start from %s / Night"
+msgstr ""
+
+#: inc/class-fleurdesel-iconfonts.php:31
+msgid "Fleurdesel Hotel"
+msgstr ""
+
+#: inc/class-fleurdesel-sidebar-core.php:211
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/class-fleurdesel-sidebar-core.php:212
+msgid "Sidebar Left"
+msgstr ""
+
+#: inc/class-fleurdesel-sidebar-core.php:213
+msgid "Sidebar Right"
+msgstr ""
+
+#: inc/class-fleurdesel-sidebar-core.php:229
+msgid "Blog (Index)"
+msgstr ""
+
+#: inc/class-fleurdesel-sidebar-core.php:230
+msgid "Archive"
+msgstr ""
+
+#: inc/class-fleurdesel-sidebar-core.php:231
+msgid "Page"
+msgstr ""
+
+#: inc/class-fleurdesel-sidebar-core.php:232
+msgid "Single"
+msgstr ""
+
+#: inc/class-fleurdesel-sidebar-core.php:236
+msgid "Event Archive"
+msgstr ""
+
+#: inc/class-fleurdesel-sidebar-core.php:240
+msgid "Room type Archive"
+msgstr ""
+
+#: inc/class-fleurdesel-sidebar-core.php:241
+msgid "Check Availability Page"
+msgstr ""
+
+#: inc/class-fleurdesel-sidebar-core.php:277
+#: inc/class-fleurdesel-sidebar-core.php:326
+msgid "Sidebar Area"
+msgstr ""
+
+#: inc/class-fleurdesel-sidebar-core.php:285
+#: inc/class-fleurdesel-sidebar-core.php:335
+msgid "Sidebar Name"
+msgstr ""
+
+#: inc/class-fleurdesel-sidebar-core.php:319
+msgid "Use custom sidebar setting?"
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:57
+#: inc/class-fleurdesel-social-core.php:79
+msgid "Facebook"
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:58
+msgid "Google plus"
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:59
+#: inc/class-fleurdesel-social-core.php:84
+msgid "Twitter"
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:60
+msgid "Github"
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:61
+msgid "Instagram"
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:62
+#: inc/class-fleurdesel-social-core.php:94
+msgid "Pinterest"
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:63
+#: inc/class-fleurdesel-social-core.php:99
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:64
+msgid "Skype"
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:65
+#: inc/class-fleurdesel-social-core.php:109
+msgid "Tumblr"
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:66
+msgid "Youtube"
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:67
+msgid "Vimeo"
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:68
+msgid "Flickr"
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:69
+msgid "Dribbble"
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:89
+msgid "Google Plus"
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:104
+msgid "Digg"
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:114
+msgid "Reddit"
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:119
+msgid "Stumbleupon"
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:141
+msgid "Social Network"
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:150
+msgid "Social General"
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:155
+msgid "Open link in a new tab"
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:165
+msgid "Social Share"
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:171
+msgid "Social Sharing"
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:173
+msgid "Select sharing providers to display."
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:180
+#, php-format
+msgid "Share on %s"
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:190
+msgid "Social Follow"
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:196
+msgid "Social Links"
+msgstr ""
+
+#: inc/class-fleurdesel-social-core.php:198
+msgid "Edit your social profiles."
+msgstr ""
+
+#: inc/extras.php:201
+#, php-format
+msgid "%1$s by %2$s"
+msgstr ""
+
+#: inc/extras.php:473 template-parts/event-layout/content-detail-left.php:139
+#: template-parts/event-layout/content-detail-right.php:117
+msgid "SHARE"
+msgstr ""
+
+#. Name of the theme
+#: inc/importer.php:17
+msgid "Fleurdesel"
+msgstr ""
+
+#: inc/page-title.php:44 inc/page-title.php:113
+msgid "Show page title?"
+msgstr ""
+
+#: inc/page-title.php:50 inc/page-title.php:82
+msgid "Page title"
+msgstr ""
+
+#: inc/page-title.php:57 inc/page-title.php:97 inc/theme-settings/footer.php:81
+msgid "Background color"
+msgstr ""
+
+#: inc/page-title.php:65 inc/page-title.php:105
+#: inc/theme-settings/footer.php:89
+msgid "Background image"
+msgstr ""
+
+#: inc/page-title.php:90
+msgid "Use custom page title setting?"
+msgstr ""
+
+#: inc/template-tags.php:43
+#, php-format
+msgctxt "post author and categories"
+msgid "Posted by %1$s in %2$s"
+msgstr ""
+
+#. %s: Name of current post.
+#: inc/template-tags.php:58
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:67
+msgid "Pages:"
+msgstr ""
+
+#: inc/template-tags.php:84 vc_templates/fleurdesel_service.php:34
+msgid "View More"
+msgstr ""
+
+#: inc/template-tags.php:107
+msgid "Search"
+msgstr ""
+
+#: inc/template-tags.php:115
+msgid "Our Events"
+msgstr ""
+
+#: inc/template-tags.php:161
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:167
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:182
+msgid "Edit"
+msgstr ""
+
+#: inc/tgm-register.php:24
+msgid "Fleurdesel Required"
+msgstr ""
+
+#: inc/tgm-register.php:31
+msgid "Flexible Posts Widget"
+msgstr ""
+
+#: inc/tgm-register.php:36
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: inc/tgm-register.php:43
+msgid "Slider Revolution"
+msgstr ""
+
+#: inc/tgm-register.php:50
+msgid "Awebooking"
+msgstr ""
+
+#: inc/tgm-register.php:56
+msgid "Contact form 7"
+msgstr ""
+
+#: inc/tgm-register.php:61
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: inc/tgm-register.php:66
+msgid "WP Simple Iconfonts"
+msgstr ""
+
+#: inc/version-compat.php:35
+#, php-format
+msgid ""
+"Fleurdesel requires at least WordPress version 4.5. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+
+#: inc/version-compat.php:62
+#, php-format
+msgid ""
+"Fleurdesel requires at least PHP version 5.3.9. You are running version %s."
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. Name of the template
+msgid "Page Builder"
+msgstr ""
+
+#: vc_templates/fleurdesel_catalogue_menu.php:48
+#: template-parts/event-layout/content-detail-left.php:95
+#: template-parts/event-layout/content-detail-right.php:72
+#: template-parts/event-layout/content-list.php:41
+#: template-parts/event-layout/content-modern.php:41
+#: template-parts/event-layout/content-zigzag.php:41
+#: template-parts/event-layout/content.php:35
+#: template-parts/package-layout/content-detail.php:44
+#: template-parts/package-layout/content.php:24
+msgid "/"
+msgstr ""
+
+#: vc_templates/fleurdesel_catalogue_menu.php:54
+msgid "Recommend"
+msgstr ""
+
+#: vc_templates/fleurdesel_packages_carousel.php:68
+#: template-parts/package-layout/content.php:28
+#: vc_templates/packages/grid.php:35 vc_templates/packages/grid_bg.php:33
+#: vc_templates/packages/grid_no_excerpt.php:31
+msgid "View Details"
+msgstr ""
+
+#: vc_templates/fleurdesel_testimonials.php:59
+msgid "Write in guest book"
+msgstr ""
+
+#: inc/theme-settings/404-page.php:13
+msgid "404 Page"
+msgstr ""
+
+#: inc/theme-settings/404-page.php:20
+msgid "404 logo"
+msgstr ""
+
+#: inc/theme-settings/404-page.php:21 inc/theme-settings/404-page.php:29
+#: inc/theme-settings/footer.php:98 inc/theme-settings/footer.php:108
+#: inc/theme-settings/header.php:51 inc/theme-settings/header.php:78
+#: inc/theme-settings/header.php:104 inc/theme-settings/header.php:114
+#: inc/theme-settings/header.php:142 inc/theme-settings/header.php:158
+#: inc/theme-settings/header.php:166
+msgid "Select an image."
+msgstr ""
+
+#: inc/theme-settings/404-page.php:28
+msgid "404 Background"
+msgstr ""
+
+#: inc/theme-settings/blog.php:13 inc/theme-settings/blog.php:20
+msgid "Blog"
+msgstr ""
+
+#: inc/theme-settings/blog.php:22
+msgid "Settings for blog"
+msgstr ""
+
+#: inc/theme-settings/blog.php:27
+msgid "Blog layouts"
+msgstr ""
+
+#: inc/theme-settings/blog.php:30
+msgid "Standard (default)"
+msgstr ""
+
+#: inc/theme-settings/blog.php:31 inc/theme-settings/room.php:30
+msgid "List"
+msgstr ""
+
+#: inc/theme-settings/blog.php:32 inc/theme-settings/room.php:31
+msgid "Zigzag"
+msgstr ""
+
+#: inc/theme-settings/blog.php:35
+msgid "Select a layout to show in Blog page."
+msgstr ""
+
+#: inc/theme-settings/blog.php:40
+msgid "Post Summary"
+msgstr ""
+
+#: inc/theme-settings/blog.php:43
+msgid "Content (default)"
+msgstr ""
+
+#: inc/theme-settings/blog.php:44
+msgid "Excerpt"
+msgstr ""
+
+#: inc/theme-settings/blog.php:45
+msgid "None"
+msgstr ""
+
+#: inc/theme-settings/blog.php:48
+msgid "Select a post summary to show in Blog page."
+msgstr ""
+
+#: inc/theme-settings/blog.php:53
+msgid "Single Post"
+msgstr ""
+
+#: inc/theme-settings/blog.php:55
+msgid "Settings for single page"
+msgstr ""
+
+#: inc/theme-settings/blog.php:60
+msgid "Single sharing | Show"
+msgstr ""
+
+#: inc/theme-settings/blog.php:63 inc/theme-settings/blog.php:71
+#: inc/theme-settings/footer.php:43 inc/theme-settings/footer.php:119
+#: inc/theme-settings/footer.php:165 inc/theme-settings/header.php:43
+#: inc/theme-settings/header.php:152
+msgid "Off / On"
+msgstr ""
+
+#: inc/theme-settings/blog.php:68
+msgid "Single post navigation | Show"
+msgstr ""
+
+#: inc/theme-settings/color.php:43
+msgid "Primary Color"
+msgstr ""
+
+#: inc/theme-settings/color.php:55
+msgid "Text Color"
+msgstr ""
+
+#: inc/theme-settings/color.php:67
+msgid "Link Color"
+msgstr ""
+
+#: inc/theme-settings/color.php:79
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/theme-settings/event.php:24
+msgid "Event"
+msgstr ""
+
+#: inc/theme-settings/event.php:31
+msgid "Archive Event"
+msgstr ""
+
+#: inc/theme-settings/event.php:33
+msgid "Settings for archive event page."
+msgstr ""
+
+#: inc/theme-settings/event.php:52
+msgid "Event column"
+msgstr ""
+
+#: inc/theme-settings/event.php:55 inc/theme-settings/footer.php:129
+#: inc/theme-settings/footer.php:175
+msgid "1"
+msgstr ""
+
+#: inc/theme-settings/event.php:56 inc/theme-settings/footer.php:130
+#: inc/theme-settings/footer.php:176 inc/theme-settings/room.php:58
+msgid "2"
+msgstr ""
+
+#: inc/theme-settings/event.php:57 inc/theme-settings/footer.php:131
+#: inc/theme-settings/footer.php:177 inc/theme-settings/room.php:59
+msgid "3"
+msgstr ""
+
+#: inc/theme-settings/event.php:64
+msgid "Page title Background color"
+msgstr ""
+
+#: inc/theme-settings/event.php:67 inc/theme-settings/event.php:75
+msgid "This option works if \"Page title > Show page title?\" chosen."
+msgstr ""
+
+#: inc/theme-settings/event.php:72
+msgid "Page title Background image"
+msgstr ""
+
+#: inc/theme-settings/event.php:80
+msgid "Single Event"
+msgstr ""
+
+#: inc/theme-settings/event.php:82
+msgid "Settings for single event page."
+msgstr ""
+
+#: inc/theme-settings/event.php:87
+msgid "Single Event Layout"
+msgstr ""
+
+#: inc/theme-settings/event.php:90 inc/theme-settings/room.php:48
+msgid "Right"
+msgstr ""
+
+#: inc/theme-settings/event.php:91
+msgid "Left"
+msgstr ""
+
+#: inc/theme-settings/footer.php:18 inc/theme-settings/footer.php:25
+msgid "Footer"
+msgstr ""
+
+#: inc/theme-settings/footer.php:27
+msgid "Settings for footer"
+msgstr ""
+
+#: inc/theme-settings/footer.php:33
+msgid "Copyright"
+msgstr ""
+
+#: inc/theme-settings/footer.php:40
+msgid "Social follow | Show"
+msgstr ""
+
+#: inc/theme-settings/footer.php:49
+msgid "Footer layout"
+msgstr ""
+
+#: inc/theme-settings/footer.php:52
+msgid "Classic"
+msgstr ""
+
+#: inc/theme-settings/footer.php:53
+msgid "Minimal with left logo"
+msgstr ""
+
+#: inc/theme-settings/footer.php:54
+msgid "Minimal with centered logo"
+msgstr ""
+
+#: inc/theme-settings/footer.php:57
+msgid "Select a layout to show in Footer page."
+msgstr ""
+
+#: inc/theme-settings/footer.php:62
+msgid "Right text"
+msgstr ""
+
+#: inc/theme-settings/footer.php:69
+msgid "Footer Background Type"
+msgstr ""
+
+#: inc/theme-settings/footer.php:74
+msgid "Color"
+msgstr ""
+
+#: inc/theme-settings/footer.php:75
+msgid "Image"
+msgstr ""
+
+#: inc/theme-settings/footer.php:97
+msgid "Footer left logo"
+msgstr ""
+
+#: inc/theme-settings/footer.php:107
+msgid "Footer centered logo"
+msgstr ""
+
+#: inc/theme-settings/footer.php:116 inc/theme-settings/footer.php:162
+msgid "Footer columns | Show"
+msgstr ""
+
+#: inc/theme-settings/footer.php:124 inc/theme-settings/footer.php:170
+msgid "Footer Columns"
+msgstr ""
+
+#: inc/theme-settings/footer.php:137
+msgid "Centered Logo Footer Sidebar 1"
+msgstr ""
+
+#: inc/theme-settings/footer.php:145
+msgid "Centered Logo Footer Sidebar 2"
+msgstr ""
+
+#: inc/theme-settings/footer.php:153
+msgid "Centered Logo Footer Sidebar 3"
+msgstr ""
+
+#: inc/theme-settings/footer.php:178 inc/theme-settings/room.php:60
+msgid "4"
+msgstr ""
+
+#: inc/theme-settings/footer.php:184
+msgid "Classic Footer Sidebar 1"
+msgstr ""
+
+#: inc/theme-settings/footer.php:192
+msgid "Classic Footer Sidebar 2"
+msgstr ""
+
+#: inc/theme-settings/footer.php:200
+msgid "Classic Footer Sidebar 3"
+msgstr ""
+
+#: inc/theme-settings/footer.php:208
+msgid "Classic Footer Sidebar 4"
+msgstr ""
+
+#: inc/theme-settings/footer.php:227
+msgid "Backup"
+msgstr ""
+
+#: inc/theme-settings/general.php:12
+msgid "General"
+msgstr ""
+
+#: inc/theme-settings/general.php:19
+msgid "Favicon"
+msgstr ""
+
+#: inc/theme-settings/general.php:26
+msgid ""
+"Please go to WP Admin > Appearance > Customize > Site Identity > Site Icon "
+"to change favicon."
+msgstr ""
+
+#: inc/theme-settings/header.php:9
+msgid "Header"
+msgstr ""
+
+#: inc/theme-settings/header.php:18
+msgid "Header desktop"
+msgstr ""
+
+#: inc/theme-settings/header.php:23
+msgid "Header layout"
+msgstr ""
+
+#: inc/theme-settings/header.php:24
+msgid "Select header layout"
+msgstr ""
+
+#: inc/theme-settings/header.php:29
+msgid "Classic header"
+msgstr ""
+
+#: inc/theme-settings/header.php:30
+msgid "Minimal with fullscreen menu"
+msgstr ""
+
+#: inc/theme-settings/header.php:31
+msgid "Mobile menu"
+msgstr ""
+
+#: inc/theme-settings/header.php:32
+msgid "Classic without transparent"
+msgstr ""
+
+#: inc/theme-settings/header.php:33
+msgid "Classic with centered logo"
+msgstr ""
+
+#: inc/theme-settings/header.php:34
+msgid "With slider"
+msgstr ""
+
+#: inc/theme-settings/header.php:40
+msgid "Header Sticky"
+msgstr ""
+
+#: inc/theme-settings/header.php:50
+msgid "Header classic logo"
+msgstr ""
+
+#: inc/theme-settings/header.php:59
+msgid "Header top left content"
+msgstr ""
+
+#: inc/theme-settings/header.php:67
+msgid "Header top right content"
+msgstr ""
+
+#: inc/theme-settings/header.php:77
+msgid "Header minimal logo"
+msgstr ""
+
+#: inc/theme-settings/header.php:85
+msgid "Fullscreen panel left sidebar"
+msgstr ""
+
+#: inc/theme-settings/header.php:93
+msgid "Fullscreen panel right sidebar"
+msgstr ""
+
+#: inc/theme-settings/header.php:103
+msgid "Header classic no transparent logo"
+msgstr ""
+
+#: inc/theme-settings/header.php:113
+msgid "Header centered logo"
+msgstr ""
+
+#: inc/theme-settings/header.php:123
+msgid "Header slider shortcode"
+msgstr ""
+
+#: inc/theme-settings/header.php:134
+msgid "Header mobile"
+msgstr ""
+
+#: inc/theme-settings/header.php:141
+msgid "Mobile small panel logo"
+msgstr ""
+
+#: inc/theme-settings/header.php:149
+msgid "Book button | Show"
+msgstr ""
+
+#: inc/theme-settings/header.php:157
+msgid "Mobile side panel logo"
+msgstr ""
+
+#: inc/theme-settings/header.php:165
+msgid "Mobile side panel logo background"
+msgstr ""
+
+#: inc/theme-settings/header.php:172
+msgid "Mobile side panel sidebar"
+msgstr ""
+
+#: inc/theme-settings/preloader.php:11
+msgid "Preloader"
+msgstr ""
+
+#: inc/theme-settings/preloader.php:18
+msgid "Enable preloader?"
+msgstr ""
+
+#: inc/theme-settings/preloader.php:25
+msgid "Preloader logo"
+msgstr ""
+
+#: inc/theme-settings/room.php:11
+msgid "Room"
+msgstr ""
+
+#: inc/theme-settings/room.php:18
+msgid "Room Archive"
+msgstr ""
+
+#: inc/theme-settings/room.php:20
+msgid "Settings for Room Archive page."
+msgstr ""
+
+#: inc/theme-settings/room.php:25
+msgid "Room layouts"
+msgstr ""
+
+#: inc/theme-settings/room.php:28
+msgid "Grid (default)"
+msgstr ""
+
+#: inc/theme-settings/room.php:29 inc/theme-settings/room.php:78
+msgid "Standard"
+msgstr ""
+
+#: inc/theme-settings/room.php:32
+msgid "Grid with extra info"
+msgstr ""
+
+#: inc/theme-settings/room.php:33
+msgid "Grid with extra info icon"
+msgstr ""
+
+#: inc/theme-settings/room.php:34
+msgid "Overlay with content"
+msgstr ""
+
+#: inc/theme-settings/room.php:35
+msgid "Overlay with extra info"
+msgstr ""
+
+#: inc/theme-settings/room.php:38
+msgid "Select a layout to show in List rooms page."
+msgstr ""
+
+#: inc/theme-settings/room.php:43
+msgid "Alignment"
+msgstr ""
+
+#: inc/theme-settings/room.php:46
+msgid "Left (default)"
+msgstr ""
+
+#: inc/theme-settings/room.php:47
+msgid "Center"
+msgstr ""
+
+#: inc/theme-settings/room.php:55
+msgid "Column"
+msgstr ""
+
+#: inc/theme-settings/room.php:68
+#: awebooking/template-parts/archive/view-more.php:20
+msgid "Room Detail"
+msgstr ""
+
+#: inc/theme-settings/room.php:70
+msgid "Settings for Room Detail page."
+msgstr ""
+
+#: inc/theme-settings/room.php:75
+msgid "Room detail layouts"
+msgstr ""
+
+#: inc/theme-settings/room.php:79
+msgid "Modern"
+msgstr ""
+
+#: inc/theme-settings/room.php:82
+msgid "Select a layout to show in Room detail page."
+msgstr ""
+
+#: template-parts/event-layout/content-detail-left.php:62
+#: template-parts/event-layout/content-detail-right.php:39
+#: template-parts/event-layout/content-list.php:51
+#: template-parts/event-layout/content-modern.php:51
+#: template-parts/event-layout/content-zigzag.php:51
+msgid "LOCATION"
+msgstr ""
+
+#: template-parts/event-layout/content-detail-left.php:71
+#: template-parts/event-layout/content-detail-right.php:48
+#: template-parts/event-layout/content-list.php:60
+#: template-parts/event-layout/content-modern.php:60
+#: template-parts/event-layout/content-zigzag.php:60
+msgid "TIME"
+msgstr ""
+
+#: template-parts/event-layout/content-detail-left.php:73
+#: template-parts/event-layout/content-detail-right.php:50
+#: template-parts/event-layout/content-list.php:62
+#: template-parts/event-layout/content-modern.php:62
+#: template-parts/event-layout/content-zigzag.php:62
+msgid "Start: "
+msgstr ""
+
+#: template-parts/event-layout/content-detail-left.php:75
+#: template-parts/event-layout/content-detail-right.php:52
+#: template-parts/event-layout/content-list.php:64
+#: template-parts/event-layout/content-modern.php:64
+#: template-parts/event-layout/content-zigzag.php:64
+msgid "End: "
+msgstr ""
+
+#: template-parts/event-layout/content-detail-left.php:82
+#: template-parts/event-layout/content-detail-right.php:59
+#: template-parts/event-layout/content-list.php:70
+#: template-parts/event-layout/content-modern.php:70
+#: template-parts/event-layout/content-zigzag.php:70
+msgid "Google Map"
+msgstr ""
+
+#: template-parts/event-layout/content-detail-left.php:91
+#: template-parts/package-layout/content-detail.php:41
+msgid "PRICE:"
+msgstr ""
+
+#: template-parts/event-layout/content-detail-left.php:107
+#: template-parts/event-layout/content-detail-right.php:85
+msgid "PHONE"
+msgstr ""
+
+#: template-parts/event-layout/content-detail-left.php:117
+#: template-parts/event-layout/content-detail-right.php:95
+msgid "EMAIL"
+msgstr ""
+
+#: template-parts/event-layout/content-detail-left.php:129
+#: template-parts/event-layout/content-detail-right.php:107
+msgid "ADDRESS"
+msgstr ""
+
+#: template-parts/event-layout/content-detail-right.php:35
+msgid "Information Event"
+msgstr ""
+
+#: template-parts/event-layout/content-detail-right.php:68
+msgid "Price:"
+msgstr ""
+
+#: template-parts/event-layout/content-detail-right.php:81
+msgid "Organizer"
+msgstr ""
+
+#: template-parts/event-layout/content-related.php:14
+msgid "Related Events"
+msgstr ""
+
+#: template-parts/header/header-centered-logo.php:44
+#: template-parts/header/header-classic-no-transparent.php:36
+#: template-parts/header/header-classic.php:32
+#: template-parts/header/header-with-slider.php:38
+msgid "Home"
+msgstr ""
+
+#: template-parts/header/header-mobile.php:20
+msgid "BOOK"
+msgstr ""
+
+#: vc_templates/galleries_tpl/layout-grid.php:10
+#: vc_templates/galleries_tpl/layout-grid.php:12
+#: vc_templates/galleries_tpl/layout-masonry.php:10
+#: vc_templates/galleries_tpl/layout-masonry.php:12
+msgid "All"
+msgstr ""
+
+#: vc_templates/testimonials_carousel_tpl/layout-centered_big_content.php:29
+#: vc_templates/testimonials_carousel_tpl/layout-centered_small_content.php:33
+#: vc_templates/testimonials_carousel_tpl/layout-list.php:30
+msgid "From"
+msgstr ""
+
+#: awebooking/template-parts/archive/content-grid_extra_info.php:69
+#, php-format
+msgid "Size %s"
+msgstr ""
+
+#: awebooking/template-parts/single/tabs.php:21
+msgid "Description"
+msgstr ""
+
+#: awebooking/template-parts/single/tabs.php:25
+msgid "Amenities"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Fleurdesel impresses at the very first glance with its modern and elegant "
+"design. From a visual perspective, you’re immediately blown away by the "
+"brilliant full-screen slider that dominates the homepage in all of 6 "
+"homepage variation, providing an impressively immersive effect."
+msgstr ""
+
+#. URI of the theme
+msgid "http://demo.awethemes.com/fleurdesel"
+msgstr ""
+
+#. Author of the theme
+msgid "Awethemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://awethemes.com/"
+msgstr ""

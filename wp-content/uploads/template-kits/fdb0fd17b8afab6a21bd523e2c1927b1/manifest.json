@@ -1,0 +1,1537 @@
+{
+    "manifest_version": "1.0.18",
+    "title": "Resortly",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kit.detheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/kit.detheme.com\/resortly\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.png",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kit.detheme.com\/resortly\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.png",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/kit.detheme.com\/resortly\/?elementor_library=404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Archive",
+            "screenshot": "screenshots\/archive.jpg",
+            "source": "templates\/archive.json",
+            "preview_url": "https:\/\/kit.detheme.com\/resortly\/?elementor_library=archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/kit.detheme.com\/resortly\/?elementor_library=single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Offcanvas",
+            "screenshot": "screenshots\/offcanvas.png",
+            "source": "templates\/offcanvas.json",
+            "preview_url": "https:\/\/kit.detheme.com\/resortly\/?elementor_library=offcanvas",
+            "type": "popup",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "popup",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Popup\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Optin Popup",
+            "screenshot": "screenshots\/optin-popup.png",
+            "source": "templates\/optin-popup.json",
+            "preview_url": "https:\/\/kit.detheme.com\/resortly\/?elementor_library=optin-popup",
+            "type": "popup",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "popup",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Popup\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Style Guide",
+            "screenshot": "screenshots\/style-guide.jpg",
+            "source": "templates\/style-guide.json",
+            "preview_url": "https:\/\/kit.detheme.com\/resortly\/template-kit\/style-guide\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Booking",
+            "screenshot": "screenshots\/booking.jpg",
+            "source": "templates\/booking.json",
+            "preview_url": "https:\/\/kit.detheme.com\/resortly\/template-kit\/booking\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kit.detheme.com\/resortly\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/kit.detheme.com\/resortly\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/kit.detheme.com\/resortly\/template-kit\/coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kit.detheme.com\/resortly\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/kit.detheme.com\/resortly\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Rooms",
+            "screenshot": "screenshots\/rooms.jpg",
+            "source": "templates\/rooms.json",
+            "preview_url": "https:\/\/kit.detheme.com\/resortly\/template-kit\/rooms\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Service",
+            "screenshot": "screenshots\/service.jpg",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/kit.detheme.com\/resortly\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kit.detheme.com\/resortly\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "DethemeKit for Elementor",
+            "version": "1.5.4.2",
+            "file": "dethemekit-for-elementor\/detheme-kit.php",
+            "author": "deTheme"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.0.9",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.0.16",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "tropical-resort-P56LLKR-e1610592826532.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/tropical-resort-P56LLKR-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 307159,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P56LLKR"
+        },
+        {
+            "filename": "aerial-view-of-beautiful-hotel-on-the-water-in-oce-4PSJRVZ-e1610592800742.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/aerial-view-of-beautiful-hotel-on-the-water-in-oce-4PSJRVZ-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 260724,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4PSJRVZ"
+        },
+        {
+            "filename": "bungalows-at-a-luxury-resort-47YMEF6-e1610592761965.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/bungalows-at-a-luxury-resort-47YMEF6-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                }
+            ],
+            "filesize": 379468,
+            "dimensions": [
+                1400,
+                934
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-47YMEF6"
+        },
+        {
+            "filename": "ALBION-dark.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/ALBION-dark.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 2741,
+            "dimensions": [
+                240,
+                75
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "dark-1.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/dark-1.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 2530,
+            "dimensions": [
+                210,
+                75
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "dark.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/dark.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 3034,
+            "dimensions": [
+                326,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "De\u0300xor.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/De\u0300xor.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 3447,
+            "dimensions": [
+                358,
+                86
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-1.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/Group-1.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 4652,
+            "dimensions": [
+                335,
+                99
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-2.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/Group-2.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 4717,
+            "dimensions": [
+                264,
+                101
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "ISAAC.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/ISAAC.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 2788,
+            "dimensions": [
+                284,
+                67
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-dark-1.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/logo-dark-1.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 11570,
+            "dimensions": [
+                284,
+                127
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-dark-1-1.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/logo-dark-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 3138,
+            "dimensions": [
+                247,
+                89
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-dark-2.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/logo-dark-2.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 3752,
+            "dimensions": [
+                305,
+                121
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "happy-couple-at-a-resort-TYH4WPU.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/happy-couple-at-a-resort-TYH4WPU-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single post"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 365760,
+            "dimensions": [
+                1800,
+                1202
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TYH4WPU"
+        },
+        {
+            "filename": "hotel-8NMZWXE.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/hotel-8NMZWXE-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 189508,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-8NMZWXE"
+        },
+        {
+            "filename": "hotel-HTP2XSE.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/hotel-HTP2XSE-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 262188,
+            "dimensions": [
+                1800,
+                1201
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-HTP2XSE"
+        },
+        {
+            "filename": "resort-town-in-greece-XKRVPA6-e1610592845733.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/resort-town-in-greece-XKRVPA6-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 321330,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XKRVPA6"
+        },
+        {
+            "filename": "luxury-beach-resort-BHT4WWB.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/luxury-beach-resort-BHT4WWB-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 376532,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-BHT4WWB"
+        },
+        {
+            "filename": "a-bird-39-s-eye-view-of-the-beach-near-the-resort-56SDZZC-e1610592861760.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/a-bird-39-s-eye-view-of-the-beach-near-the-resort-56SDZZC-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/offcanvas.json",
+                    "name": "Offcanvas"
+                }
+            ],
+            "filesize": 293187,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-56SDZZC"
+        },
+        {
+            "filename": "resort-pool-sunset-RAJV5MM.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/resort-pool-sunset-RAJV5MM-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                }
+            ],
+            "filesize": 265888,
+            "dimensions": [
+                1800,
+                1350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RAJV5MM"
+        },
+        {
+            "filename": "flamingo-float-around-swimming-pool-in-hotel-resor-8RE79VY.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/flamingo-float-around-swimming-pool-in-hotel-resor-8RE79VY-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single post"
+                },
+                {
+                    "source": "templates\/optin-popup.json",
+                    "name": "Optin Popup"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 247893,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-8RE79VY"
+        },
+        {
+            "filename": "the-lobby-of-the-hotel-PEX7WLZ.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/the-lobby-of-the-hotel-PEX7WLZ-600x388.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/style-guide.json",
+                    "name": "Style Guide"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                }
+            ],
+            "filesize": 379495,
+            "dimensions": [
+                1800,
+                1165
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PEX7WLZ"
+        },
+        {
+            "filename": "3d-rendering-luxury-tropical-bedroom-suite-in-reso-JQKGC5L-e1610592878655.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/3d-rendering-luxury-tropical-bedroom-suite-in-reso-JQKGC5L-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 270508,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-JQKGC5L"
+        },
+        {
+            "filename": "luxury-family-room-8V32SB5.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/luxury-family-room-8V32SB5-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/offcanvas.json",
+                    "name": "Offcanvas"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 415345,
+            "dimensions": [
+                1800,
+                1350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-8V32SB5"
+        },
+        {
+            "filename": "logo-white.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/logo-white-600x196.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/offcanvas.json",
+                    "name": "Offcanvas"
+                }
+            ],
+            "filesize": 14832,
+            "dimensions": [
+                944,
+                308
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "young-businessman-in-the-hotel-A5N98SF.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/young-businessman-in-the-hotel-A5N98SF-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 187511,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-A5N98SF"
+        },
+        {
+            "filename": "the-famous-tourist-resort-positano-AKVLCKM-e1610592895296.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/the-famous-tourist-resort-positano-AKVLCKM-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                }
+            ],
+            "filesize": 375139,
+            "dimensions": [
+                1300,
+                867
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AKVLCKM"
+        },
+        {
+            "filename": "placeholder.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/placeholder-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single post"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-1.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/placeholder-1-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single post"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "vertical-line-by-rio.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/vertical-line-by-rio.png",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single post"
+                }
+            ],
+            "filesize": 139,
+            "dimensions": [
+                4,
+                16
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "young-cosmetologist-focused-on-work-R5ESGL8.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/young-cosmetologist-focused-on-work-R5ESGL8-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single post"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 281883,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-R5ESGL8"
+        },
+        {
+            "filename": "sexy-girl-relaxing-with-cup-of-coffee-in-spa-chair-RG4FKYD.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/sexy-girl-relaxing-with-cup-of-coffee-in-spa-chair-RG4FKYD-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single post"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 214670,
+            "dimensions": [
+                1800,
+                1202
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RG4FKYD"
+        },
+        {
+            "filename": "medical-hot-tubs-in-the-rehabilitation-treatment-r-4PKWH5S.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/medical-hot-tubs-in-the-rehabilitation-treatment-r-4PKWH5S-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single post"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 292719,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4PKWH5S"
+        },
+        {
+            "filename": "3d-rendering-luxury-tropical-bedroom-suite-in-reso-WBYZSNR.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/3d-rendering-luxury-tropical-bedroom-suite-in-reso-WBYZSNR-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/offcanvas.json",
+                    "name": "Offcanvas"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                }
+            ],
+            "filesize": 402895,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-WBYZSNR"
+        },
+        {
+            "filename": "abandoned-hotel-P85U2XF-e1610592911596.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/abandoned-hotel-P85U2XF-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/offcanvas.json",
+                    "name": "Offcanvas"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 369820,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P85U2XF"
+        },
+        {
+            "filename": "outdoor-restaurant-prepared-desk-waiting-for-food-FPDFRWT.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/outdoor-restaurant-prepared-desk-waiting-for-food-FPDFRWT-800x449.jpg",
+            "templates": [
+                {
+                    "source": "templates\/offcanvas.json",
+                    "name": "Offcanvas"
+                }
+            ],
+            "filesize": 380230,
+            "dimensions": [
+                1800,
+                1010
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FPDFRWT"
+        },
+        {
+            "filename": "mountain-ski-resort-PC8JW3U-e1610592925806.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/mountain-ski-resort-PC8JW3U-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/offcanvas.json",
+                    "name": "Offcanvas"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 298961,
+            "dimensions": [
+                1400,
+                932
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PC8JW3U"
+        },
+        {
+            "filename": "ski-resort-QZKWT36-e1610592944139.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/ski-resort-QZKWT36-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                }
+            ],
+            "filesize": 319109,
+            "dimensions": [
+                1400,
+                934
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-QZKWT36"
+        },
+        {
+            "filename": "vihula-manor-hotel-bedroom-interior-YC84YHL.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/vihula-manor-hotel-bedroom-interior-YC84YHL-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                }
+            ],
+            "filesize": 287525,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-YC84YHL"
+        },
+        {
+            "filename": "hotel-room-VMF28RA.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/hotel-room-VMF28RA-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 121140,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-VMF28RA"
+        },
+        {
+            "filename": "interior-of-hotel-room-P8CKVZP.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/interior-of-hotel-room-P8CKVZP-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                }
+            ],
+            "filesize": 296879,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P8CKVZP"
+        },
+        {
+            "filename": "hotel-room-9RDF6RK.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/hotel-room-9RDF6RK-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                }
+            ],
+            "filesize": 356639,
+            "dimensions": [
+                1800,
+                1350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-9RDF6RK"
+        },
+        {
+            "filename": "hotel-in-reykjavik-L7RVVS9.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/hotel-in-reykjavik-L7RVVS9-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                }
+            ],
+            "filesize": 229566,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-L7RVVS9"
+        },
+        {
+            "filename": "interior-of-a-modern-hotel-bathroom-PTGA9DG.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/interior-of-a-modern-hotel-bathroom-PTGA9DG-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                }
+            ],
+            "filesize": 219878,
+            "dimensions": [
+                1800,
+                1199
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PTGA9DG"
+        },
+        {
+            "filename": "beach-resort-with-sunbeds-QP2KMXV.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/beach-resort-with-sunbeds-QP2KMXV-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 346296,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-QP2KMXV"
+        },
+        {
+            "filename": "relax-in-a-resort-9BRTQF5-e1610592979248.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/relax-in-a-resort-9BRTQF5-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 293595,
+            "dimensions": [
+                1200,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-9BRTQF5"
+        },
+        {
+            "filename": "nerja-in-spain-people-resting-on-beach-calahonda-c-5YUKMYF-e1610592997139.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/nerja-in-spain-people-resting-on-beach-calahonda-c-5YUKMYF-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 320444,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-5YUKMYF"
+        },
+        {
+            "filename": "bungalows-at-a-luxury-resort-47YMEF6-1-e1610592743137.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/bungalows-at-a-luxury-resort-47YMEF6-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 379468,
+            "dimensions": [
+                1400,
+                934
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-47YMEF6"
+        },
+        {
+            "filename": "group-of-hotel-staffs-standing-in-hotel-M432MEZ.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/group-of-hotel-staffs-standing-in-hotel-M432MEZ-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 186350,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-M432MEZ"
+        },
+        {
+            "filename": "gold-1.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/resortly\/wp-content\/uploads\/sites\/59\/2021\/01\/gold-1.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 8986,
+            "dimensions": [
+                472,
+                154
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

@@ -1,0 +1,1643 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Brooklyn Heights - Private Villa & Hotel Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "3.2.4",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kits.artstudioworks.net",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Post single content",
+            "screenshot": "screenshots\/post-single-content.jpg",
+            "source": "templates\/post-single-content.json",
+            "preview_url": "https:\/\/kits.artstudioworks.net\/brooklyn-heights\/template-kit\/post-single-content\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 4",
+            "screenshot": "screenshots\/home-4.jpg",
+            "source": "templates\/home-4.json",
+            "preview_url": "https:\/\/kits.artstudioworks.net\/brooklyn-heights\/template-kit\/home-4\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1.json",
+            "preview_url": "https:\/\/kits.artstudioworks.net\/brooklyn-heights\/template-kit\/home-1\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Amenities",
+            "screenshot": "screenshots\/amenities.jpg",
+            "source": "templates\/amenities.json",
+            "preview_url": "https:\/\/kits.artstudioworks.net\/brooklyn-heights\/template-kit\/amenities\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3.json",
+            "preview_url": "https:\/\/kits.artstudioworks.net\/brooklyn-heights\/template-kit\/home-3\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2.json",
+            "preview_url": "https:\/\/kits.artstudioworks.net\/brooklyn-heights\/template-kit\/home-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 5",
+            "screenshot": "screenshots\/home-5.jpg",
+            "source": "templates\/home-5.json",
+            "preview_url": "https:\/\/kits.artstudioworks.net\/brooklyn-heights\/template-kit\/home-5\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 6",
+            "screenshot": "screenshots\/home-6.jpg",
+            "source": "templates\/home-6.json",
+            "preview_url": "https:\/\/kits.artstudioworks.net\/brooklyn-heights\/template-kit\/home-6\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single listing",
+            "screenshot": "screenshots\/single-listing.jpg",
+            "source": "templates\/single-listing.json",
+            "preview_url": "https:\/\/kits.artstudioworks.net\/brooklyn-heights\/template-kit\/single-listing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single listing alt",
+            "screenshot": "screenshots\/single-listing-alt.jpg",
+            "source": "templates\/single-listing-alt.json",
+            "preview_url": "https:\/\/kits.artstudioworks.net\/brooklyn-heights\/template-kit\/single-listing-alt\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Rooms & Rates",
+            "screenshot": "screenshots\/rooms-rates.jpg",
+            "source": "templates\/rooms-rates.json",
+            "preview_url": "https:\/\/kits.artstudioworks.net\/brooklyn-heights\/template-kit\/rooms-rates\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/kits.artstudioworks.net\/brooklyn-heights\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.png",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kits.artstudioworks.net\/brooklyn-heights\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Book you stay popup",
+            "screenshot": "screenshots\/book-you-stay-popup.jpg",
+            "source": "templates\/book-you-stay-popup.json",
+            "preview_url": "https:\/\/kits.artstudioworks.net\/brooklyn-heights\/?elementor_library=popup",
+            "type": "popup",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "popup",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Popup\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header main",
+            "screenshot": "screenshots\/header-main.jpg",
+            "source": "templates\/header-main.json",
+            "preview_url": "https:\/\/kits.artstudioworks.net\/brooklyn-heights\/?elementor_library=header_2",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/singular\/page\/1158",
+                    "include\/singular\/page\/1706",
+                    "include\/singular\/post",
+                    "include\/singular\/page\/2635",
+                    "include\/singular\/page\/722"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Page #722 &amp; Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/kits.artstudioworks.net\/brooklyn-heights\/?elementor_library=404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kits.artstudioworks.net\/brooklyn-heights\/?elementor_library=blog-2",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive\/post_archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: Posts Archive."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/kits.artstudioworks.net\/brooklyn-heights\/?elementor_library=single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header overlay",
+            "screenshot": "screenshots\/header-overlay.jpg",
+            "source": "templates\/header-overlay.json",
+            "preview_url": "https:\/\/kits.artstudioworks.net\/brooklyn-heights\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.2.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.0.10",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "home-4-img1.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/home-4-img1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home 4"
+                }
+            ],
+            "filesize": 83740,
+            "dimensions": [
+                495,
+                515
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/XSpaji6WSrU"
+        },
+        {
+            "filename": "home-i4-img2.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/home-i4-img2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home 4"
+                }
+            ],
+            "filesize": 61493,
+            "dimensions": [
+                295,
+                411
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/dPBdgcSXHXY"
+        },
+        {
+            "filename": "post_img.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/post_img.jpg",
+            "templates": [
+                {
+                    "source": "templates\/post-single-content.json",
+                    "name": "Post single content"
+                }
+            ],
+            "filesize": 51581,
+            "dimensions": [
+                350,
+                289
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/XSpaji6WSrU"
+        },
+        {
+            "filename": "home4-img.png",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/home4-img.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home 4"
+                }
+            ],
+            "filesize": 6701,
+            "dimensions": [
+                228,
+                67
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/home4-img.png"
+        },
+        {
+            "filename": "home4-banner.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/home4-banner-800x723.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/rooms-rates.json",
+                    "name": "Rooms & Rates"
+                }
+            ],
+            "filesize": 235822,
+            "dimensions": [
+                1118,
+                1010
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/RiOhen_OLPs"
+        },
+        {
+            "filename": "people_icon3.png",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/people_icon3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 3701,
+            "dimensions": [
+                44,
+                46
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/thenounproject.com\/term\/user\/3667616\/"
+        },
+        {
+            "filename": "icon_home2.png",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/icon_home2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 3948,
+            "dimensions": [
+                58,
+                50
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/thenounproject.com\/term\/mountain\/742857\/"
+        },
+        {
+            "filename": "banner_3.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/banner_3-800x723.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home 4"
+                }
+            ],
+            "filesize": 360206,
+            "dimensions": [
+                1118,
+                1010
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/wbIw84HTI8w"
+        },
+        {
+            "filename": "img_home4.png",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/img_home4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home 4"
+                }
+            ],
+            "filesize": 4033,
+            "dimensions": [
+                52,
+                50
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/thenounproject.com\/term\/sea\/1898390\/"
+        },
+        {
+            "filename": "before.png",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/before-800x63.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/amenities.json",
+                    "name": "Amenities"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/single-listing.json",
+                    "name": "Single listing"
+                },
+                {
+                    "source": "templates\/single-listing-alt.json",
+                    "name": "Single listing alt"
+                },
+                {
+                    "source": "templates\/rooms-rates.json",
+                    "name": "Rooms & Rates"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/book-you-stay-popup.json",
+                    "name": "Book you stay popup"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 13822,
+            "dimensions": [
+                1377,
+                109
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/before-800x63.png"
+        },
+        {
+            "filename": "banner.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/banner-800x399.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 120862,
+            "dimensions": [
+                1903,
+                950
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/5JOMpgzPDK4"
+        },
+        {
+            "filename": "banner_1.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/banner_1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                }
+            ],
+            "filesize": 149376,
+            "dimensions": [
+                771,
+                697
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/RiOhen_OLPs"
+        },
+        {
+            "filename": "icon_1.png",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/icon_1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/single-listing.json",
+                    "name": "Single listing"
+                },
+                {
+                    "source": "templates\/single-listing-alt.json",
+                    "name": "Single listing alt"
+                }
+            ],
+            "filesize": 3573,
+            "dimensions": [
+                44,
+                46
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/thenounproject.com\/term\/user\/3667616\/"
+        },
+        {
+            "filename": "icon_2.png",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/icon_2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/single-listing.json",
+                    "name": "Single listing"
+                },
+                {
+                    "source": "templates\/single-listing-alt.json",
+                    "name": "Single listing alt"
+                }
+            ],
+            "filesize": 3775,
+            "dimensions": [
+                58,
+                50
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/thenounproject.com\/term\/mountain\/742857\/"
+        },
+        {
+            "filename": "icon_3.png",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/icon_3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                }
+            ],
+            "filesize": 3892,
+            "dimensions": [
+                52,
+                50
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/thenounproject.com\/term\/sea\/1898390\/"
+        },
+        {
+            "filename": "banner_2.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/banner_2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                }
+            ],
+            "filesize": 211323,
+            "dimensions": [
+                771,
+                697
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/mUFlMcIpEsE"
+        },
+        {
+            "filename": "banner_3.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/banner_3-800x615.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 163090,
+            "dimensions": [
+                853,
+                656
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/9ISAqlNk93o"
+        },
+        {
+            "filename": "gallery.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/gallery.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 104101,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/5JOMpgzPDK4"
+        },
+        {
+            "filename": "gallery_2.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/gallery_2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 123989,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/asvOUhx84O8"
+        },
+        {
+            "filename": "gallery_3.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/gallery_3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 161071,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/b650UcXvYUk"
+        },
+        {
+            "filename": "gallery_4.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/gallery_4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 220656,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/wbIw84HTI8w"
+        },
+        {
+            "filename": "gallery_5.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/gallery_5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 149669,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Y1P34mzIE"
+        },
+        {
+            "filename": "gallery_6.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/gallery_6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 111454,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/S0Xf0Vf1LJI"
+        },
+        {
+            "filename": "gallery_7.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/gallery_7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 210009,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/oZpq_rAITG4"
+        },
+        {
+            "filename": "gallery_8.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/gallery_8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 119712,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/UpZzX87_tc"
+        },
+        {
+            "filename": "header_bg.png",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/header_bg-800x206.png",
+            "templates": [
+                {
+                    "source": "templates\/amenities.json",
+                    "name": "Amenities"
+                },
+                {
+                    "source": "templates\/rooms-rates.json",
+                    "name": "Rooms & Rates"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 847571,
+            "dimensions": [
+                1903,
+                489
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/header_bg-800x206.png"
+        },
+        {
+            "filename": "img-2.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/img-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/amenities.json",
+                    "name": "Amenities"
+                }
+            ],
+            "filesize": 255838,
+            "dimensions": [
+                547,
+                520
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/sNCQ4X0ii0s"
+        },
+        {
+            "filename": "img-3.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/img-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/amenities.json",
+                    "name": "Amenities"
+                }
+            ],
+            "filesize": 387862,
+            "dimensions": [
+                547,
+                520
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/wbIw84HTI8w"
+        },
+        {
+            "filename": "img-4.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/img-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/amenities.json",
+                    "name": "Amenities"
+                }
+            ],
+            "filesize": 343179,
+            "dimensions": [
+                547,
+                520
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/y_xYxAh8wqk"
+        },
+        {
+            "filename": "banner_home_3.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/banner_home_3-800x320.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 324357,
+            "dimensions": [
+                1823,
+                730
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/wbIw84HTI8w"
+        },
+        {
+            "filename": "img2.png",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/img2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 3175,
+            "dimensions": [
+                261,
+                101
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/img2.png"
+        },
+        {
+            "filename": "img1.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/img1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 78910,
+            "dimensions": [
+                508,
+                460
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/asvOUhx84O8"
+        },
+        {
+            "filename": "img4.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/img4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 85827,
+            "dimensions": [
+                450,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/RiOhen_OLPs"
+        },
+        {
+            "filename": "img9.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/img9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 99729,
+            "dimensions": [
+                450,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/mUFlMcIpEsE"
+        },
+        {
+            "filename": "img8.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/img8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 91530,
+            "dimensions": [
+                450,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/wbIw84HTI8w"
+        },
+        {
+            "filename": "img6.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/img6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 39758,
+            "dimensions": [
+                450,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/5JOMpgzPDK4"
+        },
+        {
+            "filename": "banner_left.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/banner_left.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 50780,
+            "dimensions": [
+                287,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/XSpaji6WSrU"
+        },
+        {
+            "filename": "banner_2.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/banner_2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 107741,
+            "dimensions": [
+                590,
+                518
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/9ISAqlNk93o"
+        },
+        {
+            "filename": "banner_right.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/banner_right.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 38569,
+            "dimensions": [
+                257,
+                288
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/h62Z0ERBI8Y"
+        },
+        {
+            "filename": "img_home2.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/img_home2-800x640.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 134772,
+            "dimensions": [
+                864,
+                691
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/RiOhen_OLPs"
+        },
+        {
+            "filename": "img_home3.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/img_home3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 53797,
+            "dimensions": [
+                461,
+                515
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/5JOMpgzPDK4"
+        },
+        {
+            "filename": "people_icon4.png",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/people_icon4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 16793,
+            "dimensions": [
+                362,
+                248
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": " https:\/\/www.iconfinder.com\/icons\/4307866\/farm_home_house_space_villa_icon"
+        },
+        {
+            "filename": "gall.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/gall.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 135517,
+            "dimensions": [
+                800,
+                1042
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/S0Xf0Vf1LJI"
+        },
+        {
+            "filename": "gallery_10.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/gallery_10.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 185599,
+            "dimensions": [
+                800,
+                889
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/dPBdgcSXHXY"
+        },
+        {
+            "filename": "gallery_11.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/gallery_11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 129809,
+            "dimensions": [
+                800,
+                889
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/5wFcCUT9THY"
+        },
+        {
+            "filename": "gallery_12.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/gallery_12.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 127791,
+            "dimensions": [
+                800,
+                889
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/asvOUhx84O8"
+        },
+        {
+            "filename": "gall_2.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/05\/gall_2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 133057,
+            "dimensions": [
+                800,
+                1103
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/h62Z0ERBI8Y"
+        },
+        {
+            "filename": "banner.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/banner-800x416.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                }
+            ],
+            "filesize": 233976,
+            "dimensions": [
+                1543,
+                803
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/zBG68U56GgY"
+        },
+        {
+            "filename": "element.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/element.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                }
+            ],
+            "filesize": 65742,
+            "dimensions": [
+                431,
+                492
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/element.jpg"
+        },
+        {
+            "filename": "banner_4.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/banner_4-800x416.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                }
+            ],
+            "filesize": 126851,
+            "dimensions": [
+                1543,
+                803
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/pGba3ewXzaM"
+        },
+        {
+            "filename": "rating.png",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/rating.png",
+            "templates": [
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/rooms-rates.json",
+                    "name": "Rooms & Rates"
+                }
+            ],
+            "filesize": 4473,
+            "dimensions": [
+                74,
+                105
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/rating.png"
+        },
+        {
+            "filename": "home-6.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/home-6-800x377.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                }
+            ],
+            "filesize": 301607,
+            "dimensions": [
+                1721,
+                810
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/3AQoI70U9FQ"
+        },
+        {
+            "filename": "home-6_img.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/home-6_img.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                }
+            ],
+            "filesize": 99066,
+            "dimensions": [
+                770,
+                471
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/GRG2-GVWpqk"
+        },
+        {
+            "filename": "banner-listing.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/banner-listing-800x399.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-listing.json",
+                    "name": "Single listing"
+                }
+            ],
+            "filesize": 243057,
+            "dimensions": [
+                1903,
+                950
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/RiOhen_OLPs"
+        },
+        {
+            "filename": "img-1.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/img-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-listing.json",
+                    "name": "Single listing"
+                }
+            ],
+            "filesize": 77580,
+            "dimensions": [
+                311,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/FqqiAvJejto"
+        },
+        {
+            "filename": "img-31.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/img-31.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-listing.json",
+                    "name": "Single listing"
+                }
+            ],
+            "filesize": 83190,
+            "dimensions": [
+                311,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/GqtIN58Tm0k"
+        },
+        {
+            "filename": "img-21.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/img-21.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-listing.json",
+                    "name": "Single listing"
+                }
+            ],
+            "filesize": 145245,
+            "dimensions": [
+                311,
+                408
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/z9vnGEGZPjw"
+        },
+        {
+            "filename": "banner-3.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/banner-3-800x607.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-listing-alt.json",
+                    "name": "Single listing alt"
+                }
+            ],
+            "filesize": 154353,
+            "dimensions": [
+                894,
+                678
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/mUFlMcIpEsE"
+        },
+        {
+            "filename": "banner21.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/banner21.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-listing-alt.json",
+                    "name": "Single listing alt"
+                }
+            ],
+            "filesize": 95795,
+            "dimensions": [
+                370,
+                231
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/FqqiAvJejto"
+        },
+        {
+            "filename": "banner23.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/banner23.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-listing-alt.json",
+                    "name": "Single listing alt"
+                }
+            ],
+            "filesize": 103127,
+            "dimensions": [
+                371,
+                246
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/GqtIN58Tm0k"
+        },
+        {
+            "filename": "banner22.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/banner22.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-listing-alt.json",
+                    "name": "Single listing alt"
+                }
+            ],
+            "filesize": 174677,
+            "dimensions": [
+                371,
+                485
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/z9vnGEGZPjw"
+        },
+        {
+            "filename": "room.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/room-800x480.jpg",
+            "templates": [
+                {
+                    "source": "templates\/rooms-rates.json",
+                    "name": "Rooms & Rates"
+                }
+            ],
+            "filesize": 499448,
+            "dimensions": [
+                1920,
+                1152
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/mUFlMcIpEsE"
+        },
+        {
+            "filename": "room-1.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/room-1-800x480.jpg",
+            "templates": [
+                {
+                    "source": "templates\/rooms-rates.json",
+                    "name": "Rooms & Rates"
+                }
+            ],
+            "filesize": 277691,
+            "dimensions": [
+                1920,
+                1152
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/dPBdgcSXHXY"
+        },
+        {
+            "filename": "404.jpg",
+            "thumbnail_url": "http:\/\/kits.artstudioworks.net\/brooklyn-heights\/wp-content\/uploads\/sites\/8\/2021\/06\/404-800x399.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 206089,
+            "dimensions": [
+                1903,
+                950
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/5JOMpgzPDK4"
+        }
+    ]
+}

@@ -1,0 +1,1195 @@
+{
+    "manifest_version": "1.0.14",
+    "title": "Byra | Hotel & Resort",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/tpkit.colllabstudio.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog Archive",
+            "screenshot": "screenshots\/blog-archive.png",
+            "source": "templates\/blog-archive.json",
+            "preview_url": "https:\/\/tpkit.colllabstudio.com\/?elementor_library=elementor-archive-2002",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog Archive 2",
+            "screenshot": "screenshots\/blog-archive-2.png",
+            "source": "templates\/blog-archive-2.json",
+            "preview_url": "https:\/\/tpkit.colllabstudio.com\/?elementor_library=elementor-archive-1987",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/tpkit.colllabstudio.com\/?elementor_library=404-2",
+            "type": "single",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog Single Post",
+            "screenshot": "screenshots\/blog-single-post.png",
+            "source": "templates\/blog-single-post.json",
+            "preview_url": "https:\/\/tpkit.colllabstudio.com\/?elementor_library=blog-single-post-2",
+            "type": "single",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.png",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/tpkit.colllabstudio.com\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.png",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/tpkit.colllabstudio.com\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.png",
+            "source": "templates\/home-2.json",
+            "preview_url": "https:\/\/tpkit.colllabstudio.com\/template-kit\/byra-home-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.png",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/tpkit.colllabstudio.com\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Rooms",
+            "screenshot": "screenshots\/rooms.png",
+            "source": "templates\/rooms.json",
+            "preview_url": "https:\/\/tpkit.colllabstudio.com\/template-kit\/rooms\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Rooms Grid",
+            "screenshot": "screenshots\/rooms-grid.png",
+            "source": "templates\/rooms-grid.json",
+            "preview_url": "https:\/\/tpkit.colllabstudio.com\/template-kit\/rooms-grid\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Rooms Single",
+            "screenshot": "screenshots\/rooms-single.png",
+            "source": "templates\/rooms-single.json",
+            "preview_url": "https:\/\/tpkit.colllabstudio.com\/template-kit\/rooms-single\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.png",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/tpkit.colllabstudio.com\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Special Offer",
+            "screenshot": "screenshots\/special-offer.png",
+            "source": "templates\/special-offer.json",
+            "preview_url": "https:\/\/tpkit.colllabstudio.com\/template-kit\/special-offer\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/tpkit.colllabstudio.com\/?elementor_library=header-1",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "3.0.0",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.0.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "couple-travel-luxury-resort-2MEYZZE-2.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/couple-travel-luxury-resort-2MEYZZE-2-600x338.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog-archive.json",
+                    "name": "Blog Archive"
+                },
+                {
+                    "source": "templates\/blog-archive-2.json",
+                    "name": "Blog Archive 2"
+                }
+            ],
+            "filesize": 441922,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2MEYZZE"
+        },
+        {
+            "filename": "luxury-resort-PLRA4M3-2.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/luxury-resort-PLRA4M3-2-600x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/rooms-grid.json",
+                    "name": "Rooms Grid"
+                },
+                {
+                    "source": "templates\/special-offer.json",
+                    "name": "Special Offer"
+                }
+            ],
+            "filesize": 408060,
+            "dimensions": [
+                1440,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PLRA4M3"
+        },
+        {
+            "filename": "fitness-instructor-posing-P222PPE.png",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/fitness-instructor-posing-P222PPE.png",
+            "templates": [
+                {
+                    "source": "templates\/blog-single-post.json",
+                    "name": "Blog Single Post"
+                }
+            ],
+            "filesize": 246928,
+            "dimensions": [
+                550,
+                550
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P222PPE"
+        },
+        {
+            "filename": "couple-travel-luxury-resort-2MEYZZE.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/couple-travel-luxury-resort-2MEYZZE-600x338.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/rooms-grid.json",
+                    "name": "Rooms Grid"
+                },
+                {
+                    "source": "templates\/rooms-single.json",
+                    "name": "Rooms Single"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/special-offer.json",
+                    "name": "Special Offer"
+                }
+            ],
+            "filesize": 441922,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2MEYZZE"
+        },
+        {
+            "filename": "luxury-resort-on-a-tropical-island-with-palm-trees-PBQGMCC.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/luxury-resort-on-a-tropical-island-with-palm-trees-PBQGMCC-600x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/rooms-grid.json",
+                    "name": "Rooms Grid"
+                },
+                {
+                    "source": "templates\/rooms-single.json",
+                    "name": "Rooms Single"
+                }
+            ],
+            "filesize": 453139,
+            "dimensions": [
+                1440,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PBQGMCC"
+        },
+        {
+            "filename": "tropical-resort-P56LLKR-3.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/tropical-resort-P56LLKR-3-600x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 430554,
+            "dimensions": [
+                1440,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P56LLKR"
+        },
+        {
+            "filename": "very-nice-massage-at-the-spa-FG5SQWU-1-1-scaled.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/very-nice-massage-at-the-spa-FG5SQWU-1-1-600x415.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/rooms-single.json",
+                    "name": "Rooms Single"
+                }
+            ],
+            "filesize": 355154,
+            "dimensions": [
+                2560,
+                1772
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/very-nice-massage-at-the-spa-FG5SQWU"
+        },
+        {
+            "filename": "interior-of-reception-and-meeting-room-3d-illustra-PXUHBDK-2.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/interior-of-reception-and-meeting-room-3d-illustra-PXUHBDK-2-600x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 407643,
+            "dimensions": [
+                1440,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PXUHBDK"
+        },
+        {
+            "filename": "bed-furniture.svg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/bed-furniture.svg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 662,
+            "dimensions": [
+                0,
+                0
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/20-hotel-icons-line-F788AY"
+        },
+        {
+            "filename": "cctv.svg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/cctv.svg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 757,
+            "dimensions": [
+                0,
+                0
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/20-hotel-icons-line-F788AY"
+        },
+        {
+            "filename": "cutlery-food.svg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/cutlery-food.svg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 972,
+            "dimensions": [
+                0,
+                0
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/20-hotel-icons-line-F788AY"
+        },
+        {
+            "filename": "smiling-man-sitting-in-bar-7JJZL7L-1-scaled.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/smiling-man-sitting-in-bar-7JJZL7L-1-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/special-offer.json",
+                    "name": "Special Offer"
+                }
+            ],
+            "filesize": 318773,
+            "dimensions": [
+                2560,
+                1707
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-man-sitting-in-bar-7JJZL7L"
+        },
+        {
+            "filename": "cheerful-ethnic-woman-laughing-on-beach-PTFXEBR-1-scaled.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/cheerful-ethnic-woman-laughing-on-beach-PTFXEBR-1-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/special-offer.json",
+                    "name": "Special Offer"
+                }
+            ],
+            "filesize": 358749,
+            "dimensions": [
+                2560,
+                1707
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-ethnic-woman-laughing-on-beach-PTFXEBR"
+        },
+        {
+            "filename": "Asset-1.png",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/Asset-1.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 13479,
+            "dimensions": [
+                327,
+                327
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/logo-brand-identity-pack-6LBGSZ"
+        },
+        {
+            "filename": "woman-relaxing-by-the-pool-in-a-luxury-hotel-resor-YPBYTET-1-1-scaled.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/woman-relaxing-by-the-pool-in-a-luxury-hotel-resor-YPBYTET-1-1-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 341130,
+            "dimensions": [
+                2560,
+                1707
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/\twoman-relaxing-by-the-pool-in-a-luxury-hotel-resor-YPBYTET"
+        },
+        {
+            "filename": "woman-working-at-a-spa-394CR25-scaled.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/woman-working-at-a-spa-394CR25-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 408474,
+            "dimensions": [
+                2560,
+                1709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/\twoman-working-at-a-spa-394CR25"
+        },
+        {
+            "filename": "very-nice-massage-at-the-spa-FG5SQWU-1-scaled-e1596640096795.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/very-nice-massage-at-the-spa-FG5SQWU-1-scaled-e1596640096795-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 341791,
+            "dimensions": [
+                2560,
+                1708
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/very-nice-massage-at-the-spa-FG5SQWU"
+        },
+        {
+            "filename": "3d-rendering-luxury-chinese-bedroom-suite-in-resor-YKPVJ8K.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/3d-rendering-luxury-chinese-bedroom-suite-in-resor-YKPVJ8K-600x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/rooms-grid.json",
+                    "name": "Rooms Grid"
+                },
+                {
+                    "source": "templates\/rooms-single.json",
+                    "name": "Rooms Single"
+                }
+            ],
+            "filesize": 430476,
+            "dimensions": [
+                1440,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YKPVJ8K"
+        },
+        {
+            "filename": "3d-rendering-luxury-chinese-bedroom-suite-in-resor-P5CR3N4.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/3d-rendering-luxury-chinese-bedroom-suite-in-resor-P5CR3N4-600x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/rooms-grid.json",
+                    "name": "Rooms Grid"
+                }
+            ],
+            "filesize": 485965,
+            "dimensions": [
+                1440,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P5CR3N4"
+        },
+        {
+            "filename": "3d-rendering-luxury-chinese-bedroom-suite-in-resor-LT7JM3Q.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/3d-rendering-luxury-chinese-bedroom-suite-in-resor-LT7JM3Q-600x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/rooms-grid.json",
+                    "name": "Rooms Grid"
+                }
+            ],
+            "filesize": 390805,
+            "dimensions": [
+                1440,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LT7JM3Q"
+        },
+        {
+            "filename": "happy-loving-couple-in-hotel-room-T9B8MJ71-scaled.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/happy-loving-couple-in-hotel-room-T9B8MJ71-600x417.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 396226,
+            "dimensions": [
+                2560,
+                1781
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/bride-groom-guests-posing-for-the-photo-at-wedding-N672XJZ1"
+        },
+        {
+            "filename": "cheerful-newlyweds-at-beach-wedding-ceremony-J7GFZ48.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/cheerful-newlyweds-at-beach-wedding-ceremony-J7GFZ48-600x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 352767,
+            "dimensions": [
+                1440,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-J7GFZ48"
+        },
+        {
+            "filename": "tourist-snorkeling-turquoise-red-sea-egypt-P9UDVJ5.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/tourist-snorkeling-turquoise-red-sea-egypt-P9UDVJ5-600x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 376285,
+            "dimensions": [
+                1440,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P9UDVJ5"
+        },
+        {
+            "filename": "enjoying-dayspa-32BKJ26-1-scaled.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/enjoying-dayspa-32BKJ26-1-600x422.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 251608,
+            "dimensions": [
+                2560,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/enjoying-dayspa-32BKJ26"
+        },
+        {
+            "filename": "cheerful-newlyweds-at-beach-wedding-ceremony-J7GFZ48-1-scaled.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/cheerful-newlyweds-at-beach-wedding-ceremony-J7GFZ48-1-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/special-offer.json",
+                    "name": "Special Offer"
+                }
+            ],
+            "filesize": 418188,
+            "dimensions": [
+                2560,
+                1707
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-newlyweds-at-beach-wedding-ceremony-J7GFZ48"
+        },
+        {
+            "filename": "barbecue-salmon-skewers-2ZDVYLB.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/barbecue-salmon-skewers-2ZDVYLB-600x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/rooms-grid.json",
+                    "name": "Rooms Grid"
+                },
+                {
+                    "source": "templates\/rooms-single.json",
+                    "name": "Rooms Single"
+                }
+            ],
+            "filesize": 485772,
+            "dimensions": [
+                1440,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2ZDVYLB"
+        },
+        {
+            "filename": "dummy-logo-1b.png",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/dummy-logo-1b.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 8551,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com"
+        },
+        {
+            "filename": "dummy-logo-2b.png",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/dummy-logo-2b.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 8136,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com"
+        },
+        {
+            "filename": "dummy-logo-3b.png",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/dummy-logo-3b.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 9054,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com"
+        },
+        {
+            "filename": "dummy-logo-4b.png",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/dummy-logo-4b.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 10134,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "dummy-logo-5b.png",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/dummy-logo-5b.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 8953,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "dummy-logo-6b.png",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/dummy-logo-6b.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 10119,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "serving-breakfast-QNUNCB81-scaled.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/serving-breakfast-QNUNCB81-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 327391,
+            "dimensions": [
+                2560,
+                1709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/serving-breakfast-QNUNCB81"
+        },
+        {
+            "filename": "italian-pasta-food-with-tomato-sauce-R8JTPFL-1-scaled.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/italian-pasta-food-with-tomato-sauce-R8JTPFL-1-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/rooms-grid.json",
+                    "name": "Rooms Grid"
+                },
+                {
+                    "source": "templates\/rooms-single.json",
+                    "name": "Rooms Single"
+                }
+            ],
+            "filesize": 344855,
+            "dimensions": [
+                2560,
+                1707
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/italian-pasta-food-with-tomato-sauce-R8JTPFL"
+        },
+        {
+            "filename": "beautiful-romantic-couple-joyfully-drinking-red-wi-XZV5L4C.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/beautiful-romantic-couple-joyfully-drinking-red-wi-XZV5L4C-600x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/rooms-grid.json",
+                    "name": "Rooms Grid"
+                },
+                {
+                    "source": "templates\/rooms-single.json",
+                    "name": "Rooms Single"
+                }
+            ],
+            "filesize": 401723,
+            "dimensions": [
+                1440,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XZV5L4C"
+        },
+        {
+            "filename": "3d-rendering-luxury-modern-bedroom-suite-in-hotel-BLEM2XL-e1597342553789.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/3d-rendering-luxury-modern-bedroom-suite-in-hotel-BLEM2XL-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/rooms-grid.json",
+                    "name": "Rooms Grid"
+                }
+            ],
+            "filesize": 457375,
+            "dimensions": [
+                2406,
+                1603
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BLEM2XL"
+        },
+        {
+            "filename": "helsinki-finland-moored-steamboat-restaurant-in-ev-BY4QK8M-1-scaled.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/helsinki-finland-moored-steamboat-restaurant-in-ev-BY4QK8M-1-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/rooms-single.json",
+                    "name": "Rooms Single"
+                }
+            ],
+            "filesize": 487146,
+            "dimensions": [
+                2560,
+                1707
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/helsinki-finland-moored-steamboat-restaurant-in-ev-BY4QK8M"
+        },
+        {
+            "filename": "silhouette-man-is-jumping-at-the-beach-on-twilight-PM8R2BD-2.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/silhouette-man-is-jumping-at-the-beach-on-twilight-PM8R2BD-2-600x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/special-offer.json",
+                    "name": "Special Offer"
+                }
+            ],
+            "filesize": 421804,
+            "dimensions": [
+                1440,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PM8R2BD"
+        },
+        {
+            "filename": "woman-beach-vacation-HXWM35F-scaled.jpg",
+            "thumbnail_url": "https:\/\/tpkit.colllabstudio.com\/wp-content\/uploads\/2020\/08\/woman-beach-vacation-HXWM35F-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/special-offer.json",
+                    "name": "Special Offer"
+                }
+            ],
+            "filesize": 350555,
+            "dimensions": [
+                1707,
+                2560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-beach-vacation-HXWM35F"
+        }
+    ]
+}

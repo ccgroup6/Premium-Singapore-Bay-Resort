@@ -1,0 +1,45 @@
+/**
+ * My Private Site by David Gewirtz, adopted from Jon ‘jonradio’ Pearkins
+ *
+ * Lab Notes: http://zatzlabs.com/lab-notes/
+ * Plugin Page: https://zatzlabs.com/project/my-private-site/
+ * Contact: http://zatzlabs.com/contact-us/
+ *
+ * Copyright (c) 2015-2020 by David Gewirtz
+ */
+
+/* // Based on code from https://github.com/CodeCabin/plugin-deactivation-survey */
+
+.my-private-site-deactivate-dialog
+{
+	text-align: left;
+	width: auto;
+	border-radius: 10px;
+}
+
+.my-private-site-deactivate-dialog-buttons
+{
+	text-align: right;
+}
+
+.my-private-site-deactivate-dialog
+{
+	width: auto !important;
+}
+
+.my-private-site-deactivate-dialog h2
+{
+	color: gray;
+	font-variant: small-caps;
+	font-size: 1.2em;
+	padding-bottom: 0.2em;
+	border-bottom: 1px solid lightgray;
+	
+}
+
+.my-private-site-deactivate-dialog textarea[name="comments"]
+{
+	width: 100%;
+}
+
+

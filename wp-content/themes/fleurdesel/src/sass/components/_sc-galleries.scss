@@ -1,0 +1,177 @@
+// SC: Galleries
+.fleurdesel-gallery__filter {
+  margin-bottom: 30px;
+  position: relative;
+
+  @include media(">=lg") {
+    margin-bottom: 60px;
+  }
+
+  .dropdown-menu {
+    max-width: 250px;
+
+    //@include media(">=lg") {
+      position: static;
+      display: block;
+      border: none;
+      float: none;
+      font-size: 1.25rem;
+      text-align: center;
+      max-width: none;
+
+      .dropdown-item {
+        width: auto;
+        font-weight: 700;
+
+        &:hover,
+        &:focus,
+        &:active,
+        &:active:focus,
+        &:active:hover {
+          background: none transparent !important;
+        }
+      }
+    //}
+  }
+
+  @include media("<lg") {
+    button {
+      min-width: 150px;
+      text-align: left;
+      //display: inline-block !important;
+
+      &:focus,
+      &:active {
+        box-shadow: none;
+      }
+    }
+  }
+
+  .dropdown-toggle {
+    position: relative;
+    padding-right: 25px;
+
+    &::after {
+      transform: translateY(-50%);
+
+      @include absolute(50%,10px);
+    }
+  }
+
+  a {
+    position: relative;
+    display: inline-block;
+    padding: 5px 15px;
+
+    &:after {
+      content: "/";
+      color: #000;
+      transform: translateY(-50%);
+
+      @include absolute(50%,0);
+    }
+
+    &:first-child {
+      padding-left: 0;
+    }
+
+    &:last-child {
+      padding-right: 0;
+
+      &:after {
+        display: none;
+      }
+    }
+
+    @include media(">=lg") {
+      padding: 5px 45px 5px 40px;
+    }
+
+    &.current {
+      color: $color-1;
+    }
+  }
+}
+
+.fleurdesel-gallery__item {
+  margin-bottom: 30px;
+
+  &:hover {
+    .fleurdesel-gallery__media a:before,
+    .fleurdesel-gallery__media a:after {
+      @include vdisplay();
+    }
+
+    .fleurdesel-gallery__title {
+      color: $color-1;
+    }
+  }
+}
+
+.fleurdesel-gallery__media {
+  position: relative;
+  margin-bottom: 25px;
+  overflow: hidden;
+
+  &:before {
+    @include paddingTop(360,260);
+  }
+
+  a {
+    display: block;
+    position: relative;
+    outline: none;
+
+    @include absolute(0,0,0,0);
+
+    &:before,
+    &:after {
+      transition: all .4s ease;
+
+      @include vhidden();
+    }
+
+    &:before {
+      content: "";
+
+      @include overlay(#000, 0.4, 1);
+    }
+
+    &:after {
+      color: #fff;
+      z-index: 2;
+      font-size: 20px;
+      width: 32px;
+      height: 32px;
+      line-height: 32px;
+      text-align: center;
+
+      @include fleurdesel("\ea22");
+      @include center();
+    }
+
+    img {
+      width: 100%;
+    }
+  }
+}
+
+.fleurdesel-gallery__data {
+  padding: 0 30px;
+}
+
+.fleurdesel-gallery__title {
+  transition: all .4s ease;
+}
+
+.fleurdesel-gallery--masonry {
+  .fleurdesel-gallery__media {
+    &:before {
+      display: none;
+    }
+
+    a {
+      position: static;
+    }
+  }
+}

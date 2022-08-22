@@ -1,0 +1,2221 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Himara - Hotel Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/default-kit.png",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/preview.eagle-themes.com\/kits\/himara",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Spa",
+            "screenshot": "screenshots\/spa.jpg",
+            "source": "templates\/spa.json",
+            "preview_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/template-kit\/spa\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Restaurant",
+            "screenshot": "screenshots\/restaurant.jpg",
+            "source": "templates\/restaurant.json",
+            "preview_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/template-kit\/restaurant\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Location",
+            "screenshot": "screenshots\/location.jpg",
+            "source": "templates\/location.json",
+            "preview_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/template-kit\/location\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 9",
+            "screenshot": "screenshots\/home-9.jpg",
+            "source": "templates\/home-9.json",
+            "preview_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/template-kit\/home-9\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 8",
+            "screenshot": "screenshots\/home-8.jpg",
+            "source": "templates\/home-8.json",
+            "preview_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/template-kit\/home-8\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 7",
+            "screenshot": "screenshots\/home-7.jpg",
+            "source": "templates\/home-7.json",
+            "preview_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/template-kit\/home-7\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 6",
+            "screenshot": "screenshots\/home-6.jpg",
+            "source": "templates\/home-6.json",
+            "preview_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/template-kit\/home-6\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 5",
+            "screenshot": "screenshots\/home-5.jpg",
+            "source": "templates\/home-5.json",
+            "preview_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/template-kit\/home-5\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Hotel 4",
+            "screenshot": "screenshots\/hotel-4.jpg",
+            "source": "templates\/hotel-4.json",
+            "preview_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/template-kit\/home-4\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3.json",
+            "preview_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/template-kit\/home-3\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2.json",
+            "preview_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/template-kit\/home-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1.json",
+            "preview_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/template-kit\/home-1\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.7",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "beautiful-young-woman-at-a-spa-salon.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/beautiful-young-woman-at-a-spa-salon-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/spa.json",
+                    "name": "Spa"
+                }
+            ],
+            "filesize": 569044,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PX5DCH3"
+        },
+        {
+            "filename": "exclusive-hotel-room.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/exclusive-hotel-room-600x185.jpg",
+            "templates": [
+                {
+                    "source": "templates\/spa.json",
+                    "name": "Spa"
+                },
+                {
+                    "source": "templates\/restaurant.json",
+                    "name": "Restaurant"
+                },
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/hotel-4.json",
+                    "name": "Hotel 4"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 217921,
+            "dimensions": [
+                2000,
+                618
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZ6SX2J"
+        },
+        {
+            "filename": "himara_logo_light.png",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/himara_logo_light.png",
+            "templates": [
+                {
+                    "source": "templates\/spa.json",
+                    "name": "Spa"
+                },
+                {
+                    "source": "templates\/restaurant.json",
+                    "name": "Restaurant"
+                },
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/hotel-4.json",
+                    "name": "Hotel 4"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 2361,
+            "dimensions": [
+                108,
+                23
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "spa.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/spa-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/spa.json",
+                    "name": "Spa"
+                }
+            ],
+            "filesize": 439643,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PGJGLKZ"
+        },
+        {
+            "filename": "cocktails-near-swimming-pool-e1583678456216.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/cocktails-near-swimming-pool-e1583678456216-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/spa.json",
+                    "name": "Spa"
+                },
+                {
+                    "source": "templates\/restaurant.json",
+                    "name": "Restaurant"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-9.json",
+                    "name": "Home 9"
+                },
+                {
+                    "source": "templates\/home-8.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 149602,
+            "dimensions": [
+                799,
+                1198
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PXPBQMT"
+        },
+        {
+            "filename": "healthy-hot-sea-buckthorn-tea-e1583883559350.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/healthy-hot-sea-buckthorn-tea-e1583883559350-600x902.jpg",
+            "templates": [
+                {
+                    "source": "templates\/spa.json",
+                    "name": "Spa"
+                },
+                {
+                    "source": "templates\/restaurant.json",
+                    "name": "Restaurant"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-9.json",
+                    "name": "Home 9"
+                },
+                {
+                    "source": "templates\/home-8.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 120193,
+            "dimensions": [
+                798,
+                1199
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-8KTVDNH"
+        },
+        {
+            "filename": "beach-panorama-from-the-lifeguard-rescue-tower-summertime-summer-holiday-on-mediterrean-sea-e1583678634254.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/beach-panorama-from-the-lifeguard-rescue-tower-summertime-summer-holiday-on-mediterrean-sea-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/spa.json",
+                    "name": "Spa"
+                },
+                {
+                    "source": "templates\/restaurant.json",
+                    "name": "Restaurant"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-9.json",
+                    "name": "Home 9"
+                },
+                {
+                    "source": "templates\/home-8.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 221417,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UKGQJF2"
+        },
+        {
+            "filename": "beach-wedding-arch-ceremonial-decorated-with-white-flowers-on-a-tropical-white-sand-beach-paradise-e1583678986886.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/beach-wedding-arch-ceremonial-decorated-with-white-flowers-on-a-tropical-white-sand-beach-paradise-e1583678986886-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/spa.json",
+                    "name": "Spa"
+                },
+                {
+                    "source": "templates\/restaurant.json",
+                    "name": "Restaurant"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-8.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 103928,
+            "dimensions": [
+                801,
+                1201
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4AZVD7J"
+        },
+        {
+            "filename": "restaurant-breakfast-e1583883725848.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/restaurant-breakfast-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/spa.json",
+                    "name": "Spa"
+                },
+                {
+                    "source": "templates\/restaurant.json",
+                    "name": "Restaurant"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-9.json",
+                    "name": "Home 9"
+                },
+                {
+                    "source": "templates\/home-8.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 164506,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-CPTEARD"
+        },
+        {
+            "filename": "spa-concept-e1583883774629.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/spa-concept-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/spa.json",
+                    "name": "Spa"
+                },
+                {
+                    "source": "templates\/restaurant.json",
+                    "name": "Restaurant"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-9.json",
+                    "name": "Home 9"
+                },
+                {
+                    "source": "templates\/home-8.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 180515,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PJQWRHF"
+        },
+        {
+            "filename": "massage-therapist-at-a-spa.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/massage-therapist-at-a-spa-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/spa.json",
+                    "name": "Spa"
+                }
+            ],
+            "filesize": 268325,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EJX2MCT"
+        },
+        {
+            "filename": "massage-therapist-working-in-spa-salon.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/massage-therapist-working-in-spa-salon-600x899.jpg",
+            "templates": [
+                {
+                    "source": "templates\/spa.json",
+                    "name": "Spa"
+                }
+            ],
+            "filesize": 254480,
+            "dimensions": [
+                1335,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QSEYRCX"
+        },
+        {
+            "filename": "smiling-beauty-therapist-standing-beside-massage-table-at-the-spa-and-welcomes-invites-customer.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/smiling-beauty-therapist-standing-beside-massage-table-at-the-spa-and-welcomes-invites-customer-600x902.jpg",
+            "templates": [
+                {
+                    "source": "templates\/spa.json",
+                    "name": "Spa"
+                }
+            ],
+            "filesize": 241798,
+            "dimensions": [
+                1331,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PBFFUCF"
+        },
+        {
+            "filename": "female-message-therapist-giving-a-massage-at-a-spa.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/female-message-therapist-giving-a-massage-at-a-spa-600x894.jpg",
+            "templates": [
+                {
+                    "source": "templates\/spa.json",
+                    "name": "Spa"
+                }
+            ],
+            "filesize": 286114,
+            "dimensions": [
+                1343,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-W7M4QPC"
+        },
+        {
+            "filename": "himara_logo_dark.png",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/02\/himara_logo_dark.png",
+            "templates": [
+                {
+                    "source": "templates\/spa.json",
+                    "name": "Spa"
+                },
+                {
+                    "source": "templates\/restaurant.json",
+                    "name": "Restaurant"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/location.json",
+                    "name": "Location"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-9.json",
+                    "name": "Home 9"
+                },
+                {
+                    "source": "templates\/home-8.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 2578,
+            "dimensions": [
+                108,
+                23
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "restaurant-on-the-lawn.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/restaurant-on-the-lawn-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/restaurant.json",
+                    "name": "Restaurant"
+                }
+            ],
+            "filesize": 793249,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-HTBM4WD"
+        },
+        {
+            "filename": "salad-cabbage.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/salad-cabbage-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/restaurant.json",
+                    "name": "Restaurant"
+                },
+                {
+                    "source": "templates\/home-9.json",
+                    "name": "Home 9"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 514510,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-3BSDP43"
+        },
+        {
+            "filename": "vegetable-pizza.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/vegetable-pizza-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/restaurant.json",
+                    "name": "Restaurant"
+                }
+            ],
+            "filesize": 485662,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PMN9SG8"
+        },
+        {
+            "filename": "bowl-of-red-chicken-curry.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/bowl-of-red-chicken-curry-600x385.jpg",
+            "templates": [
+                {
+                    "source": "templates\/restaurant.json",
+                    "name": "Restaurant"
+                }
+            ],
+            "filesize": 394410,
+            "dimensions": [
+                2000,
+                1283
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ENELD8J"
+        },
+        {
+            "filename": "diet-cheese-pancakes-rose-shape-on-yellow-plate-with-tea-raspberry-on-textile-linen-napkin.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/diet-cheese-pancakes-rose-shape-on-yellow-plate-with-tea-raspberry-on-textile-linen-napkin-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/restaurant.json",
+                    "name": "Restaurant"
+                },
+                {
+                    "source": "templates\/home-9.json",
+                    "name": "Home 9"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 499529,
+            "dimensions": [
+                2000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-F23REV2"
+        },
+        {
+            "filename": "spaghetti-tomato.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/spaghetti-tomato-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/restaurant.json",
+                    "name": "Restaurant"
+                }
+            ],
+            "filesize": 335894,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PVLPCNH"
+        },
+        {
+            "filename": "bulgur-with-meat-and-vegetables.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/bulgur-with-meat-and-vegetables-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/restaurant.json",
+                    "name": "Restaurant"
+                }
+            ],
+            "filesize": 482955,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-N9X76MZ"
+        },
+        {
+            "filename": "chef-decorating-appetizer-plate.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/chef-decorating-appetizer-plate-600x833.jpg",
+            "templates": [
+                {
+                    "source": "templates\/restaurant.json",
+                    "name": "Restaurant"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 338116,
+            "dimensions": [
+                1441,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PMXHLMJ"
+        },
+        {
+            "filename": "female-chef-preparing-beef-steak.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/female-chef-preparing-beef-steak-600x977.jpg",
+            "templates": [
+                {
+                    "source": "templates\/restaurant.json",
+                    "name": "Restaurant"
+                }
+            ],
+            "filesize": 286748,
+            "dimensions": [
+                1228,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PTEMUFV"
+        },
+        {
+            "filename": "female-chef-standing-with-arms-crossed-in-kitchen.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/female-chef-standing-with-arms-crossed-in-kitchen-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/restaurant.json",
+                    "name": "Restaurant"
+                }
+            ],
+            "filesize": 309975,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TKUSNM5"
+        },
+        {
+            "filename": "male-chef.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/male-chef-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/restaurant.json",
+                    "name": "Restaurant"
+                }
+            ],
+            "filesize": 291076,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZ4FTHY"
+        },
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/02\/logo.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/location.json",
+                    "name": "Location"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-9.json",
+                    "name": "Home 9"
+                },
+                {
+                    "source": "templates\/home-8.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 2580,
+            "dimensions": [
+                108,
+                23
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "hotel-room-interior-with-nice-view.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/hotel-room-interior-with-nice-view-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-8.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 484071,
+            "dimensions": [
+                2000,
+                1334
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FL4YB9N"
+        },
+        {
+            "filename": "arab-hotel-pool-evening.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/arab-hotel-pool-evening-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-8.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 561512,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PF7N48W"
+        },
+        {
+            "filename": "hotel-room-at-a-luxury-resort-1.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/hotel-room-at-a-luxury-resort-1-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-8.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/hotel-4.json",
+                    "name": "Hotel 4"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 370966,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-DV74YS2"
+        },
+        {
+            "filename": "cozy-hotel-room-interior.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/cozy-hotel-room-interior-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-8.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 387184,
+            "dimensions": [
+                2000,
+                1334
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4KSZ3J2"
+        },
+        {
+            "filename": "young-asian-woman-with-coffee-cup-on-bed.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/young-asian-woman-with-coffee-cup-on-bed-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/home-8.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 357083,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5UMRNSG"
+        },
+        {
+            "filename": "smiling-man.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/smiling-man-600x392.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/home-8.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 410681,
+            "dimensions": [
+                2000,
+                1308
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-L3WXMH6"
+        },
+        {
+            "filename": "man-on-a-bus.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/man-on-a-bus-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/home-8.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 252950,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YRT8KA5"
+        },
+        {
+            "filename": "yoga-girl.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/yoga-girl-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/home-8.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 458545,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-C48BUPE"
+        },
+        {
+            "filename": "logo_big-1.png",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/02\/logo_big-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 5659,
+            "dimensions": [
+                151,
+                216
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "elegant-classic-bedroom.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/elegant-classic-bedroom-600x383.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9.json",
+                    "name": "Home 9"
+                },
+                {
+                    "source": "templates\/home-8.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 273958,
+            "dimensions": [
+                2000,
+                1278
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P38ZTAB"
+        },
+        {
+            "filename": "logo_big_light.png",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/logo_big_light.png",
+            "templates": [
+                {
+                    "source": "templates\/home-9.json",
+                    "name": "Home 9"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 6927,
+            "dimensions": [
+                151,
+                216
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "luxurious-hotel-room.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/luxurious-hotel-room-600x399.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9.json",
+                    "name": "Home 9"
+                },
+                {
+                    "source": "templates\/home-8.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/hotel-4.json",
+                    "name": "Hotel 4"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 393937,
+            "dimensions": [
+                2000,
+                1331
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PTPNFYU"
+        },
+        {
+            "filename": "bedroom-with-stone-walls-comfortable-modern-hotel-room-interior-architecture.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/bedroom-with-stone-walls-comfortable-modern-hotel-room-interior-architecture-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9.json",
+                    "name": "Home 9"
+                },
+                {
+                    "source": "templates\/home-8.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 583034,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-6TBGZCP"
+        },
+        {
+            "filename": "similan-island-beach-near-phuket-in-thailand-e1583884092838.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/similan-island-beach-near-phuket-in-thailand-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9.json",
+                    "name": "Home 9"
+                },
+                {
+                    "source": "templates\/home-8.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 226056,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PLT8ZHB"
+        },
+        {
+            "filename": "breakfast-in-bed.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/breakfast-in-bed-600x899.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9.json",
+                    "name": "Home 9"
+                },
+                {
+                    "source": "templates\/home-8.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 381801,
+            "dimensions": [
+                1335,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PD5SSCJ"
+        },
+        {
+            "filename": "vegetarian-restaurant-young-woman-in-a-vegetarian-restaurant-e1583974236998.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/vegetarian-restaurant-young-woman-in-a-vegetarian-restaurant-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9.json",
+                    "name": "Home 9"
+                },
+                {
+                    "source": "templates\/home-8.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 119887,
+            "dimensions": [
+                1200,
+                801
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-N2956GN"
+        },
+        {
+            "filename": "arms-massage-in-spa-salon-e1583974221521.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/arms-massage-in-spa-salon-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9.json",
+                    "name": "Home 9"
+                },
+                {
+                    "source": "templates\/home-8.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 92419,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZVRXL7D"
+        },
+        {
+            "filename": "interior-of-modern-conference-hall-in-hotel-e1583974202902.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/interior-of-modern-conference-hall-in-hotel-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9.json",
+                    "name": "Home 9"
+                },
+                {
+                    "source": "templates\/home-8.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 170412,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PKUKBX5"
+        },
+        {
+            "filename": "luxury-outdoor-swimming-pool-e1583974368431.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/luxury-outdoor-swimming-pool-e1583974368431-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9.json",
+                    "name": "Home 9"
+                },
+                {
+                    "source": "templates\/home-8.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 126286,
+            "dimensions": [
+                1199,
+                799
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P57V5TC"
+        },
+        {
+            "filename": "restaurant-table.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/restaurant-table-600x398.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9.json",
+                    "name": "Home 9"
+                },
+                {
+                    "source": "templates\/home-6.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 336898,
+            "dimensions": [
+                2000,
+                1325
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-E2YCMKF"
+        },
+        {
+            "filename": "white-two-towel-swans-on-the-bed.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/white-two-towel-swans-on-the-bed-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-8.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/hotel-4.json",
+                    "name": "Hotel 4"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 244695,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-JNV2LNV"
+        },
+        {
+            "filename": "provider-1-1.png",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/02\/provider-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 2193,
+            "dimensions": [
+                77,
+                20
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "provider-3.png",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/02\/provider-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 1624,
+            "dimensions": [
+                55,
+                20
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "provider-2.png",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/02\/provider-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 1894,
+            "dimensions": [
+                77,
+                20
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "provider-4.png",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/02\/provider-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 1619,
+            "dimensions": [
+                51,
+                20
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "young-woman-relaxing-in-spa-salon-beauty-treatment-spa-salon.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/young-woman-relaxing-in-spa-salon-beauty-treatment-spa-salon-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-7.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 374173,
+            "dimensions": [
+                2000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MHJC672"
+        },
+        {
+            "filename": "maid-setting-up-white-bed-sheet-in-hotel-room.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/maid-setting-up-white-bed-sheet-in-hotel-room-600x404.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 220051,
+            "dimensions": [
+                2000,
+                1346
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P6E3CQA"
+        },
+        {
+            "filename": "businesswoman-with-notebook-and-calculator.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/businesswoman-with-notebook-and-calculator-600x404.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 227378,
+            "dimensions": [
+                2000,
+                1347
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PL6XZCY"
+        },
+        {
+            "filename": "man-standing-at-balcony.jpg",
+            "thumbnail_url": "https:\/\/preview.eagle-themes.com\/kits\/himara\/wp-content\/uploads\/2020\/03\/man-standing-at-balcony-600x899.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 317058,
+            "dimensions": [
+                1335,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PS4LL9P"
+        }
+    ]
+}

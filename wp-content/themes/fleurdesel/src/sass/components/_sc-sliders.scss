@@ -1,0 +1,149 @@
+// SC: Slider
+.fleurdesel-slider {
+  position: relative;
+
+  &.fullscreen {
+    z-index: 999;
+
+    .fleurdesel-slider__item:before {
+      padding-top: 100vh;
+    }
+
+    .fleurdesel-slider__icon {
+      position: fixed;
+    }
+  }
+
+  .slider-fix {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.fleurdesel-slider__icon {
+  cursor: pointer;
+  width: 32px;
+  height: 32px;
+  line-height: 32px;
+  text-align: center;
+  color: #fff;
+  z-index: 9;
+  transition: all .4s ease;
+
+  @include absolute(15px,15px);
+
+  &:hover {
+    color: $color-1;
+  }
+}
+
+.fleurdesel-slider__icon--close {
+  display: none;
+}
+
+.fleurdesel-slider__item {
+  position: relative;
+
+  &:before {
+    @include paddingTop(1140,566);
+  }
+
+  &:after {
+    content: "";
+    display: block;
+    background: linear-gradient(to top, rgb(0, 0, 0) 0%, transparent 70%);
+    opacity: .4;
+    z-index: 1;
+    transition: all .4s ease;
+
+    @include absolute(0,0,0,0);
+  }
+
+  &:hover {
+    &:after {
+      opacity: .9;
+    }
+
+    .fleurdesel-slider__title {
+      padding-bottom: 40px;
+    }
+  }
+}
+
+.fleurdesel-slider__img-bg {
+  width: 100%;
+  height: 100%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background-size: cover;
+  background-position: 50% 50%;
+  z-index: 0;
+
+  @include absolute(50%,null,null,50%);
+}
+
+.fleurdesel-slider__title {
+  width: 100%;
+  color: #fff;
+  padding: 0 25px 25px;
+  z-index: 2;
+  transition: all .4s ease;
+
+  @include absolute(null,0,0,0);
+
+  a {
+    color: #fff;
+
+    &:hover {
+      color: $color-1;
+    }
+  }
+}
+
+.fleurdesel-custom-slider {
+  z-index: 17 !important;
+
+  > .vc_column-inner {
+    @include media("<xl") {
+      padding: 0 !important;
+
+      .fleurdesel-slider {
+        margin-right: 0 !important;
+        margin-bottom: 0 !important;
+      }
+    }
+  }
+
+  .fleurdesel-slider__icon {
+    display: none !important;
+  }
+
+  .fleurdesel-slider__item:before {
+    padding-top: 60% !important;
+  }
+
+  .slick-arrow {
+    color: #fff !important;
+    background-color: transparent !important;
+    border-radius: 0 !important;
+
+    &:before {
+      font-size: 30px !important;
+    }
+  }
+}
+
+.fleurdesel-custom-slider + .wpb_column {
+  > .vc_column-inner {
+    @include media("<xl") {
+      padding: 80px !important;
+    }
+
+    @include media("<md") {
+      padding: 80px 30px !important;
+    }
+  }
+}

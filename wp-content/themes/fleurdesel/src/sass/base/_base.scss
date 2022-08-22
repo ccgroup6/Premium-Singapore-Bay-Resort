@@ -1,0 +1,349 @@
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: $font-1;
+  color: $color-2;
+  font-weight: 700;
+}
+
+a {
+  transition: all .3s ease;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+iframe {
+  max-width: 100%;
+}
+
+select {
+  max-width: 100%;
+}
+
+table {
+  width: 100%;
+
+  td, th {
+    border: 1px solid $color-3;
+    padding: 10px;
+  }
+}
+
+.bypostauthor {
+  line-height: 1;
+}
+
+.no-gutter {
+  padding: 0;
+  margin: 0;
+}
+
+.relative {
+  position: relative;
+}
+
+.overflow-hidden {
+  overflow: hidden !important;
+}
+
+.separate {
+  display: inline-block;
+  height: 2px;
+  width: 30px;
+  background-color: $color-1;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.white {
+  color: #fff;
+}
+
+.black-bg {
+  background-color: #000;
+}
+
+.white-bg {
+  background-color: #fff;
+}
+
+.error {
+  color: red;
+}
+
+.bg-bottom {
+  background-position: center bottom !important;
+  background-repeat: no-repeat !important;
+}
+
+.fleurdesel-style {
+  position: relative;
+  border: 1px solid $color-3;
+  transition: all .4s ease;
+
+  @include fleurstyle(true, $color-1);
+}
+
+.fleurdesel-style__wrap {
+  padding: 40px 15px;
+
+  @include fleurstyle(true, $color-1, 8px, bottom);
+}
+
+.fleurdesel-style--active {
+  &:before,
+  &:after,
+  .fleurdesel-style__wrap:before,
+  .fleurdesel-style__wrap:after {
+    @include vdisplay();
+  }
+}
+
+div.mfp-counter {
+  right: auto !important;
+  left: 50%;
+  font-family: $font-1;
+  transform: translateX(-50%);
+
+  .mfp-counter {
+    font-size: 20px !important;
+    margin-top: 5px;
+  }
+}
+
+.fleurdesel-mfp-arrow {
+  width: 90px;
+  height: 90px;
+  background-color: transparent !important;
+  border-color: transparent !important;
+  box-shadow: none !important;
+  cursor: pointer;
+  transform: translateY(-50%);
+
+  @include absolute(50%);
+
+  &:before {
+    transform: translate(-50%,-50%);
+    @extend %fa;
+    font-size: 30px;
+
+    @include absolute(50%,null,null,50%);
+  }
+
+  &:active:focus {
+    background-color: transparent !important;
+    border-color: transparent !important;
+  }
+}
+
+.fleurdesel-mfp-arrow-right {
+  right: 0;
+
+  &:before {
+    content: "\f054";
+  }
+}
+
+.fleurdesel-mfp-arrow-left {
+  left: 0;
+
+  &:before {
+    content: "\f053";
+  }
+}
+
+.fleurdesel-golf-form,
+.fleurdesel-restaurant-form,
+.fleurdesel-wedding-form {
+  .btn-view {
+    padding: 25px 50px;
+  }
+}
+
+.fleurdesel-bg {
+  background: url(../../src/images/pattern-bg.jpg) repeat top left;
+}
+
+.comments-title {
+  font-size: 1.875rem;
+  margin-bottom: 35px;
+}
+
+.comment-content {
+  line-height: 1.75;
+}
+
+.pr-md-0 {
+  @include media(">=md") {
+    padding-right: 0 !important;
+
+    .vc_column-inner {
+      padding-right: 0 !important;
+    }
+  }
+}
+
+.pl-md-0 {
+  @include media(">=md") {
+    padding-left: 0 !important;
+
+    .vc_column-inner {
+      padding-left: 0 !important;
+    }
+  }
+}
+
+// MARGIN CLASS
+@each $mt in 0, 60, 65, 80 {
+  .mt-#{$mt} {
+    margin-top: #{$mt}px !important;
+  }
+}
+
+@each $mr in 0, 5, 15 {
+  .mr-#{$mr} {
+    margin-right: #{$mr}px !important;
+  }
+}
+
+@each $mb in 0, 15, 20, 25, 30, 40, 50, 80, 125, 150 {
+  .mb-#{$mb} {
+    margin-bottom: #{$mb}px !important;
+  }
+}
+
+@each $ml in 0 {
+  .ml-#{$ml} {
+    margin-left: #{$ml}px !important;
+  }
+}
+
+// PADDING CLASS
+@each $pt in 0, 10, 20, 30, 50, 60, 70, 80, 90, 240  {
+  .pt-#{$pt} {
+    padding-top: #{$pt}px !important;
+  }
+}
+
+@each $pr in 0, 30  {
+  .pr-#{$pr} {
+    padding-right: #{$pr}px !important;
+  }
+}
+
+@each $pb in 0, 10, 20, 30, 40, 50, 60, 70, 90, 240  {
+  .pb-#{$pb} {
+    padding-bottom: #{$pb}px !important;
+  }
+}
+
+@each $pl in 0, 30  {
+  .pl-#{$pl} {
+    padding-left: #{$pl}px !important;
+  }
+}
+
+
+// FONT SIZE
+@each $fz in 10, 12, 14, 16, 20, 25, 40, 60 {
+  .fz-#{$fz} {
+    font-size: #{$fz/16}rem !important;
+  }
+}
+
+// FONT FAMILY
+@each $name, $value in
+(font-1, $font-1),
+(font-2, $font-2) {
+  .#{$name} {
+    font-family: #{$value};
+  }
+}
+
+// FONT WEIGHT
+@each $name, $value in
+(font-300, 300),
+(font-400, 400),
+(font-500, 500),
+(font-600, 600),
+(font-700, 700) {
+  .#{$name} {
+    font-weight: #{$value} !important;
+  }
+}
+
+// BACKGROUNDS & COLORS
+@each $name, $value in
+(color-1, $color-1),
+(color-2, $color-2),
+(color-3, $color-3),
+(color-4, $color-4),
+(gray-8989, #898989) {
+  .bg-#{$name} {
+    background-color: #{$value};
+  }
+
+  .text-#{$name} {
+    color: #{$value};
+  }
+}
+
+// BORDER STYLE
+@each $position in top, right, bottom, left {
+  .border {
+    border: 1px solid #e4e4e4;
+    transition: all .4s ease;
+  }
+
+  .border-#{$position} {
+    border-#{$position}: 1px solid #e4e4e4;
+    transition: all .4s ease;
+  }
+
+  .border-#{$position}--hover:hover {
+    border-#{$position}-color: $color-1;
+  }
+}
+
+// LETTER SPACING
+@each $value in 1, 2, 3 {
+  .letter-spacing-#{$value} {
+    letter-spacing: #{$value}px;
+  }
+}
+
+// CREATE DATA GAP FOR GALLERY
+@each $data-gap in 5, 10, 15, 30 {
+  [data-gap="#{$data-gap}"] {
+    margin: calc(-#{$data-gap}px / 2);
+
+    > * {
+      padding: calc(#{$data-gap}px / 2);
+    }
+
+    > .grid-sizer {
+      padding: 0;
+    }
+  }
+}
+
+// CREATE DATA COLUMN
+@for $cols from 1 through 12 {
+  [data-cols="#{$cols}"] > * {
+    float: left;
+    width: 100%;
+
+    @include media-breakpoint-between(md, xl) {
+      width: percentage(6 / 12);
+    }
+
+    @include media-breakpoint-up(xl) {
+      width: percentage($cols / 12);
+    }
+  }
+}
+

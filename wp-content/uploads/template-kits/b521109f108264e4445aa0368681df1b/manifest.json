@@ -1,0 +1,1409 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Mendoz Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/default-kit.png",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/mendoz-elkit.bolvo.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About - Block",
+            "screenshot": "screenshots\/about-block.png",
+            "source": "templates\/about-block.json",
+            "preview_url": "https:\/\/mendoz-elkit.bolvo.com\/template-kit\/about-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Rooms - Block",
+            "screenshot": "screenshots\/rooms-block.png",
+            "source": "templates\/rooms-block.json",
+            "preview_url": "https:\/\/mendoz-elkit.bolvo.com\/template-kit\/rooms-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Features - Block",
+            "screenshot": "screenshots\/features-block.png",
+            "source": "templates\/features-block.json",
+            "preview_url": "https:\/\/mendoz-elkit.bolvo.com\/template-kit\/features-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Testimonial - Block",
+            "screenshot": "screenshots\/testimonial-block.png",
+            "source": "templates\/testimonial-block.json",
+            "preview_url": "https:\/\/mendoz-elkit.bolvo.com\/template-kit\/testimonial-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact - Page",
+            "screenshot": "screenshots\/contact-page.png",
+            "source": "templates\/contact-page.json",
+            "preview_url": "https:\/\/mendoz-elkit.bolvo.com\/template-kit\/contact-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "SingleRoom - Page",
+            "screenshot": "screenshots\/singleroom-page.png",
+            "source": "templates\/singleroom-page.json",
+            "preview_url": "https:\/\/mendoz-elkit.bolvo.com\/template-kit\/singleroom-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services - Page",
+            "screenshot": "screenshots\/services-page.png",
+            "source": "templates\/services-page.json",
+            "preview_url": "https:\/\/mendoz-elkit.bolvo.com\/template-kit\/services-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Activities - Page",
+            "screenshot": "screenshots\/activities-page.png",
+            "source": "templates\/activities-page.json",
+            "preview_url": "https:\/\/mendoz-elkit.bolvo.com\/template-kit\/activities-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About - Page",
+            "screenshot": "screenshots\/about-page.png",
+            "source": "templates\/about-page.json",
+            "preview_url": "https:\/\/mendoz-elkit.bolvo.com\/template-kit\/about-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home - Page",
+            "screenshot": "screenshots\/home-page.jpg",
+            "source": "templates\/home-page.json",
+            "preview_url": "https:\/\/mendoz-elkit.bolvo.com\/template-kit\/home-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single post",
+            "screenshot": "screenshots\/single-post.png",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/mendoz-elkit.bolvo.com\/?elementor_library=single-post",
+            "type": "single",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Archive",
+            "screenshot": "screenshots\/archive.png",
+            "source": "templates\/archive.json",
+            "preview_url": "https:\/\/mendoz-elkit.bolvo.com\/?elementor_library=archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.png",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/mendoz-elkit.bolvo.com\/?elementor_library=404",
+            "type": "single",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Custom Footer",
+            "screenshot": "screenshots\/custom-footer.png",
+            "source": "templates\/custom-footer.json",
+            "preview_url": "https:\/\/mendoz-elkit.bolvo.com\/?elementor_library=custom-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Custom Header",
+            "screenshot": "screenshots\/custom-header.png",
+            "source": "templates\/custom-header.json",
+            "preview_url": "https:\/\/mendoz-elkit.bolvo.com\/?elementor_library=custom-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.2",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "2.9.7",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "5e73782242921_view-of-the-hotel-with-swimming-pool-in-sharm-el-d47m3l3.jpg",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/5e73782242921_view-of-the-hotel-with-swimming-pool-in-sharm-el-d47m3l3-600x300.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-block.json",
+                    "name": "About - Block"
+                }
+            ],
+            "filesize": 90797,
+            "dimensions": [
+                800,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "D47M3L3"
+        },
+        {
+            "filename": "hotel-lobby-PS7LB64.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/hotel-lobby-PS7LB64.png",
+            "templates": [
+                {
+                    "source": "templates\/about-block.json",
+                    "name": "About - Block"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 88530,
+            "dimensions": [
+                362,
+                426
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PS7LB64"
+        },
+        {
+            "filename": "lighted-stairs-in-beautiful-tropical-forest-at2-5JYBVWA.jpg",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/lighted-stairs-in-beautiful-tropical-forest-at2-5JYBVWA-600x300.jpg",
+            "templates": [
+                {
+                    "source": "templates\/features-block.json",
+                    "name": "Features - Block"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About - Page"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 60236,
+            "dimensions": [
+                1200,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-5JYBVWA"
+        },
+        {
+            "filename": "interior-of-modern-design-room-3d-rendering-P53C6US.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/interior-of-modern-design-room-3d-rendering-P53C6US.png",
+            "templates": [
+                {
+                    "source": "templates\/features-block.json",
+                    "name": "Features - Block"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About - Page"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 173739,
+            "dimensions": [
+                628,
+                563
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P53C6US"
+        },
+        {
+            "filename": "Basic-White-01-AXJ7UQ2.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/Basic-White-01-AXJ7UQ2.png",
+            "templates": [
+                {
+                    "source": "templates\/features-block.json",
+                    "name": "Features - Block"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About - Page"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 5929,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AXJ7UQ2"
+        },
+        {
+            "filename": "Basic-White-43-AXJ7UQ2.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/Basic-White-43-AXJ7UQ2.png",
+            "templates": [
+                {
+                    "source": "templates\/features-block.json",
+                    "name": "Features - Block"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About - Page"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 4678,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AXJ7UQ2"
+        },
+        {
+            "filename": "Basic-White-21-AXJ7UQ2.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/Basic-White-21-AXJ7UQ2.png",
+            "templates": [
+                {
+                    "source": "templates\/features-block.json",
+                    "name": "Features - Block"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About - Page"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 8680,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AXJ7UQ2"
+        },
+        {
+            "filename": "5e7213eedded5_pretty-woman-using-mobile-app-awl4wv4.jpg",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/5e7213eedded5_pretty-woman-using-mobile-app-awl4wv4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial-block.json",
+                    "name": "Testimonial - Block"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About - Page"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 28647,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AWL4WV4"
+        },
+        {
+            "filename": "5e72146108c35_happy-young-woman-with-digital-tablet-choosing-ldbsq48.jpg",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/5e72146108c35_happy-young-woman-with-digital-tablet-choosing-ldbsq48.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial-block.json",
+                    "name": "Testimonial - Block"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About - Page"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 27678,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LDBSQ48"
+        },
+        {
+            "filename": "banner-3.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/banner-3.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact - Page"
+                },
+                {
+                    "source": "templates\/services-page.json",
+                    "name": "Services - Page"
+                },
+                {
+                    "source": "templates\/activities-page.json",
+                    "name": "Activities - Page"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About - Page"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single post"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                }
+            ],
+            "filesize": 248488,
+            "dimensions": [
+                1600,
+                283
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-D47M3L3"
+        },
+        {
+            "filename": "Banner-4.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/Banner-4.png",
+            "templates": [
+                {
+                    "source": "templates\/singleroom-page.json",
+                    "name": "SingleRoom - Page"
+                }
+            ],
+            "filesize": 227316,
+            "dimensions": [
+                1600,
+                283
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PTLRTZ5"
+        },
+        {
+            "filename": "Superior-Double-Room.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/Superior-Double-Room.png",
+            "templates": [
+                {
+                    "source": "templates\/singleroom-page.json",
+                    "name": "SingleRoom - Page"
+                }
+            ],
+            "filesize": 260381,
+            "dimensions": [
+                770,
+                511
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6TBGZCP"
+        },
+        {
+            "filename": "Superior-Double-Room-1.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/Superior-Double-Room-1.png",
+            "templates": [
+                {
+                    "source": "templates\/singleroom-page.json",
+                    "name": "SingleRoom - Page"
+                }
+            ],
+            "filesize": 260381,
+            "dimensions": [
+                770,
+                511
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6TBGZCP"
+        },
+        {
+            "filename": "Superior-Double-Room-2.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/Superior-Double-Room-2.png",
+            "templates": [
+                {
+                    "source": "templates\/singleroom-page.json",
+                    "name": "SingleRoom - Page"
+                }
+            ],
+            "filesize": 260381,
+            "dimensions": [
+                770,
+                511
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6TBGZCP"
+        },
+        {
+            "filename": "img-7.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/img-7.png",
+            "templates": [
+                {
+                    "source": "templates\/singleroom-page.json",
+                    "name": "SingleRoom - Page"
+                }
+            ],
+            "filesize": 20975,
+            "dimensions": [
+                165,
+                165
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PG8SJFP"
+        },
+        {
+            "filename": "img-8.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/img-8.png",
+            "templates": [
+                {
+                    "source": "templates\/singleroom-page.json",
+                    "name": "SingleRoom - Page"
+                }
+            ],
+            "filesize": 18546,
+            "dimensions": [
+                165,
+                165
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-75PLTE9"
+        },
+        {
+            "filename": "img-1.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/img-1.png",
+            "templates": [
+                {
+                    "source": "templates\/singleroom-page.json",
+                    "name": "SingleRoom - Page"
+                }
+            ],
+            "filesize": 21961,
+            "dimensions": [
+                165,
+                165
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PTLRTZ5"
+        },
+        {
+            "filename": "img-2.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/img-2.png",
+            "templates": [
+                {
+                    "source": "templates\/singleroom-page.json",
+                    "name": "SingleRoom - Page"
+                }
+            ],
+            "filesize": 20488,
+            "dimensions": [
+                165,
+                165
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PG4QREH"
+        },
+        {
+            "filename": "img-3.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/img-3.png",
+            "templates": [
+                {
+                    "source": "templates\/singleroom-page.json",
+                    "name": "SingleRoom - Page"
+                }
+            ],
+            "filesize": 23666,
+            "dimensions": [
+                165,
+                165
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4C9XYBT"
+        },
+        {
+            "filename": "img-4.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/img-4.png",
+            "templates": [
+                {
+                    "source": "templates\/singleroom-page.json",
+                    "name": "SingleRoom - Page"
+                }
+            ],
+            "filesize": 22126,
+            "dimensions": [
+                165,
+                165
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GACZBFN"
+        },
+        {
+            "filename": "img-5.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/img-5.png",
+            "templates": [
+                {
+                    "source": "templates\/singleroom-page.json",
+                    "name": "SingleRoom - Page"
+                }
+            ],
+            "filesize": 18260,
+            "dimensions": [
+                165,
+                165
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P298XPM"
+        },
+        {
+            "filename": "img-6.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/img-6.png",
+            "templates": [
+                {
+                    "source": "templates\/singleroom-page.json",
+                    "name": "SingleRoom - Page"
+                }
+            ],
+            "filesize": 18164,
+            "dimensions": [
+                165,
+                165
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PSACFPS"
+        },
+        {
+            "filename": "bedroom-with-stone-walls-comfortable-modern-hotel-6TBGZCP.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/bedroom-with-stone-walls-comfortable-modern-hotel-6TBGZCP.png",
+            "templates": [
+                {
+                    "source": "templates\/singleroom-page.json",
+                    "name": "SingleRoom - Page"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 64901,
+            "dimensions": [
+                360,
+                240
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6TBGZCP"
+        },
+        {
+            "filename": "cozy-spacious-bedroom-PTLRTZ5.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/cozy-spacious-bedroom-PTLRTZ5.png",
+            "templates": [
+                {
+                    "source": "templates\/singleroom-page.json",
+                    "name": "SingleRoom - Page"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 57600,
+            "dimensions": [
+                360,
+                240
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PTLRTZ5"
+        },
+        {
+            "filename": "luxurious-hotel-room-P76KGL5.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/luxurious-hotel-room-P76KGL5.png",
+            "templates": [
+                {
+                    "source": "templates\/singleroom-page.json",
+                    "name": "SingleRoom - Page"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 54549,
+            "dimensions": [
+                360,
+                240
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P76KGL5"
+        },
+        {
+            "filename": "service-1.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/service-1.png",
+            "templates": [
+                {
+                    "source": "templates\/services-page.json",
+                    "name": "Services - Page"
+                }
+            ],
+            "filesize": 109855,
+            "dimensions": [
+                380,
+                510
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-J27YM8E"
+        },
+        {
+            "filename": "service-2.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/service-2.png",
+            "templates": [
+                {
+                    "source": "templates\/services-page.json",
+                    "name": "Services - Page"
+                }
+            ],
+            "filesize": 138553,
+            "dimensions": [
+                380,
+                510
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4C9XYBT"
+        },
+        {
+            "filename": "service-3.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/service-3.png",
+            "templates": [
+                {
+                    "source": "templates\/services-page.json",
+                    "name": "Services - Page"
+                }
+            ],
+            "filesize": 91694,
+            "dimensions": [
+                380,
+                510
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PSACFPS"
+        },
+        {
+            "filename": "5e7373d3b4993_luxury-hotel-lobby-pg8sjfp.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/5e7373d3b4993_luxury-hotel-lobby-pg8sjfp.png",
+            "templates": [
+                {
+                    "source": "templates\/services-page.json",
+                    "name": "Services - Page"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About - Page"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 711526,
+            "dimensions": [
+                1600,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P8XTE36"
+        },
+        {
+            "filename": "13-Towel.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/13-Towel.png",
+            "templates": [
+                {
+                    "source": "templates\/services-page.json",
+                    "name": "Services - Page"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About - Page"
+                }
+            ],
+            "filesize": 11240,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-DPTBLF8"
+        },
+        {
+            "filename": "28-Dumbbell.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/28-Dumbbell.png",
+            "templates": [
+                {
+                    "source": "templates\/services-page.json",
+                    "name": "Services - Page"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About - Page"
+                }
+            ],
+            "filesize": 13696,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-DPTBLF8"
+        },
+        {
+            "filename": "23-Bath.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/23-Bath.png",
+            "templates": [
+                {
+                    "source": "templates\/services-page.json",
+                    "name": "Services - Page"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About - Page"
+                }
+            ],
+            "filesize": 17777,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-DPTBLF8"
+        },
+        {
+            "filename": "26-Lounge.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/26-Lounge.png",
+            "templates": [
+                {
+                    "source": "templates\/services-page.json",
+                    "name": "Services - Page"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About - Page"
+                }
+            ],
+            "filesize": 18911,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-DPTBLF8"
+        },
+        {
+            "filename": "activity-1.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/activity-1.png",
+            "templates": [
+                {
+                    "source": "templates\/activities-page.json",
+                    "name": "Activities - Page"
+                }
+            ],
+            "filesize": 83907,
+            "dimensions": [
+                370,
+                406
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XSB5CJD"
+        },
+        {
+            "filename": "activity-2.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/activity-2.png",
+            "templates": [
+                {
+                    "source": "templates\/activities-page.json",
+                    "name": "Activities - Page"
+                }
+            ],
+            "filesize": 101579,
+            "dimensions": [
+                370,
+                406
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5JYBVWA"
+        },
+        {
+            "filename": "activity-3.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/activity-3.png",
+            "templates": [
+                {
+                    "source": "templates\/activities-page.json",
+                    "name": "Activities - Page"
+                }
+            ],
+            "filesize": 104703,
+            "dimensions": [
+                370,
+                406
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PKQNSGW"
+        },
+        {
+            "filename": "activity-4.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/activity-4.png",
+            "templates": [
+                {
+                    "source": "templates\/activities-page.json",
+                    "name": "Activities - Page"
+                }
+            ],
+            "filesize": 98207,
+            "dimensions": [
+                370,
+                406
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CEP3SXB"
+        },
+        {
+            "filename": "activity-5.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/activity-5.png",
+            "templates": [
+                {
+                    "source": "templates\/activities-page.json",
+                    "name": "Activities - Page"
+                }
+            ],
+            "filesize": 104300,
+            "dimensions": [
+                370,
+                406
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PY2QD32"
+        },
+        {
+            "filename": "1.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About - Page"
+                }
+            ],
+            "filesize": 88159,
+            "dimensions": [
+                362,
+                426
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PS7LB64"
+        },
+        {
+            "filename": "hero-1.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/hero-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 573465,
+            "dimensions": [
+                1600,
+                780
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-D47M3L3"
+        },
+        {
+            "filename": "hero-2.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/hero-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 639897,
+            "dimensions": [
+                1600,
+                780
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CEP3SXB"
+        },
+        {
+            "filename": "hero-3.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/hero-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 713398,
+            "dimensions": [
+                1600,
+                780
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PY2QD32"
+        },
+        {
+            "filename": "view-of-indoors-swimming-pool-with-metal-ladder-XSB5CJD.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/view-of-indoors-swimming-pool-with-metal-ladder-XSB5CJD.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 59228,
+            "dimensions": [
+                348,
+                270
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XSB5CJD"
+        },
+        {
+            "filename": "tropical-resort-P56LLKR.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/tropical-resort-P56LLKR.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 62665,
+            "dimensions": [
+                348,
+                270
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P56LLKR"
+        },
+        {
+            "filename": "spa-PGJGLKZ.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/spa-PGJGLKZ.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 55787,
+            "dimensions": [
+                348,
+                270
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PGJGLKZ"
+        },
+        {
+            "filename": "night-scenery-view-of-embankment-seacoast-beach-PMWGG5S.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/night-scenery-view-of-embankment-seacoast-beach-PMWGG5S.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 48944,
+            "dimensions": [
+                348,
+                270
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PMWGG5S"
+        },
+        {
+            "filename": "landscape-of-santorini-island-fira-cyclades-PSACFPS.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/landscape-of-santorini-island-fira-cyclades-PSACFPS.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 52012,
+            "dimensions": [
+                348,
+                270
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PSACFPS"
+        },
+        {
+            "filename": "5e7373d3b4993_luxury-hotel-lobby-pg8sjfp-1.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/5e7373d3b4993_luxury-hotel-lobby-pg8sjfp-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 36935,
+            "dimensions": [
+                353,
+                151
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PG8SJFP"
+        },
+        {
+            "filename": "5e7376b1e6c29_spherical-360-panorama-projection-interior-of-the-p298xpm.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/5e7376b1e6c29_spherical-360-panorama-projection-interior-of-the-p298xpm.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 33013,
+            "dimensions": [
+                353,
+                151
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P298XPM"
+        },
+        {
+            "filename": "5e73770ee53f3_spherical-360-panorama-projection-scandinavian-75plte9.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/5e73770ee53f3_spherical-360-panorama-projection-scandinavian-75plte9.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 34367,
+            "dimensions": [
+                353,
+                151
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-75PLTE9"
+        },
+        {
+            "filename": "5e737773e4d68_view-of-indoors-swimming-pool-with-metal-ladder-xsb5cjd.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/5e737773e4d68_view-of-indoors-swimming-pool-with-metal-ladder-xsb5cjd.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 96891,
+            "dimensions": [
+                360,
+                448
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XSB5CJD"
+        },
+        {
+            "filename": "outdoor-swimming-pool-with-umbrella-chair-lounge-GACZBFN.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/outdoor-swimming-pool-with-umbrella-chair-lounge-GACZBFN.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home - Page"
+                }
+            ],
+            "filesize": 100126,
+            "dimensions": [
+                360,
+                448
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GACZBFN"
+        },
+        {
+            "filename": "placeholder-1.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/placeholder-1.png",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single post"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "NA"
+        },
+        {
+            "filename": "night-scenery-view-of-embankment-seacoast-beach-PMWGG5S.jpg",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/night-scenery-view-of-embankment-seacoast-beach-PMWGG5S.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single post"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 289973,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PMWGG5S"
+        },
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "https:\/\/mendoz-elkit.bolvo.com\/wp-content\/uploads\/2020\/03\/logo.png",
+            "templates": [
+                {
+                    "source": "templates\/custom-footer.json",
+                    "name": "Custom Footer"
+                },
+                {
+                    "source": "templates\/custom-header.json",
+                    "name": "Custom Header"
+                }
+            ],
+            "filesize": 3122,
+            "dimensions": [
+                178,
+                27
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "NA"
+        }
+    ]
+}

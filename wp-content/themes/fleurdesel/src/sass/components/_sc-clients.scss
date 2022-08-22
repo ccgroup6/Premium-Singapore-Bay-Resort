@@ -1,0 +1,38 @@
+// SC: Clients
+.fleurdesel-client__item {
+  position: relative;
+  border: 1px solid transparent;
+  transition: all .4s ease;
+
+  &:hover {
+    border-color: $color-1;
+  }
+
+  &:before {
+    @include paddingTop(280,200);
+  }
+}
+
+.fleurdesel-client__wrap {
+  transition: all .4s ease;
+
+  @include fleurstyle(true, $color-1);
+  @include absolute(0,0,0,0);
+
+  a {
+    display: block;
+    transition: all .4s ease;
+
+    @include fleurstyle(true, $color-1, 8px, bottom);
+  }
+
+  img {
+    filter : grayscale(100%);
+    filter: gray; /* Support IE */
+    transition: all .4s ease;
+  }
+
+  &:hover img {
+    filter: grayscale(0);
+  }
+}

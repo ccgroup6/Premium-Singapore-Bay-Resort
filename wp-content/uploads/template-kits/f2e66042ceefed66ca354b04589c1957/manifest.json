@@ -1,0 +1,1263 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Marriata \u2013 Hotel & Resort Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/marriata\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform - Booking Form",
+            "screenshot": "screenshots\/metform-booking-form.jpg",
+            "source": "templates\/metform-booking-form.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/marriata\/template-kit\/metform-booking-form\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/marriata\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service",
+            "screenshot": "screenshots\/service.jpg",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/marriata\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/marriata\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "News",
+            "screenshot": "screenshots\/news.jpg",
+            "source": "templates\/news.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/marriata\/template-kit\/news\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/marriata\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Rooms",
+            "screenshot": "screenshots\/rooms.jpg",
+            "source": "templates\/rooms.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/marriata\/template-kit\/room\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Room",
+            "screenshot": "screenshots\/single-room.jpg",
+            "source": "templates\/single-room.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/marriata\/template-kit\/single-room\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/marriata\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/marriata\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform - Contact Us Form",
+            "screenshot": "screenshots\/metform-contact-us-form.jpg",
+            "source": "templates\/metform-contact-us-form.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/marriata\/template-kit\/metform-contact-us-form\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/marriata\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/marriata\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/marriata\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "1.4.3",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "JegStudio"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.4.6",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Press Elements - Widgets for Elementor",
+            "version": "1.7.2",
+            "file": "press-elements\/press-elements.php",
+            "author": "Press Elements"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.1.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "swimming-pool-with-sofa-e1616574072502.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/swimming-pool-with-sofa-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 161396,
+            "dimensions": [
+                1290,
+                860
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PMQYAFV"
+        },
+        {
+            "filename": "umbrella-and-chair-around-outdoor-swimming-pool-e1616574036503.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/umbrella-and-chair-around-outdoor-swimming-pool-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 350611,
+            "dimensions": [
+                1290,
+                860
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-LVKJY95"
+        },
+        {
+            "filename": "outdoor-swimming-pool-with-umbrella-chair-lounge-around-there-fo-e1616574096806.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/outdoor-swimming-pool-with-umbrella-chair-lounge-around-there-fo-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 176520,
+            "dimensions": [
+                1290,
+                860
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZPFG5A3"
+        },
+        {
+            "filename": "bg-grey.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/bg-grey.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 11907,
+            "dimensions": [
+                631,
+                618
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/marriata\/"
+        },
+        {
+            "filename": "woman-at-the-swimming-pool-e1616574125770.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/woman-at-the-swimming-pool-800x954.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 169063,
+            "dimensions": [
+                1082,
+                1290
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7E5J2L7"
+        },
+        {
+            "filename": "54093-folded-robes-on-bed-in-hotel-room.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/54093-folded-robes-on-bed-in-hotel-room-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                }
+            ],
+            "filesize": 268452,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-22WQKAT"
+        },
+        {
+            "filename": "interior-of-double-bed-hotel-bedroom-e1616574149940.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/interior-of-double-bed-hotel-bedroom-800x526.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                }
+            ],
+            "filesize": 201936,
+            "dimensions": [
+                1290,
+                849
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PYL52CF"
+        },
+        {
+            "filename": "hotel-room-at-a-luxury-resort.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/hotel-room-at-a-luxury-resort-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                }
+            ],
+            "filesize": 350429,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-DV74YS2"
+        },
+        {
+            "filename": "big-bed-in-a-bedroom-e1616574590546.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/big-bed-in-a-bedroom-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                }
+            ],
+            "filesize": 296450,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P8ZDEST"
+        },
+        {
+            "filename": "hotel-room-at-a-luxury-resort-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/hotel-room-at-a-luxury-resort-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                }
+            ],
+            "filesize": 299053,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-5F7Y6PU"
+        },
+        {
+            "filename": "standard-double-beds-hotel-room.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/standard-double-beds-hotel-room-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                }
+            ],
+            "filesize": 283359,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-Y8RFT5B"
+        },
+        {
+            "filename": "swimming-pool-by-night-e1616574168286.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/swimming-pool-by-night-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 165990,
+            "dimensions": [
+                1290,
+                861
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-MRKDBPJ"
+        },
+        {
+            "filename": "guests-checking-in-to-a-hotel.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/guests-checking-in-to-a-hotel-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 304785,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7SDWJTM"
+        },
+        {
+            "filename": "afro-businessman-paying-with-his-cellphone-at-the-bar.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/afro-businessman-paying-with-his-cellphone-at-the-bar-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 222210,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WTX3FSS"
+        },
+        {
+            "filename": "towel-on-bed-around-swimming-pool-in-hotel-resort.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/towel-on-bed-around-swimming-pool-in-hotel-resort-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 271258,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-KMQCU6D"
+        },
+        {
+            "filename": "slender-girl-sunbathes-near-the-swimming-pool-top-view--e1616574192686.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/slender-girl-sunbathes-near-the-swimming-pool-top-view--800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 213223,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UEHX22Y"
+        },
+        {
+            "filename": "pattern.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/pattern-800x411.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 53149,
+            "dimensions": [
+                1151,
+                592
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/stylish-hexagonal-line-pattern-background_5001147.htm"
+        },
+        {
+            "filename": "group-of-girls-friends-eating-watermelon-at-the-pool-e1616574226860.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/group-of-girls-friends-eating-watermelon-at-the-pool-800x540.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 205799,
+            "dimensions": [
+                1290,
+                871
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-256FT87"
+        },
+        {
+            "filename": "duck-legs-confit-with-potato-gratin-and-mushroom-sauce-restaurant-serving--e1616574249731.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/duck-legs-confit-with-potato-gratin-and-mushroom-sauce-restaurant-serving--800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 334741,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-UDNG58L"
+        },
+        {
+            "filename": "pool-area-of-a-luxury-hotel-e1616574266276.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/pool-area-of-a-luxury-hotel-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 329168,
+            "dimensions": [
+                1200,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-6755SG6"
+        },
+        {
+            "filename": "toasting-in-water-e1616574564270.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/toasting-in-water-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 285813,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FHSK9XQ"
+        },
+        {
+            "filename": "MRTBHAW-2x-e1616574291837.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/MRTBHAW-2x-e1616574291837.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 172749,
+            "dimensions": [
+                745,
+                993
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-MRTBHAW"
+        },
+        {
+            "filename": "PU969F8-2x-e1616574309414.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/PU969F8-2x-e1616574309414.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 105608,
+            "dimensions": [
+                745,
+                993
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PU969F8"
+        },
+        {
+            "filename": "interiors-of-a-luxury-hotel-room-e1616574328697.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/interiors-of-a-luxury-hotel-room-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 174932,
+            "dimensions": [
+                1290,
+                861
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-J7KFMSE"
+        },
+        {
+            "filename": "beautiful-luxury-outdoor-swimming-pool-in-hotel-resort-with-sea-e1616574359717.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/beautiful-luxury-outdoor-swimming-pool-in-hotel-resort-with-sea-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 170237,
+            "dimensions": [
+                1290,
+                860
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-S3DZ8BA"
+        },
+        {
+            "filename": "hotel-maid-disinfecting-surfaces.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/hotel-maid-disinfecting-surfaces-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 320372,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-A7XNELL"
+        },
+        {
+            "filename": "umbrella-and-chair-sofa-around-outdoor-swimming-pool-in-hotel-re-e1616574388134.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/umbrella-and-chair-sofa-around-outdoor-swimming-pool-in-hotel-re-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 263852,
+            "dimensions": [
+                1290,
+                860
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-SM2HRWD"
+        },
+        {
+            "filename": "housekeeper-cleaning-a-hotel-room-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/housekeeper-cleaning-a-hotel-room-2-800x553.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 270767,
+            "dimensions": [
+                2000,
+                1382
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-C83JDQS"
+        },
+        {
+            "filename": "a-midsection-of-waiter-pouring-champagne-into-a-glass-on-an-indoor-party-at-night--e1616574406276.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/a-midsection-of-waiter-pouring-champagne-into-a-glass-on-an-indoor-party-at-night--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 138601,
+            "dimensions": [
+                1290,
+                860
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FB4S9ZQ"
+        },
+        {
+            "filename": "outdoor-lifestyle-portrait-of-stunning-young-woman-having-fun-e1616574423109.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/outdoor-lifestyle-portrait-of-stunning-young-woman-having-fun-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 209166,
+            "dimensions": [
+                1290,
+                860
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-22XS8GV"
+        },
+        {
+            "filename": "floating-breakfast-at-amazing-hotel-villa-in-blue-swimming-pool-e1616574441797.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/floating-breakfast-at-amazing-hotel-villa-in-blue-swimming-pool-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 241620,
+            "dimensions": [
+                1290,
+                860
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-U87S6SQ"
+        },
+        {
+            "filename": "spa-hotel-service.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/spa-hotel-service-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 217723,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-K74Z249"
+        },
+        {
+            "filename": "beautiful-woman-with-wet-long-hair-in-swimming-pool--e1616574459842.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/beautiful-woman-with-wet-long-hair-in-swimming-pool--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 165713,
+            "dimensions": [
+                1290,
+                860
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-34T4TDT"
+        },
+        {
+            "filename": "bed-in-the-hotel.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/bed-in-the-hotel-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                }
+            ],
+            "filesize": 320863,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PWSJCAE"
+        },
+        {
+            "filename": "umbrella-and-chair-around-outdoor-swimming-pool-1-e1616574481673.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/umbrella-and-chair-around-outdoor-swimming-pool-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 261217,
+            "dimensions": [
+                1290,
+                860
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-9D44BCU"
+        },
+        {
+            "filename": "nightstand-in-a-hotel-room-with-flowers-telephone-clock-and-lamps-e1616574499918.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/nightstand-in-a-hotel-room-with-flowers-telephone-clock-and-lamps-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 250935,
+            "dimensions": [
+                1290,
+                967
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-VUB7RUG"
+        },
+        {
+            "filename": "logo-gold-2.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/logo-gold-2-800x206.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 36585,
+            "dimensions": [
+                1744,
+                448
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/kelly-light-gorgeous-sans-serif-5YAHCCJ"
+        },
+        {
+            "filename": "logo-color1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/marriata\/wp-content\/uploads\/sites\/60\/2021\/03\/logo-color1-800x206.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 37823,
+            "dimensions": [
+                1744,
+                448
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/kelly-light-gorgeous-sans-serif-5YAHCCJ"
+        }
+    ]
+}

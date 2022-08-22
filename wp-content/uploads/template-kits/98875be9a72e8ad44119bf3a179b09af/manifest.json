@@ -1,0 +1,1148 @@
+{
+    "manifest_version": "1.0.7",
+    "title": "Nicdark Hotel Booking",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Staff",
+            "screenshot": "screenshots\/staff.jpg",
+            "source": "templates\/staff.json",
+            "preview_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/template-kit\/staff\/",
+            "type": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/template-kit\/services\/",
+            "type": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Rooms",
+            "screenshot": "screenshots\/rooms.jpg",
+            "source": "templates\/rooms.json",
+            "preview_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/template-kit\/rooms\/",
+            "type": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3.json",
+            "preview_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/template-kit\/home-3\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2.json",
+            "preview_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/template-kit\/home-2\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1.json",
+            "preview_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/template-kit\/home-1\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/template-kit\/gallery\/",
+            "type": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/template-kit\/contact\/",
+            "type": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us 2",
+            "screenshot": "screenshots\/about-us-2.jpg",
+            "source": "templates\/about-us-2.json",
+            "preview_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/template-kit\/about-us-2\/",
+            "type": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us 1",
+            "screenshot": "screenshots\/about-us-1.jpg",
+            "source": "templates\/about-us-1.json",
+            "preview_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/template-kit\/about-us-1\/",
+            "type": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elements For Elementor",
+            "version": "1.1",
+            "file": "nd-elements\/nd-elements.php",
+            "author": "Nicdark"
+        }
+    ],
+    "images": [
+        {
+            "filename": "hotel-logo.png",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/hotel-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About Us 1"
+                }
+            ],
+            "filesize": 3613,
+            "dimensions": [
+                383,
+                57
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/hotel-logo.png"
+        },
+        {
+            "filename": "img-16.jpg",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-16-600x399.jpg",
+            "templates": [
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About Us 1"
+                }
+            ],
+            "filesize": 380929,
+            "dimensions": [
+                1920,
+                1277
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/it-it\/foto\/acqua-bordo-piscina-divertimento-estate-261395\/"
+        },
+        {
+            "filename": "img-4-1.jpg",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-4-1-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About Us 1"
+                }
+            ],
+            "filesize": 39547,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/it-it\/foto\/appartamento-bianco-camera-casa-545034\/"
+        },
+        {
+            "filename": "img-3-1.jpg",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-3-1-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About Us 1"
+                }
+            ],
+            "filesize": 80331,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/it-it\/foto\/camera-contemporaneo-dentro-interior-design-1267438\/"
+        },
+        {
+            "filename": "img-5-1.jpg",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-5-1-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About Us 1"
+                }
+            ],
+            "filesize": 101839,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/it-it\/foto\/camera-cuscini-letto-pavimenti-in-legno-90317\/"
+        },
+        {
+            "filename": "img-25.jpg",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-25-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 104126,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/it-it\/foto\/accogliente-camera-comfort-comodita-1374125\/"
+        },
+        {
+            "filename": "img-11.jpg",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-11-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 82919,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/it-it\/foto\/appartamento-architettura-articoli-di-vetro-banco-827528\/"
+        },
+        {
+            "filename": "img-12.jpg",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-12-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 82321,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/it-it\/foto\/banco-camera-comfort-comodita-276720\/"
+        },
+        {
+            "filename": "img-21.png",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-21.png",
+            "templates": [
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About Us 1"
+                }
+            ],
+            "filesize": 4728,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconify.design\/icon-sets\/maki\/"
+        },
+        {
+            "filename": "img-19.png",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-19.png",
+            "templates": [
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About Us 1"
+                }
+            ],
+            "filesize": 5156,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconify.design\/icon-sets\/maki\/"
+        },
+        {
+            "filename": "img-18.png",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-18.png",
+            "templates": [
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About Us 1"
+                }
+            ],
+            "filesize": 4281,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconify.design\/icon-sets\/maki\/"
+        },
+        {
+            "filename": "img-20.png",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-20.png",
+            "templates": [
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About Us 1"
+                }
+            ],
+            "filesize": 4907,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconify.design\/icon-sets\/maki\/"
+        },
+        {
+            "filename": "img-1-1.jpg",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-1-1-600x240.jpg",
+            "templates": [
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 124015,
+            "dimensions": [
+                1920,
+                767
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/it-it\/foto\/armadio-camera-interni-lampada-90319\/"
+        },
+        {
+            "filename": "img-29.jpg",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-29-600x338.jpg",
+            "templates": [
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 93570,
+            "dimensions": [
+                1280,
+                720
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/it-it\/foto\/caffe-hotel-edificio-laptop-3201758\/"
+        },
+        {
+            "filename": "img-26.jpg",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-26-600x338.jpg",
+            "templates": [
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 149737,
+            "dimensions": [
+                1280,
+                720
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/it-it\/foto\/casa-piatto-hygge-monolocale-3754595\/"
+        },
+        {
+            "filename": "img-28.jpg",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-28-600x338.jpg",
+            "templates": [
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 92638,
+            "dimensions": [
+                1280,
+                720
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/it-it\/foto\/hotel-letto-camera-lusso-3754029\/"
+        },
+        {
+            "filename": "img-27.jpg",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-27-600x338.jpg",
+            "templates": [
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 46955,
+            "dimensions": [
+                1280,
+                720
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/it-it\/foto\/arredamento-camera-comfort-comodita-707581\/"
+        },
+        {
+            "filename": "img-15.jpg",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-15-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 133949,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/it-it\/foto\/accogliente-camera-comfort-comodita-2736388\/"
+        },
+        {
+            "filename": "img-17.jpg",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-17-600x420.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About Us 1"
+                }
+            ],
+            "filesize": 74333,
+            "dimensions": [
+                1920,
+                1343
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/it-it\/foto\/benvenuto-camera-entrata-hotel-271639\/"
+        },
+        {
+            "filename": "img-9.jpg",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-9-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About Us 1"
+                }
+            ],
+            "filesize": 87768,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/it-it\/foto\/armadio-camera-interni-lampada-90319\/"
+        },
+        {
+            "filename": "img-24.jpg",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-24-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 65853,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/it-it\/foto\/camera-cassetto-comfort-comodita-545012\/"
+        },
+        {
+            "filename": "img-6-1.jpg",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-6-1-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About Us 1"
+                }
+            ],
+            "filesize": 85687,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/it-it\/foto\/camera-interior-design-interni-lampadario-a-bracci-262048\/"
+        },
+        {
+            "filename": "img-14.jpg",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-14-600x240.jpg",
+            "templates": [
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 131723,
+            "dimensions": [
+                1920,
+                767
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/it-it\/foto\/accogliente-camera-cuscini-hotel-164595\/"
+        },
+        {
+            "filename": "img-7.jpg",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-7-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About Us 1"
+                }
+            ],
+            "filesize": 107455,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/it-it\/foto\/accogliente-architettura-bellissimo-camera-2725675\/"
+        },
+        {
+            "filename": "img-23.png",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-23.png",
+            "templates": [
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About Us 1"
+                }
+            ],
+            "filesize": 3115,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconify.design\/icon-sets\/maki\/"
+        },
+        {
+            "filename": "img-22.png",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-22.png",
+            "templates": [
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About Us 1"
+                }
+            ],
+            "filesize": 2452,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconify.design\/icon-sets\/maki\/"
+        },
+        {
+            "filename": "img-13.jpg",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-13-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 312767,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/it-it\/foto\/acqua-acqua-azzurra-architettura-centro-citta-261102\/"
+        },
+        {
+            "filename": "img-8-1.jpg",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-8-1-600x398.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 346595,
+            "dimensions": [
+                1920,
+                1272
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/it-it\/foto\/architettura-camera-comfort-comodita-2883047\/"
+        },
+        {
+            "filename": "img-10.jpg",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/img-10-600x564.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 122177,
+            "dimensions": [
+                1061,
+                997
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/it-it\/foto\/bevanda-bevanda-alcolica-bicchiere-di-vino-bottiglia-di-vino-1579253\/"
+        },
+        {
+            "filename": "sample-parallax.jpg",
+            "thumbnail_url": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/sample-parallax.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 12147,
+            "dimensions": [
+                1280,
+                720
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "http:\/\/www.nicdarkthemes.com\/themes\/elementor-kits\/wp\/demo\/wp-content\/uploads\/2020\/03\/sample-parallax.jpg"
+        }
+    ]
+}

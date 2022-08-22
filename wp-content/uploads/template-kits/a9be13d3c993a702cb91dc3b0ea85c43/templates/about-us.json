@@ -1,0 +1,543 @@
+{
+    "version": "0.4",
+    "title": "About Us",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-about",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "69bc5d8",
+            "settings": {
+                "background_background": "classic",
+                "background_image": {
+                    "id": 124,
+                    "url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/luxury-hero-bg.jpg"
+                },
+                "background_position": "center center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "slider_delay": "5000",
+                "margin": {
+                    "unit": "px",
+                    "top": "-101",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "custom_height_tablet": {
+                    "unit": "px",
+                    "size": 250,
+                    "sizes": []
+                },
+                "custom_height_mobile": {
+                    "unit": "px",
+                    "size": 250,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "198",
+                    "right": "0",
+                    "bottom": "111",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "180",
+                    "right": "0",
+                    "bottom": "150",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "custom_height": {
+                    "unit": "px",
+                    "size": 401,
+                    "sizes": []
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "-110",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "2240e2f6",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "slider_delay": "5000"
+                    },
+                    "elements": [
+                        {
+                            "id": "3811e69a",
+                            "settings": {
+                                "title": "About Us",
+                                "header_size": "h1",
+                                "align": "center",
+                                "title_color": "#FFFFFF",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Georgia",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 72,
+                                    "sizes": []
+                                },
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 55,
+                                    "sizes": []
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 42,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "normal"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "ed4e87d",
+            "settings": {
+                "structure": "20",
+                "slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "134",
+                    "right": "0",
+                    "bottom": "90",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "0",
+                    "bottom": "50",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "content_width": {
+                    "unit": "px",
+                    "size": 1280,
+                    "sizes": []
+                }
+            },
+            "elements": [
+                {
+                    "id": "1c870ed3",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 50,
+                        "slider_delay": "5000",
+                        "_inline_size_tablet": 100,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "30",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "556f7293",
+                            "settings": {
+                                "title": "Our Hotel",
+                                "align": "left",
+                                "title_color": "#000000",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Georgia",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 36,
+                                    "sizes": []
+                                },
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 27,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "normal",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "25",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "align_tablet": "left",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5bb69307",
+                            "settings": {
+                                "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\n<br><br>\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis.",
+                                "header_size": "p",
+                                "title_color": "#999999",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Lato",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.7,
+                                    "sizes": []
+                                },
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4e2ab010",
+                            "settings": {
+                                "structure": "20",
+                                "slider_delay": "5000"
+                            },
+                            "elements": [
+                                {
+                                    "id": "44026296",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 15,
+                                        "slider_delay": "5000",
+                                        "padding_tablet": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "341140fd",
+                                            "settings": {
+                                                "image": {
+                                                    "id": 370,
+                                                    "url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/testimonial.png"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "698cb26c",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 85,
+                                        "slider_delay": "5000",
+                                        "css_classes": "gc-hotel-manager",
+                                        "content_position": "center",
+                                        "align_mobile": "center"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "24d737f7",
+                                            "settings": {
+                                                "title": "Jonathan Doe",
+                                                "header_size": "h4",
+                                                "title_color": "#999999",
+                                                "typography_typography": "custom",
+                                                "_element_width": "auto",
+                                                "typography_font_family": "Allura",
+                                                "typography_font_size_tablet": {
+                                                    "unit": "px",
+                                                    "size": 36,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 28,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_weight": "normal",
+                                                "typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.7,
+                                                    "sizes": []
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 48,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "74753ad1",
+                                            "settings": {
+                                                "title": "Hotel Manager",
+                                                "header_size": "p",
+                                                "title_color": "#999999",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Lato",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                },
+                                                "align_mobile": "center",
+                                                "typography_font_weight": "normal"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "58e4a1eb",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 50,
+                        "slider_delay": "5000",
+                        "_inline_size_tablet": 100,
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "20",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "content_position": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "2fd2a422",
+                            "settings": {
+                                "carousel": [
+                                    {
+                                        "id": 213,
+                                        "url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/our-hotel-02.jpg"
+                                    },
+                                    {
+                                        "id": 214,
+                                        "url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/our-hotel-01.jpg"
+                                    },
+                                    {
+                                        "id": 215,
+                                        "url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/our-hotel.jpg"
+                                    }
+                                ],
+                                "thumbnail_size": "full",
+                                "slides_to_show": "1",
+                                "slides_to_scroll": "3",
+                                "navigation": "arrows",
+                                "autoplay_speed": 3000,
+                                "autoplay": "no",
+                                "arrows_color": "#7A7A7A"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-carousel",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "3f6548f2",
+            "settings": {
+                "layout": "full_width",
+                "slider_delay": "5000",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "20",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "11120a78",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "slider_delay": "5000",
+                        "padding": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "0",
+                            "bottom": "20",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "7b24d846",
+                            "settings": {
+                                "title": "Walk Through",
+                                "align": "center",
+                                "align_tablet": "center",
+                                "title_color": "#000000",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Georgia",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 36,
+                                    "sizes": []
+                                },
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 27,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "normal",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "30",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "11dd321c",
+                            "settings": {
+                                "carousel": [
+                                    {
+                                        "id": 135,
+                                        "url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/luxury-premiumroom-1.jpg"
+                                    },
+                                    {
+                                        "id": 136,
+                                        "url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/luxury-premiumroom-2.jpg"
+                                    },
+                                    {
+                                        "id": 137,
+                                        "url": "http:\/\/luxuryhotel.wpbuilt.co\/wp-content\/uploads\/sites\/7\/2020\/04\/luxury-premiumroom-3.jpg"
+                                    }
+                                ],
+                                "thumbnail_size": "full",
+                                "slides_to_show": "3",
+                                "navigation": "arrows",
+                                "autoplay": "no",
+                                "pause_on_hover": "no",
+                                "pause_on_interaction": "no",
+                                "autoplay_speed": 3000,
+                                "image_stretch": "yes",
+                                "gallery_vertical_align": "flex-end",
+                                "image_spacing": "custom",
+                                "image_spacing_custom": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "slides_to_show_tablet": "2"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-carousel",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "custom_css": ".gc-home-gallery .elementor-image-carousel-wrapper:before {\r\n    position: absolute;\r\n    background: #fff;\r\n    content: '';\r\n    width: 50%;\r\n    bottom: -1px;\r\n    left: -1px;\r\n    z-index: 9;\r\n    height: 15%;\r\n}\r\n\r\n.gc-home-gallery .elementor-image-carousel-wrapper:after {\r\n    position: absolute;\r\n    background: #fff;\r\n    content: '';\r\n    width: 50%;\r\n    top: -1px;\r\n    right: -1px;\r\n    z-index: 9;\r\n    height: 15%;\r\n}\r\n\r\n.gc-home-gallery {\r\n    position: relative !important;\r\n}\r\n\r\n.gc-home-gallery .elementor-swiper-button-prev, .gc-home-gallery  .elementor-swiper-button-next {\r\n    top: unset;\r\n    color: #000;\r\n    bottom: 1.5%;\r\n    left: 33%;\r\n    z-index: 999;\r\n    transform: translate(15%, -50%);\r\n}\r\n\r\n@media screen and (min-width: 981px){\r\n    .gc-walkthrough .swiper-slide.swiper-slide-next {\r\n        width: 45% !important;\r\n    }\r\n    \r\n    .gc-walkthrough .swiper-slide-active[data-swiper-slide-index=\"0\"] {\r\n        margin-left: -14% !important;\r\n    }\r\n    \r\n    \r\n    .gc-walkthrough .swiper-slide-active {\r\n        margin-left: -22%;\r\n        width: 40% !important;\r\n    }\r\n    \r\n    \r\n    .gc-walkthrough .swiper-slide.swiper-slide-duplicate-prev {\r\n        width: 40% !important;\r\n    }\r\n}\r\n\r\n@media screen and (max-width: 980px){\r\n    .gc-home-gallery .elementor-image-carousel-wrapper:after{\r\n        width: 470px;\r\n    }\r\n    .gc-home-gallery .elementor-image-carousel-wrapper:before{\r\n        width: 470px;\r\n    }\r\n    .gc-home-gallery {\r\n        overflow-x: hidden;\r\n    }\r\n}\r\n\r\n@media screen and (max-width: 767px){\r\n    .gc-home-gallery .elementor-image-carousel-wrapper:after{\r\n        width: 50%;\r\n        height: 13%;\r\n    }\r\n    .gc-home-gallery .elementor-image-carousel-wrapper:before{\r\n        width: 50%;\r\n        height: 13%;\r\n    }\r\n    .gc-home-gallery .elementor-swiper-button-prev, .gc-home-gallery .elementor-swiper-button-next{\r\n        left: 28%;\r\n        bottom: 0.5%;\r\n    }\r\n}\r\n\r\n@media screen and (max-width: 450px){\r\n    .gc-home-gallery .elementor-image-carousel-wrapper:after{\r\n        height: 15.5%;\r\n    }\r\n    .gc-home-gallery .elementor-image-carousel-wrapper:before{\r\n        height: 15.5%;\r\n    }\r\n}",
+        "template": "elementor_header_footer"
+    }
+}

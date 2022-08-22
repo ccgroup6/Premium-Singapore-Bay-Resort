@@ -1,0 +1,38 @@
+// BUTTONS
+.btn-view {
+  letter-spacing: 1px;
+  cursor: pointer;
+
+  &:after {
+    margin-left: 10px;
+
+    @include fa("\f178");
+  }
+
+  &:focus,
+  &:active,
+  &:active:hover,
+  &:active:focus {
+    outline: none;
+  }
+}
+
+.btn-lg {
+  padding: 25px 50px !important;
+}
+
+.btn-w185 {
+  min-width: 185px;
+}
+
+.btn-w190 {
+  min-width: 190px;
+}
+
+.btn-w200 {
+  min-width: 200px;
+}
+
+.btn-w300 {
+  min-width: 300px;
+}

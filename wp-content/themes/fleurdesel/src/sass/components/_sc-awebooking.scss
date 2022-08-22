@@ -1,0 +1,1212 @@
+$awebooking-primary               : #333 !default;  // Primary color  #333
+$awebooking-secondary             : #b7b7b7 !default; // Secondary color #b7b7b7
+$awebooking-background            : #f7f7f7 !default; // Background color #f7f7f7
+$awebooking-background-secondary  : #FFF !default; // Background secondary #FFF
+$awebooking-highlight-color       : #007acc !default; // Highlight color #007acc
+$awebooking-highlight--hover-color: lighten($awebooking-highlight-color, 5%) !default; // Highlight hover color #e93c4f
+$awebooking-border-color          : #e4e4e4 !default; // Border color #e4e4e4
+$awebooking-success               : #57d03b !default; // Success color #57d03b
+$awebooking-error                 : #e93c4f !default; // Error color #e93c4f
+$awebooking-warning               : #ffcc00 !default; // Warning color #ffcc00
+$awebooking-info                  : #007acc !default; // Info color #007acc
+
+// awebooking Container & Breakpoints
+// -------------------------------------------------------------------
+$awebooking-gutter-width          : 30px !default;
+$awebooking-container-sm          : (720px + $awebooking-gutter-width) !default;
+$awebooking-container-md          : (940px + $awebooking-gutter-width) !default;
+$awebooking-container-lg          : (1140px + $awebooking-gutter-width) !default;
+
+// awebooking Fonts & Typo
+// -------------------------------------------------------------------
+$awebooking-font-size-base        : 14px !default;
+$awebooking-font-size-small       : 12px !default;
+$awebooking-font-size-large       : 16px !default;
+
+$awebooking-font-family           : 'Roboto', sans-serif !default;
+$awebooking-line-height-base      : 1.428571429 !default; // 20/14
+$awebooking-font-weight           : 400 !default;
+
+$awebooking-heading-font-family   : inherit !default;
+$awebooking-heading-line-height   : 1.1 !default;
+$awebooking-heading-font-weight   : 700 !default;
+
+// Forms Element
+// -------------------------------------------------------------------
+$awebooking-field-margin          : 20px !default;
+$awebooking-input-padding         : 7px 15px !default;
+$awebooking-input-icon            : true !default;
+
+// $awebooking-input-bg           : #fff !default;
+$awebooking-input-color           : #333 !default;
+$awebooking-input-border          : #eee !default;
+
+$awebooking-input-focus-bg        : #fff !default;
+$awebooking-input-focus-color     : #333 !default;
+$awebooking-input-focus-border:  $awebooking-background !default;
+
+/* Awebooking Datepicker
+----------------------------------*/
+/* Overlays */
+.ui-widget-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.ui-datepicker {
+  width: 17em;
+  padding: .2em .2em 0;
+  display: none;
+}
+.ui-datepicker .ui-datepicker-header {
+  position: relative;
+  padding: .2em 0;
+}
+.ui-datepicker .ui-datepicker-prev,
+.ui-datepicker .ui-datepicker-next {
+  position: absolute;
+  top: 2px;
+  width: 1.8em;
+  height: 1.8em;
+}
+.ui-datepicker .ui-datepicker-prev-hover,
+.ui-datepicker .ui-datepicker-next-hover {
+  top: 1px;
+}
+.ui-datepicker .ui-datepicker-prev {
+  left: 2px;
+}
+.ui-datepicker .ui-datepicker-next {
+  right: 2px;
+}
+.ui-datepicker .ui-datepicker-prev-hover {
+  left: 1px;
+}
+.ui-datepicker .ui-datepicker-next-hover {
+  right: 1px;
+}
+.ui-datepicker .ui-datepicker-prev span,
+.ui-datepicker .ui-datepicker-next span {
+  display: block;
+  position: absolute;
+  left: 50%;
+  margin-left: -8px;
+  top: 50%;
+  margin-top: -8px;
+}
+.ui-datepicker .ui-datepicker-title {
+  margin: 0 2.3em;
+  line-height: 1.8em;
+  text-align: center;
+}
+.ui-datepicker .ui-datepicker-title select {
+  font-size: 1em;
+  margin: 1px 0;
+}
+.ui-datepicker select.ui-datepicker-month,
+.ui-datepicker select.ui-datepicker-year {
+  width: 45%;
+}
+.ui-datepicker table {
+  width: 100%;
+  font-size: .9em;
+  border-collapse: collapse;
+  margin: 0 0 .4em;
+}
+.ui-datepicker th {
+  padding: .7em .3em;
+  text-align: center;
+  font-weight: bold;
+  border: 0;
+}
+.ui-datepicker td {
+  border: 0;
+  padding: 1px;
+}
+.ui-datepicker td span,
+.ui-datepicker td a {
+  display: block;
+  padding: .2em;
+  text-align: right;
+  text-decoration: none;
+}
+.ui-datepicker .ui-datepicker-buttonpane {
+  background-image: none;
+  margin: .7em 0 0 0;
+  padding: 0 .2em;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0;
+}
+.ui-datepicker .ui-datepicker-buttonpane button {
+  float: right;
+  margin: .5em .2em .4em;
+  cursor: pointer;
+  padding: .2em .6em .3em .6em;
+  width: auto;
+  overflow: visible;
+}
+.ui-datepicker .ui-datepicker-buttonpane button.ui-datepicker-current {
+  float: left;
+}
+
+/* with multiple calendars */
+.ui-datepicker.ui-datepicker-multi {
+  width: auto;
+}
+.ui-datepicker-multi .ui-datepicker-group {
+  float: left;
+}
+.ui-datepicker-multi .ui-datepicker-group table {
+  width: 95%;
+  margin: 0 auto .4em;
+}
+.ui-datepicker-multi-2 .ui-datepicker-group {
+  width: 50%;
+}
+.ui-datepicker-multi-3 .ui-datepicker-group {
+  width: 33.3%;
+}
+.ui-datepicker-multi-4 .ui-datepicker-group {
+  width: 25%;
+}
+.ui-datepicker-multi .ui-datepicker-group-last .ui-datepicker-header,
+.ui-datepicker-multi .ui-datepicker-group-middle .ui-datepicker-header {
+  border-left-width: 0;
+}
+.ui-datepicker-multi .ui-datepicker-buttonpane {
+  clear: left;
+}
+.ui-datepicker-row-break {
+  clear: both;
+  width: 100%;
+  font-size: 0;
+}
+
+/* RTL support */
+.ui-datepicker-rtl {
+  direction: rtl;
+}
+.ui-datepicker-rtl .ui-datepicker-prev {
+  right: 2px;
+  left: auto;
+}
+.ui-datepicker-rtl .ui-datepicker-next {
+  left: 2px;
+  right: auto;
+}
+.ui-datepicker-rtl .ui-datepicker-prev:hover {
+  right: 1px;
+  left: auto;
+}
+.ui-datepicker-rtl .ui-datepicker-next:hover {
+  left: 1px;
+  right: auto;
+}
+.ui-datepicker-rtl .ui-datepicker-buttonpane {
+  clear: right;
+}
+.ui-datepicker-rtl .ui-datepicker-buttonpane button {
+  float: left;
+}
+.ui-datepicker-rtl .ui-datepicker-buttonpane button.ui-datepicker-current,
+.ui-datepicker-rtl .ui-datepicker-group {
+  float: right;
+}
+.ui-datepicker-rtl .ui-datepicker-group-last .ui-datepicker-header,
+.ui-datepicker-rtl .ui-datepicker-group-middle .ui-datepicker-header {
+  border-right-width: 0;
+  border-left-width: 1px;
+}
+/* Awebooking-Datepicker */
+.awebooking-calendar_wrap {
+  padding: 7px 15px 15px 15px;
+  background-color: $awebooking-background;
+
+  @include media('>=sm') {
+    padding: 10px 20px 20px 20px;
+  }
+}
+
+.awebooking-fc-next, .awebooking-fc-prev, .awebooking-product_thumb .owl-next, .awebooking-product_thumb .owl-prev, .awebooking .awebookingfc-next>span, .awebooking .awebookingfc-prev>span, .awebooking .ui-datepicker-next>span, .awebooking .ui-datepicker-prev>span, .ui-datepicker.awebooking-datepicker .awebookingfc-next>span, .ui-datepicker.awebooking-datepicker .awebookingfc-prev>span, .ui-datepicker.awebooking-datepicker .ui-datepicker-next>span, .ui-datepicker.awebooking-datepicker .ui-datepicker-prev>span {
+  font-family: FontAwesome;
+  color: #b7b7b7;
+}
+
+.awebooking-fc-next:after, .awebooking-product_thumb .owl-next:after, .awebooking .awebookingfc-next>span:after, .awebooking .ui-datepicker-next>span:after, .ui-datepicker.awebooking-datepicker .awebookingfc-next>span:after, .ui-datepicker.awebooking-datepicker .ui-datepicker-next>span:after {
+  content: "\F054";
+}
+.awebooking-fc-prev:after, .awebooking-product_thumb .owl-prev:after, .awebooking .awebookingfc-prev>span:after, .awebooking .ui-datepicker-prev>span:after, .ui-datepicker.awebooking-datepicker .awebookingfc-prev>span:after, .ui-datepicker.awebooking-datepicker .ui-datepicker-prev>span:after {
+  content: "\F053";
+}
+
+/* Awebooking Datepicker */
+.awebooking-calendar .ui-datepicker,
+.ui-datepicker.awebooking-datepicker {
+  padding: 0;
+  border: none;
+  border-radius: 0;
+
+  &.ui-widget-content {
+    color: inherit;
+    background-image: none !important;
+  }
+  &.ui-datepicker-multi .ui-datepicker-calendar {
+    margin-top: 10px;
+  }
+
+  .ui-widget-header {
+    background-image: none;
+    background-color: transparent;
+    border: none;
+
+    .ui-icon {
+      font-size: 0;
+      text-indent: 0;
+      background-image: none;
+    }
+  }
+
+  table {
+    margin: 0;
+    border: none;
+    line-height: 1;
+    width: 100%;
+
+    border-spacing: 0;
+    border-collapse: collapse;
+  }
+
+  th {
+    color: $awebooking-primary;
+    background-color: transparent;
+    text-transform: uppercase;
+  }
+
+  td {
+    padding: 3px;
+  }
+
+  .ui-state-disabled span {
+    background: transparent;
+    opacity: 0.2;
+  }
+
+  td a,
+  td span,
+  th span {
+    background-image: none;
+    font-size: $awebooking-font-size-small;
+  }
+
+  td a {
+    color: $awebooking-primary;
+
+    &:focus {
+      outline: 0;
+    }
+  }
+
+
+  .ui-datepicker-title {
+    text-transform: uppercase;
+    color: $awebooking-primary;
+
+    margin-left: 0;
+    margin-right: 0;
+
+    padding-left: 30px;
+    padding-right: 30px;
+
+    &,
+    & span {
+      font-size: $awebooking-font-size-base;
+      font-weight: $awebooking-font-weight;
+    }
+  }
+
+  // Next and Prev
+  .ui-datepicker-prev,
+  .ui-datepicker-next {
+    @include size(24px);
+    border-radius: 0;
+
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    // opacity: 0.35;
+    cursor: pointer;
+    border: solid 1px $awebooking-secondary;
+
+    &:hover,
+    &:focus {
+      // opacity: 0.75;
+      border: solid 1px $awebooking-highlight-color;
+      color: $awebooking-highlight-color;
+    }
+
+    &.ui-state-disabled {
+      opacity: 0.1;
+    }
+  }
+
+  .ui-datepicker-prev {
+    top: 3px;
+    left: 3px;
+
+    &:hover,
+    &:focus {
+      top: 3px;
+      left: 3px;
+    }
+  }
+
+  .ui-datepicker-next {
+    top: 3px;
+    right: 3px;
+
+    &:hover,
+    &:focus {
+      top: 3px;
+      right: 3px;
+    }
+  }
+}
+
+/* Calendar Icons */
+.awebooking,
+.ui-datepicker.awebooking-datepicker {
+  .awebookingfc-next > span,
+  .awebookingfc-prev > span,
+  .ui-datepicker-prev > span,
+  .ui-datepicker-next > span {
+    @include size(24px);
+    margin-left: -12px;
+    margin-top: -12px;
+
+    line-height: 24px;
+    text-align: center;
+  }
+
+  .awebookingfc-next > span,
+  .ui-datepicker-next > span {
+
+    &:hover:after {
+      color: $awebooking-highlight-color;
+    }
+  }
+
+  .awebookingfc-prev > span,
+  .ui-datepicker-prev > span {
+
+    &:hover:after {
+      color: $awebooking-highlight-color;
+    }
+  }
+}
+
+/* Inline datepicker */
+.awebooking-calendar .ui-datepicker-inline {
+  background-color: transparent;
+
+  td a,
+  td span {
+    border: none;
+    padding: 8px;
+    background-color: $awebooking-background-secondary;
+
+    @include media('>=sm') {
+      padding: 10px;
+    }
+  }
+
+  td a:hover,
+  td a:focus,
+  td.awebooking-highlight a {
+    color: #fff;;
+    background-color: $awebooking-highlight-color;
+  }
+
+  @include media('<sm') {
+    &.ui-datepicker-multi-2 .ui-datepicker-group {
+      width: 100%;
+    }
+  }
+}
+
+/* Popup datepicker */
+.ui-datepicker.awebooking-datepicker {
+  width: 20em;
+  padding: 5px 10px 10px;
+  background-color: #FFF;
+  box-shadow: 0 1px 25px rgba(black, 0.1);
+
+  td a,
+  td span {
+    padding: 7px;
+    text-align: center;
+
+    border: solid 1px $awebooking-border-color;
+    background-color: transparent;
+  }
+
+  td a:hover,
+  td a:focus,
+  td.awebooking-highlight a,
+  .ui-state-active {
+    color: $awebooking-highlight-color;
+    border-color: $awebooking-highlight-color;
+  }
+
+  .ui-state-active {
+    color: #fff !important;
+    background-color: $awebooking-highlight-color;
+  }
+
+  &.ui-datepicker-multi {
+    td a,
+    td span {
+      padding: 5px;
+    }
+  }
+
+  .ui-datepicker-header {
+    margin-left: -10px;
+    margin-right: -10px;
+
+    margin-bottom: 7px;
+    padding-bottom: 7px;
+
+    border-bottom: solid 1px $awebooking-border-color;
+  }
+
+  .ui-datepicker-title {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .ui-datepicker-prev {
+    left: 18px;
+
+    &:hover,
+    &:focus {
+      left: 18px;
+    }
+  }
+
+  .ui-datepicker-next {
+    right: 18px;
+
+    &:hover,
+    &:focus {
+      right: 18px;
+    }
+  }
+}
+.ui-datepicker.awebooking-datepicker
+
+/* Fullcalendar */
+.fc-toolbar h2 {
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.awebooking-fc-nav {
+  @include size(24px);
+
+  font-size: 0;
+  line-height: 24px;
+  text-align: center;
+
+  overflow: hidden;
+  display: inline-block;
+  border: solid 1px #eee;
+
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  &:hover,
+  &:focus {
+    border-color: $awebooking-primary;
+  }
+}
+.awebooking-fc-next {
+  float: right;
+}
+.awebooking-fc-prev {
+  float: left;
+}
+.awebooking-calendar .ui-datepicker td, .ui-datepicker.awebooking-datepicker td {
+  padding: 0 !important;
+}
+.ui-datepicker td {
+  border: 0;
+  padding: 1px;
+}
+
+// SC: AWEBOOKING
+.fleurdesel-awebooking {
+  .awebooking-wrapper {
+    background-color: transparent !important;
+  }
+
+  .apb-field {
+    position: relative;
+    margin-bottom: 20px !important;
+    display: block !important;
+
+    @include media(">=md") {
+      display: inline-block !important;
+      float: left;
+      width: 50%;
+      margin: 0 0 20px !important;
+      padding: 0 10px !important;
+    }
+
+    @include media(">=xl") {
+      float: none;
+      width: auto;
+      margin-right: 8.5px !important;
+      margin-left: 8.5px !important;
+      padding: 0 !important;
+    }
+
+    label {
+      font-family: $font-1;
+      font-size: 1rem !important;
+      font-style: italic;
+      font-weight: 400;
+      text-transform: none;
+      color: $color-1;
+
+      @include media(">=xl") {
+        padding: 0 3px;
+        margin: 0;
+        z-index: 2;
+        transform: translateY(-50%);
+
+        @include absolute(50%,null,null,30px);
+      }
+
+      &:after {
+        @include media(">=xl") {
+          content: "";
+          display: block;
+          width: 100%;
+          height: 1px;
+          background-color: $color-1;
+          z-index: 3;
+
+          @include absolute(null,null,0);
+        }
+      }
+    }
+
+    &.apb-field-none {
+      display: none !important;
+    }
+  }
+
+  .apb-field-group {
+    display: block !important;
+    border: 1px solid #e4e4e4;
+    background-color: #fff;
+
+    @include media(">=xl") {
+      display: inline-block !important;
+    }
+
+    @include media(">=xl") {
+      padding-left: 140px;
+    }
+  }
+
+  .apb-select, .apb-input {
+    border: none !important;
+    background-color: transparent !important;
+    padding: 5px 30px 5px 20px !important;
+  }
+
+  .apb-calendar {
+    width: 150px !important;
+
+    @include media(">=1300px","<1600px") {
+      width: 100% !important;
+      padding: 0 !important;
+    }
+  }
+
+  .apb-input.apb-calendar::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: #fff;
+  }
+
+  .apb-input.apb-calendar::-moz-placeholder { /* Firefox 19+ */
+    color: #fff;
+  }
+
+  .apb-input.apb-calendar:-ms-input-placeholder { /* IE 10+ */
+    color: #fff;
+  }
+
+  .apb-input.apb-calendar:-moz-placeholder { /* Firefox 18- */
+    color: #fff;
+  }
+
+  .apb-field--night,
+  .apb-field--rooms,
+  .apb-field--adult,
+  .apb-field--child {
+    .apb-field-group {
+      @include media(">=xl") {
+        padding-left: 80px;
+      }
+    }
+  }
+
+  .list-room {
+    display: inline-block;
+  }
+
+  .apb-btn {
+    display: block !important;
+    width: auto;
+    margin: auto;
+    border: 2px solid $color-1 !important;
+    color: #fff;
+
+    &:hover {
+      background-color: darken($color-1, 15%) !important;
+      border-color: darken($color-1, 15%) !important;
+    }
+  }
+}
+
+// STANDARD 1
+.fleurdesel-awebooking--standard-1 {
+  .apb-field label {
+    color: #fff !important;
+
+    @include media(">=xl") {
+      color: $color-1 !important;
+    }
+  }
+
+  .apb-select, .apb-input {
+    font-size: 1.5625rem !important;
+    height: 70px !important;
+  }
+
+  .apb-calendar {
+    width: 100% !important;
+
+    @include media(">=xl") {
+      width: 170px !important;
+    }
+  }
+
+  .apb-btn {
+    min-width: 255px;
+
+    &:hover {
+      color: #fff !important;
+    }
+  }
+}
+
+// STANDARD 2
+.fleurdesel-awebooking--standard-2 {
+  display: none;
+
+  @include media(">=xl") {
+    display: block;
+  }
+
+  .apb-content {
+    padding: 0;
+  }
+
+  .apb-field {
+    float: left;
+    margin: 0 !important;
+  }
+
+  .apb-field-group {
+    border: none;
+    border-left: 1px solid #e4e4e4;
+
+    @include media(">=1460px") {
+      padding-left: 160px;
+    }
+  }
+
+  @include media(">=1460px") {
+    .apb-field-group i {
+      right: 30px;
+    }
+
+    .apb-field-group .apbf-select {
+      right: 30px;
+    }
+
+    .apb-field--adult .apb-field-group {
+      padding-left: 100px;
+    }
+
+  }
+
+  .apb-field--child .apb-field-group {
+    padding-left: 100px;
+
+    @include media(">=1460px") {
+      padding-left: 125px;
+    }
+  }
+
+  .apb-select, .apb-input {
+    height: 70px !important;
+    font-size: 1.5625rem !important;
+    padding-bottom: 5px !important;
+
+    @include media(">=1460px") {
+      padding: 0px 60px 5px 0px !important;
+    }
+  }
+
+  .apb-calendar {
+    width: 100% !important;
+
+    @include media(">=xl") {
+      width: 170px !important;
+    }
+
+    @include media(">=1460px") {
+      width: 180px !important;
+    }
+  }
+
+  .apb-btn {
+    height: 70px !important;
+    top: 0 !important;
+  }
+}
+
+// STANDARD 3
+.fleurdesel-awebooking.fleurdesel-awebooking--standard-3 {
+  .apb-content {
+    background-color: #fff;
+    padding: 30px 20px;
+    box-shadow: 0px 10px 30px 0px rgba(1, 1, 1, 0.1);
+  }
+
+  .apb-field {
+    display: block !important;
+    margin: 0 !important;
+    padding-bottom: 20px !important;
+    text-align: left;
+    vertical-align: middle;
+
+    @include media(">=md") {
+      display: inline-block !important;
+    }
+
+    @include media(">=xl") {
+      padding-bottom: 0 !important;
+    }
+
+    &:not(:first-child):not(:last-child) {
+      @include media(">=md") {
+        border-left: 1px solid #e4e4e4;
+      }
+    }
+
+    &:nth-child(3n+1) {
+      @include media("<xl") {
+        border-left: none !important;
+      }
+    }
+
+    label {
+      position: relative;
+      top: auto;
+      left: auto;
+      display: inline-block;
+      padding: 5px 20px 5px 20px !important;
+      line-height: 1;
+      transform: translateY(0);
+
+      @include media(">=md") {
+        padding: 5px 50px 5px 50px !important;
+      }
+
+      &:after {
+        display: none;
+      }
+    }
+  }
+
+  .apb-field-group {
+    display: block !important;
+    border: none;
+    margin-top: -10px;
+
+    @include media(">=md") {
+      padding-left: 30px !important;
+      padding-right: 30px !important;
+    }
+
+    i {
+      right: 20px;
+
+      @include media(">=md") {
+        right: 50px;
+      }
+    }
+  }
+
+  .apb-field--night,
+  .apb-field--rooms,
+  .apb-field--adult,
+  .apb-field--child {
+    .apb-field-group {
+      @include media(">=xl") {
+        padding-left: 0;
+      }
+    }
+  }
+
+  .apb-select, .apb-input {
+    height: 45px !important;
+    font-size: 1.5625rem !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+
+  .apb-calendar {
+    width: 100% !important;
+
+    @include media(">=xl") {
+      width: 180px !important;
+    }
+  }
+
+  .apb-field--action {
+    display: block !important;
+    width: 100%;
+    margin-top: 20px !important;
+    padding-bottom: 0 !important;
+
+    @include media(">=xl") {
+      padding-left: 50px !important;
+      display: inline-block !important;
+      width: auto !important;
+      margin-top: 0 !important;
+    }
+  }
+
+  .apb-btn {
+    height: 70px !important;
+  }
+
+  .apb-input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: #111;
+  }
+
+  .apb-input::-moz-placeholder { /* Firefox 19+ */
+    color: #111;
+  }
+
+  .apb-input:-ms-input-placeholder { /* IE 10+ */
+    color: #111;
+  }
+
+  .apb-input:-moz-placeholder { /* Firefox 18- */
+    color: #111;
+  }
+}
+
+// STANDARD 4
+.fleurdesel-awebooking.fleurdesel-awebooking--standard-4 {
+  .apb-btn {
+    background-color: $color-1 !important;
+    border-color: $color-1 !important;
+    color: #fff !important;
+
+    &:hover {
+      background-color: darken($color-1, 15%) !important;
+      border-color: darken($color-1, 15%) !important;
+      color: #fff !important;
+    }
+  }
+}
+
+// MODERN
+.fleurdesel-awebooking.fleurdesel-awebooking--modern {
+  .apb-content {
+    padding: 0;
+  }
+
+  .apb-field {
+    margin: 0 0 30px !important;
+    padding: 50px !important;
+    padding-bottom: 10px !important;
+    width: 100% !important;
+    min-height: 251px;
+    display: block !important;
+    text-align: center !important;
+    border: 1px solid #e4e4e4;
+    background-color: #fff;
+    transition: all .4s ease;
+
+    &:hover {
+      box-shadow: 0px 10px 30px 0px rgba(1, 1, 1, 0.1);
+    }
+
+    label {
+      position: static;
+      text-align: center;
+      font-size: 0.75rem !important;
+      font-weight: 700;
+      font-style: normal;
+      font-family: $font-2;
+      letter-spacing: 2px;
+      color: #000;
+      text-transform: uppercase;
+      transform: translateY(0);
+
+      &:after {
+        display: none;
+      }
+    }
+  }
+
+  .apb-field-group {
+    width: 100% !important;
+    display: block !important;
+    padding-left: 0 !important;
+    border: none !important;
+
+    i {
+      font-size: 15px !important;
+      color: $color-1 !important;
+    }
+
+    span {
+      display: block;
+      font-family: $font-1;
+    }
+
+    .select2 {
+      display: inline-block;
+
+      * {
+        outline: none !important;
+      }
+    }
+  }
+
+  .apb-input,
+  .apb-select,
+  .apb-calendar,
+  .select2-selection__rendered {
+    display: inline-block !important;
+    width: 100px;
+    height: auto !important;
+    line-height: 1.5 !important;
+    font-size: 3.75rem !important;
+    color: $color-1 !important;
+    text-align: center;
+    outline: none;
+  }
+
+  .apb-btn {
+    margin-top: 20px !important;
+  }
+
+  .select2-hidden-accessible {
+    display: none !important;
+  }
+}
+
+.select2-container {
+  z-index: 17;
+}
+
+.select2-dropdown {
+  .select2-search {
+    display: none !important;
+  }
+
+  .select2-results__options {
+    background-color: #fff;
+    width: 100px;
+    z-index: 17;
+    border: 1px solid #e4e4e4;
+  }
+
+  ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+
+  .select2-results__option {
+    padding: 5px 20px;
+
+    &:not(:last-child) {
+      border-bottom: 1px solid #e4e4e4;
+    }
+
+    &[aria-selected="true"] {
+      background-color: $color-1;
+      color: #fff;
+    }
+  }
+
+  .select2-results__option--highlighted {
+    background-color: #338FFF;
+    color: #fff;
+  }
+}
+
+.awebooking-accordion__header {
+  font-size: 18px;
+}
+
+.awebooking-cart-item__title {
+  font-size: 20px;
+}
+
+.awebooking-cart-item__reservation-title {
+  font-size: 15px;
+}
+
+.awebooking-cart-item__price strong {
+  display: none;
+}
+
+.awebooking-button {
+  cursor: pointer;
+}
+
+.awebooking-cart__buttons {
+  text-align: center;
+  margin-top: 30px;
+  .awebooking-button {
+    padding: 15px 15px;
+    color: #fff;
+    background-color: #b98036;
+    border-color: #b98036;
+    line-height: 1.25;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+
+    &:hover {
+      background-color: #92652a;
+      border-color: #8a5f28;
+    }
+  }
+}
+
+.awebooking-select {
+  cursor: pointer;
+}
+
+.fleurdesel-awebooking--standard-2.has-children.has-infants {
+  .apb-select, .apb-input {
+    padding-right: 40px !important;
+  }
+
+  .apb-field--child,
+  .apb-field--infants,
+  .apb-field--adult {
+    .apb-field-group {
+      padding-left: 100px;
+    }
+  }
+}
+.fleurdesel-awebooking.fleurdesel-awebooking--standard-3.has-children.has-infants {
+  .apb-field--action {
+    margin-top: 15px !important;
+  }
+}
+
+.fleurdesel-awebooking--standard-1.has-children.has-infants {
+  .apb-field--child,
+  .apb-field--adult,
+  .apb-field--infants {
+    .apb-field-group {
+      padding-left: 80px;
+    }
+  }
+
+  .apb-select {
+    padding-right: 20px !important;
+  }
+}
+
+.fleurdesel-single-form-vertical.has-children.has-infants {
+  .apb-sidebar_group .apb-field {
+    width: 33.33%;
+  }
+}
+
+.room-detail {
+  .fleurdesel-awebooking--standard-1.has-children.has-infants {
+    .apb-field-group {
+      padding-left: 100px !important;
+    }
+  }
+}
+
+// @media (min-width: 992px) {
+//   .awebooking--modern .fleurdesel-awebooking--standard-1.has-children.has-infants .apb-content > .apb-field {
+//     width: 25% !important;
+//   }
+// }
+
+// @media (min-width: 1200px) {
+//   .awebooking--modern .fleurdesel-awebooking--standard-1.has-children.has-infants .apb-content > .apb-field .apb-input, .awebooking--modern .apb-content > .apb-field .apb-select {
+//     padding-left: 30px !important;
+//     padding-right: 5px !important;
+//   }
+// }
+
+.apb-check-avb-form {
+  input {
+    cursor: pointer;
+  }
+
+  ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: #333 !important;
+    font-size: 16px
+  }
+  ::-moz-placeholder { /* Firefox 19+ */
+    color: #333 !important;
+    font-size: 16px
+  }
+  :-ms-input-placeholder { /* IE 10+ */
+    color: #333 !important;
+    font-size: 16px
+  }
+  :-moz-placeholder { /* Firefox 18- */
+    color: #333 !important;
+    font-size: 16px
+  }
+}
+
+.awebooking-input.awebooking-datepicker, .awebooking-select {
+  color: #333;
+  padding: 7px 15px;
+  line-height: 1.42857143;
+}
+
+.awebooking-input.awebooking-calendar,
+.awebooking-select {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+}

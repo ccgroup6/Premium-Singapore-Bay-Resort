@@ -1,0 +1,3980 @@
+# Copyright (C) 2021 Donatics
+# This file is distributed under the same license as the Donatics package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dethemekit Addons for Elementor\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-08-26 04:15+0700\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"POT-Creation-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Language: id\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/includes/admin-notices.php:134
+msgid ""
+"DethemeKit Addons for Elementor is not working because you need to Install "
+"Elementor plugin."
+msgstr ""
+"DethemeKit Addons untuk Elementor tidak berfungsi karena Anda perlu "
+"Menginstal plugin Elementor."
+
+#: admin/includes/admin-notices.php:136
+#: includes/admin/include/template-library.php:244
+#: includes/admin/include/template-library.php:296
+msgid "Install Now"
+msgstr "Install Sekarang!"
+
+#: admin/includes/admin-notices.php:144
+msgid ""
+"DethemeKit Addons for Elementor is not working because you need to activate "
+"Elementor plugin."
+msgstr ""
+"DethemeKit Addons untuk Elementor tidak berfungsi karena Anda perlu "
+"mengaktifkan plugin Elementor."
+
+#: admin/includes/admin-notices.php:146
+msgid "Activate Now"
+msgstr "Aktivasi Sekarang"
+
+#: admin/includes/admin-notices.php:164
+msgid "Did you like"
+msgstr "Apakah Anda suka"
+
+#: admin/includes/admin-notices.php:164
+msgid "Plugin?"
+msgstr ""
+
+#: admin/includes/admin-notices.php:165
+msgid ""
+"Could you please do us a BIG favor ? if you could take 2 min of your time, "
+"we'd really appreciate if you give DethemeKit Addons for Elementor 5-star "
+"rating on WordPress. By spreading the love, we can create even greater free "
+"stuff in the future!"
+msgstr ""
+"Bisakah Anda membantu kami? Jika Anda bisa mengambil 2 menit dari waktu "
+"Anda, kami akan sangat menghargai jika Anda memberikan DethemeKit Addons "
+"untuk peringkat bintang Elementor 5 di WordPress. Dengan menyebarkan cinta, "
+"kita dapat menciptakan hal-hal gratis yang lebih besar di masa depan!"
+
+#: admin/includes/admin-notices.php:166
+msgid "Leave a Review"
+msgstr ""
+
+#: admin/includes/admin-notices.php:167
+msgid "Maybe Later"
+msgstr ""
+
+#: admin/includes/admin-notices.php:168
+msgid "I Already did"
+msgstr ""
+
+#: admin/includes/admin-notices.php:235
+msgid "DethemeKit Lottie Animations"
+msgstr ""
+
+#: admin/includes/admin-notices.php:235
+msgid "widget is now available."
+msgstr ""
+
+#: admin/includes/admin-notices.php:235
+msgid "Check it out now"
+msgstr ""
+
+#: admin/includes/dep/admin-helper.php:62
+msgid "View DethemeKit Addons for Elementor Documentation"
+msgstr ""
+
+#: admin/includes/dep/admin-helper.php:62
+msgid "Docs & FAQs"
+msgstr ""
+
+#: admin/includes/dep/admin-helper.php:63
+msgid "View DethemeKit Addons Video Tutorials"
+msgstr ""
+
+#: admin/includes/dep/admin-helper.php:63
+msgid "Video Tutorials"
+msgstr ""
+
+#: admin/includes/dep/admin-helper.php:92
+#, php-format
+msgid "Duplicate - %s"
+msgstr ""
+
+#: admin/includes/dep/admin-helper.php:93
+msgid "Clone This"
+msgstr ""
+
+#: admin/includes/dep/admin-helper.php:192
+#, php-format
+msgid "Duplicated: %s - [#%d]"
+msgstr ""
+
+#: admin/includes/dep/maintenance.php:28 admin/includes/version-control.php:88
+#: admin/settings/modules-setting.php:41
+msgid "Rollback to Previous Version"
+msgstr ""
+
+#: admin/includes/dep/rollback.php:82
+msgid "Rolling Back to Version "
+msgstr ""
+
+#: admin/includes/papro-actions.php:16
+msgid "Get PRO Widgets & Addons"
+msgstr ""
+
+#: admin/includes/papro-actions.php:49
+msgid "Settings"
+msgstr ""
+
+#: admin/includes/plugin-info.php:17
+msgid "About"
+msgstr ""
+
+#: admin/includes/plugin-info.php:40 admin/includes/reports.php:34
+#: admin/includes/version-control.php:74 admin/settings/maps.php:73
+#: admin/settings/modules-setting.php:167
+#, php-format
+msgid ""
+"Thank you for using %s. This plugin has been developed by %s and we hope you "
+"enjoy using it."
+msgstr ""
+
+#: admin/includes/plugin-info.php:57
+msgid "What is DethemeKit Addons?"
+msgstr ""
+
+#: admin/includes/plugin-info.php:58
+msgid ""
+"DethemeKit Addons for Elementor extends Elementor Page Builder capabilities "
+"with many fully customizable widgets and addons that help you to build "
+"impressive websites with no coding required."
+msgstr ""
+
+#: admin/includes/plugin-info.php:60
+msgid "Get more widgets and addons with "
+msgstr ""
+
+#: admin/includes/plugin-info.php:60
+msgid "DethemeKit Addons Pro"
+msgstr ""
+
+#: admin/includes/plugin-info.php:60 admin/includes/plugin-info.php:72
+msgid "Click Here"
+msgstr ""
+
+#: admin/includes/plugin-info.php:60
+msgid " to know more."
+msgstr ""
+
+#: admin/includes/plugin-info.php:71
+msgid "Docs and Support"
+msgstr ""
+
+#: admin/includes/plugin-info.php:72
+msgid ""
+"It’s highly recommended to check out documentation and FAQ before using this "
+"plugin. "
+msgstr ""
+
+#: admin/includes/plugin-info.php:72
+msgid " for more details. You can also join our "
+msgstr ""
+
+#: admin/includes/plugin-info.php:72
+msgid "Facebook Group"
+msgstr ""
+
+#: admin/includes/plugin-info.php:72
+msgid " and Our "
+msgstr ""
+
+#: admin/includes/plugin-info.php:72
+msgid "Community Forums"
+msgstr ""
+
+#: admin/includes/plugin-info.php:79 admin/includes/reports.php:56
+#: admin/settings/maps.php:137 admin/settings/modules-setting.php:715
+msgid "Did you like DethemeKit Addons for Elementor Plugin? Please "
+msgstr ""
+
+#: admin/includes/plugin-info.php:79 admin/includes/reports.php:56
+#: admin/settings/maps.php:137 admin/settings/modules-setting.php:715
+msgid "Click Here to Rate it ★★★★★"
+msgstr ""
+
+#: admin/includes/reports.php:20
+msgid "System Info"
+msgstr ""
+
+#: admin/includes/reports.php:45
+msgid "System setup information useful for debugging purposes."
+msgstr ""
+
+#: admin/includes/version-control.php:35
+msgid "Version Control"
+msgstr ""
+
+#: admin/includes/version-control.php:89
+#, php-format
+msgid ""
+"Experiencing an issue with DethemeKit Addons for Elementor version %s? "
+"Rollback to a previous version before the issue appeared."
+msgstr ""
+
+#: admin/includes/version-control.php:93
+msgid "Rollback Version"
+msgstr ""
+
+#: admin/includes/version-control.php:95
+msgid "Rollback to Version "
+msgstr ""
+
+#: admin/includes/version-control.php:97
+msgid "Warning: Please backup your database before making the rollback."
+msgstr ""
+
+#: admin/includes/version-control.php:103
+msgid "Become a Beta Tester"
+msgstr ""
+
+#: admin/includes/version-control.php:104
+msgid ""
+"Turn-on Beta Tester, to get notified when a new beta version of DethemeKit "
+"Addons for Elementor. The Beta version will not install automatically. You "
+"always have the option to ignore it."
+msgstr ""
+
+#: admin/includes/version-control.php:108
+msgid "Beta Tester"
+msgstr ""
+
+#: admin/includes/version-control.php:110
+msgid "Check this box to get updates for beta versions"
+msgstr ""
+
+#: admin/includes/version-control.php:111
+msgid ""
+"Please Note: We do not recommend updating to a beta version on production "
+"sites."
+msgstr ""
+
+#: admin/includes/version-control.php:115 admin/settings/maps.php:134
+#: admin/settings/modules-setting.php:710
+msgid "Save Settings"
+msgstr ""
+
+#: admin/settings/maps.php:32
+msgid "Google Maps"
+msgstr ""
+
+#: admin/settings/maps.php:87
+msgid ""
+" Maps Element requires Google API key to be entered below. If you don’t have "
+"one, click "
+msgstr ""
+
+#: admin/settings/maps.php:87
+msgid "here"
+msgstr ""
+
+#: admin/settings/maps.php:87
+msgid " to get your  key."
+msgstr ""
+
+#: admin/settings/maps.php:92
+msgid "Google Maps API Key:"
+msgstr ""
+
+#: admin/settings/maps.php:100
+msgid "Google Maps Localization Language:"
+msgstr ""
+
+#: admin/settings/maps.php:104 includes/de_loop/ajax-pagination.php:479
+#: widgets/de-product-display.php:90 widgets/dethemekit-grid.php:1085
+msgid "Default"
+msgstr ""
+
+#: admin/settings/maps.php:119
+msgid "Load Maps API JS File:"
+msgstr ""
+
+#: admin/settings/maps.php:122
+msgid ""
+"This will load API JS file if it's not loaded by another theme or plugin"
+msgstr ""
+
+#: admin/settings/maps.php:127
+msgid "Load Markers Clustering JS File:"
+msgstr ""
+
+#: admin/settings/maps.php:130
+msgid "This will load the JS file for markers clusters"
+msgstr ""
+
+#: admin/settings/modules-setting.php:40
+msgid "Are you sure you want to reinstall version "
+msgstr ""
+
+#: admin/settings/modules-setting.php:42 includes/ext/element-extension.php:156
+#: skins/skin-custom.php:93 skins/skin-template-kit.php:93
+#: widgets/de-product-display.php:611 widgets/de-product-display.php:771
+#: widgets/de-product-tab-slide.php:484
+msgid "Yes"
+msgstr ""
+
+#: admin/settings/modules-setting.php:43
+msgid "Cancel"
+msgstr ""
+
+#: admin/settings/modules-setting.php:185
+msgid "Banner"
+msgstr ""
+
+#: admin/settings/modules-setting.php:192
+msgid "Blog"
+msgstr ""
+
+#: admin/settings/modules-setting.php:202
+msgid "Button"
+msgstr ""
+
+#: admin/settings/modules-setting.php:209
+msgid "Carousel"
+msgstr ""
+
+#: admin/settings/modules-setting.php:219
+msgid "Contact Form7"
+msgstr ""
+
+#: admin/settings/modules-setting.php:226
+msgid "Countdown"
+msgstr ""
+
+#: admin/settings/modules-setting.php:236
+msgid "Counter"
+msgstr ""
+
+#: admin/settings/modules-setting.php:243
+msgid "Dual Heading"
+msgstr ""
+
+#: admin/settings/modules-setting.php:253
+msgid "Fancy Text"
+msgstr ""
+
+#: admin/settings/modules-setting.php:261
+msgid "Media Grid"
+msgstr ""
+
+#: admin/settings/modules-setting.php:271
+msgid "Image Button"
+msgstr ""
+
+#: admin/settings/modules-setting.php:279
+msgid "Image Scroll"
+msgstr ""
+
+#: admin/settings/modules-setting.php:289
+msgid "Image Separator"
+msgstr ""
+
+#: admin/settings/modules-setting.php:296
+msgid "Lottie Animations"
+msgstr ""
+
+#: admin/settings/modules-setting.php:306
+msgid "Maps"
+msgstr ""
+
+#: admin/settings/modules-setting.php:313
+msgid "Modal Box"
+msgstr ""
+
+#: admin/settings/modules-setting.php:323
+msgid "Team Members"
+msgstr ""
+
+#: admin/settings/modules-setting.php:331
+#: includes/de_loop/ajax-pagination.php:483
+msgid "Progress Bar"
+msgstr ""
+
+#: admin/settings/modules-setting.php:341
+msgid "Pricing Table"
+msgstr ""
+
+#: admin/settings/modules-setting.php:349
+msgid "Testimonials"
+msgstr ""
+
+#: admin/settings/modules-setting.php:359 widgets/de-product-display.php:223
+#: widgets/de-product-tab-slide.php:182 widgets/de-product-tab-slide.php:960
+#: widgets/dethemekit-grid.php:690 widgets/dethemekit-grid.php:1349
+msgid "Title"
+msgstr ""
+
+#: admin/settings/modules-setting.php:367
+msgid "Video Box"
+msgstr ""
+
+#: admin/settings/modules-setting.php:377
+msgid "Vertical Scroll"
+msgstr ""
+
+#: admin/settings/modules-setting.php:388
+msgid "Duplicator"
+msgstr ""
+
+#: admin/settings/modules-setting.php:396
+#: includes/admin/include/templates_list.php:33
+#: widgets/dethemekit-carousel.php:171 widgets/dethemekit-carousel.php:208
+msgid "Templates"
+msgstr ""
+
+#: admin/settings/modules-setting.php:411
+msgid "DethemeKit Alert Box"
+msgstr ""
+
+#: admin/settings/modules-setting.php:419
+msgid "DethemeKit Behance Feed"
+msgstr ""
+
+#: admin/settings/modules-setting.php:431
+msgid "DethemeKit Charts"
+msgstr ""
+
+#: admin/settings/modules-setting.php:439
+msgid "DethemeKit Content Switcher"
+msgstr ""
+
+#: admin/settings/modules-setting.php:450
+msgid "DethemeKit Background Transition"
+msgstr ""
+
+#: admin/settings/modules-setting.php:458
+msgid "DethemeKit Divider"
+msgstr ""
+
+#: admin/settings/modules-setting.php:469
+msgid "DethemeKit Facebook Feed"
+msgstr ""
+
+#: admin/settings/modules-setting.php:477
+msgid "DethemeKit Facebook Reviews"
+msgstr ""
+
+#: admin/settings/modules-setting.php:487
+msgid "DethemeKit Flip Box"
+msgstr ""
+
+#: admin/settings/modules-setting.php:495
+msgid "DethemeKit Google Reviews"
+msgstr ""
+
+#: admin/settings/modules-setting.php:505
+msgid "DethemeKit Horizontal Scroll"
+msgstr ""
+
+#: admin/settings/modules-setting.php:513
+msgid "DethemeKit Icon Box"
+msgstr ""
+
+#: admin/settings/modules-setting.php:523
+msgid "DethemeKit iHover"
+msgstr ""
+
+#: admin/settings/modules-setting.php:531
+msgid "DethemeKit Image Accordion"
+msgstr ""
+
+#: admin/settings/modules-setting.php:541
+msgid "DethemeKit Image Comparison"
+msgstr ""
+
+#: admin/settings/modules-setting.php:549
+msgid "DethemeKit Image Hotspots"
+msgstr ""
+
+#: admin/settings/modules-setting.php:559
+msgid "DethemeKit Image Layers"
+msgstr ""
+
+#: admin/settings/modules-setting.php:567
+msgid "DethemeKit Instagram Feed"
+msgstr ""
+
+#: admin/settings/modules-setting.php:577
+msgid "DethemeKit Magic Section"
+msgstr ""
+
+#: admin/settings/modules-setting.php:585
+msgid "DethemeKit Messenger Chat"
+msgstr ""
+
+#: admin/settings/modules-setting.php:595
+msgid "DethemeKit Multi Scroll"
+msgstr ""
+
+#: admin/settings/modules-setting.php:602
+msgid "DethemeKit Preview Window"
+msgstr ""
+
+#: admin/settings/modules-setting.php:612
+msgid "DethemeKit Table"
+msgstr ""
+
+#: admin/settings/modules-setting.php:619
+msgid "DethemeKit Tabs"
+msgstr ""
+
+#: admin/settings/modules-setting.php:629
+msgid "DethemeKit Twitter Feed"
+msgstr ""
+
+#: admin/settings/modules-setting.php:636
+msgid "DethemeKit Unfold"
+msgstr ""
+
+#: admin/settings/modules-setting.php:646
+msgid "DethemeKit Whatsapp Chat"
+msgstr ""
+
+#: admin/settings/modules-setting.php:654
+msgid "DethemeKit Yelp Reviews"
+msgstr ""
+
+#: admin/settings/modules-setting.php:664
+msgid "DethemeKit Section Parallax"
+msgstr ""
+
+#: admin/settings/modules-setting.php:671
+msgid "DethemeKit Section Particles"
+msgstr ""
+
+#: admin/settings/modules-setting.php:681
+msgid "DethemeKit Section Animated Gradient"
+msgstr ""
+
+#: admin/settings/modules-setting.php:688
+msgid "DethemeKit Section Ken Burns"
+msgstr ""
+
+#: admin/settings/modules-setting.php:698
+msgid "DethemeKit Section Lottie Animations"
+msgstr ""
+
+#: detheme-kit.php:369
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: detheme-kit.php:370 detheme-kit.php:393 detheme-kit.php:487
+msgid "Elementor Hello World"
+msgstr ""
+
+#: detheme-kit.php:371 detheme-kit.php:394
+#: includes/admin/include/templates_list.php:41
+#: widgets/dethemekit-grid.php:1048
+msgid "Elementor"
+msgstr ""
+
+#: detheme-kit.php:392 detheme-kit.php:486
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: detheme-kit.php:488
+msgid "PHP"
+msgstr ""
+
+#: includes/admin/include/template-library.php:72
+#: includes/admin/include/template-library.php:73
+msgid "Template Library"
+msgstr ""
+
+#: includes/admin/include/template-library.php:185
+msgid "Edit Page"
+msgstr ""
+
+#: includes/admin/include/template-library.php:185
+msgid "Edit Template"
+msgstr ""
+
+#: includes/admin/include/template-library.php:238
+#: includes/admin/include/template-library.php:290
+msgid "Activate"
+msgstr ""
+
+#: includes/admin/include/template-library.php:249
+#: includes/admin/include/template-library.php:301
+msgid "Activated"
+msgstr ""
+
+#: includes/admin/include/template-library.php:257
+#: includes/admin/include/template-library.php:309
+msgid "Buy Now"
+msgstr ""
+
+#: includes/admin/include/template-library.php:332
+msgid "Plugin Not Found"
+msgstr ""
+
+#: includes/admin/include/template-library.php:352
+msgid "Plugin Successfully Activated"
+msgstr ""
+
+#: includes/admin/include/template-library.php:367
+msgid "Sorry, you are not allowed to install themes on this site."
+msgstr ""
+
+#: includes/admin/include/template-library.php:378
+msgid "Theme Activated"
+msgstr ""
+
+#: includes/admin/include/templates_list.php:13
+msgid "Import template to your Library"
+msgstr ""
+
+#: includes/admin/include/templates_list.php:16
+msgid "Create a new page from this template"
+msgstr ""
+
+#: includes/admin/include/templates_list.php:17
+msgctxt "placeholder"
+msgid "Enter a Page Name"
+msgstr ""
+
+#: includes/admin/include/templates_list.php:40
+msgid "All Builders"
+msgstr ""
+
+#: includes/admin/include/templates_list.php:46
+msgid "Search.."
+msgstr ""
+
+#: includes/admin/include/templates_list.php:51
+msgid "ALL"
+msgstr ""
+
+#: includes/admin/include/templates_list.php:52
+msgid "Free"
+msgstr ""
+
+#: includes/admin/include/templates_list.php:53
+msgid "Pro"
+msgstr ""
+
+#: includes/admin/include/templates_list.php:71
+#: includes/templates/scripts/template-modal-header-back.php:8
+msgid "Back to Library"
+msgstr ""
+
+#: includes/admin/include/templates_list.php:76
+#: includes/admin/include/templates_list.php:79
+msgid "Top"
+msgstr ""
+
+#: includes/class-column-clickable.php:39
+msgid "Column Link"
+msgstr ""
+
+#: includes/class-column-clickable.php:44 widgets/de-copyright.php:123
+#: widgets/de-post-author.php:153 widgets/de-post-date.php:153
+#: widgets/de-post-excerpt.php:140 widgets/de-post-featured-image.php:140
+#: widgets/de-post-title.php:161
+msgid "https://your-link.com"
+msgstr ""
+
+#: includes/class-dethemekit-template-tags.php:645
+msgid "No Comments"
+msgstr ""
+
+#: includes/class-dethemekit-template-tags.php:646
+msgid "1 Comment"
+msgstr ""
+
+#: includes/class-dethemekit-template-tags.php:647
+msgid "% Comments"
+msgstr ""
+
+#: includes/class-dethemekit-template-tags.php:966
+#: includes/de_loop/ajax-pagination.php:50 skins/skin-custom.php:453
+#: skins/skin-template-kit.php:488
+msgid "Pagination"
+msgstr ""
+
+#: includes/class-helper-functions.php:198
+msgid "DethemeKit Addons"
+msgstr ""
+
+#: includes/class-helper-functions.php:218
+msgid "DethemeKit"
+msgstr ""
+
+#: includes/class-helper-functions.php:253
+msgid "Arabic"
+msgstr ""
+
+#: includes/class-helper-functions.php:254
+msgid "Basque"
+msgstr ""
+
+#: includes/class-helper-functions.php:255
+msgid "Bulgarian"
+msgstr ""
+
+#: includes/class-helper-functions.php:256
+msgid "Bengali"
+msgstr ""
+
+#: includes/class-helper-functions.php:257
+msgid "Catalan"
+msgstr ""
+
+#: includes/class-helper-functions.php:258
+msgid "Czech"
+msgstr ""
+
+#: includes/class-helper-functions.php:259
+msgid "Danish"
+msgstr ""
+
+#: includes/class-helper-functions.php:260
+msgid "German"
+msgstr ""
+
+#: includes/class-helper-functions.php:261
+msgid "Greek"
+msgstr ""
+
+#: includes/class-helper-functions.php:262
+msgid "English"
+msgstr ""
+
+#: includes/class-helper-functions.php:263
+msgid "English (australian)"
+msgstr ""
+
+#: includes/class-helper-functions.php:264
+msgid "English (great britain)"
+msgstr ""
+
+#: includes/class-helper-functions.php:265
+msgid "Spanish"
+msgstr ""
+
+#: includes/class-helper-functions.php:266
+msgid "Farsi"
+msgstr ""
+
+#: includes/class-helper-functions.php:267
+msgid "Finnish"
+msgstr ""
+
+#: includes/class-helper-functions.php:268
+msgid "Filipino"
+msgstr ""
+
+#: includes/class-helper-functions.php:269
+msgid "French"
+msgstr ""
+
+#: includes/class-helper-functions.php:270
+msgid "Galician"
+msgstr ""
+
+#: includes/class-helper-functions.php:271
+msgid "Gujarati"
+msgstr ""
+
+#: includes/class-helper-functions.php:272
+msgid "Hindi"
+msgstr ""
+
+#: includes/class-helper-functions.php:273
+msgid "Croatian"
+msgstr ""
+
+#: includes/class-helper-functions.php:274
+msgid "Hungarian"
+msgstr ""
+
+#: includes/class-helper-functions.php:275
+msgid "Indonesian"
+msgstr ""
+
+#: includes/class-helper-functions.php:276
+msgid "Italian"
+msgstr ""
+
+#: includes/class-helper-functions.php:277
+msgid "Hebrew"
+msgstr ""
+
+#: includes/class-helper-functions.php:278
+msgid "Japanese"
+msgstr ""
+
+#: includes/class-helper-functions.php:279
+msgid "Kannada"
+msgstr ""
+
+#: includes/class-helper-functions.php:280
+msgid "Korean"
+msgstr ""
+
+#: includes/class-helper-functions.php:281
+msgid "Lithuanian"
+msgstr ""
+
+#: includes/class-helper-functions.php:282
+msgid "Latvian"
+msgstr ""
+
+#: includes/class-helper-functions.php:283
+msgid "Malayalam"
+msgstr ""
+
+#: includes/class-helper-functions.php:284
+msgid "Marathi"
+msgstr ""
+
+#: includes/class-helper-functions.php:285
+msgid "Dutch"
+msgstr ""
+
+#: includes/class-helper-functions.php:286
+msgid "Norwegian"
+msgstr ""
+
+#: includes/class-helper-functions.php:287
+msgid "Polish"
+msgstr ""
+
+#: includes/class-helper-functions.php:288
+msgid "Portuguese"
+msgstr ""
+
+#: includes/class-helper-functions.php:289
+msgid "Portuguese (brazil)"
+msgstr ""
+
+#: includes/class-helper-functions.php:290
+msgid "Portuguese (portugal)"
+msgstr ""
+
+#: includes/class-helper-functions.php:291
+msgid "Romanian"
+msgstr ""
+
+#: includes/class-helper-functions.php:292
+msgid "Russian"
+msgstr ""
+
+#: includes/class-helper-functions.php:293
+msgid "Slovak"
+msgstr ""
+
+#: includes/class-helper-functions.php:294
+msgid "Slovenian"
+msgstr ""
+
+#: includes/class-helper-functions.php:295
+msgid "Serbian"
+msgstr ""
+
+#: includes/class-helper-functions.php:296
+msgid "Swedish"
+msgstr ""
+
+#: includes/class-helper-functions.php:297
+msgid "Tagalog"
+msgstr ""
+
+#: includes/class-helper-functions.php:298
+msgid "Tamil"
+msgstr ""
+
+#: includes/class-helper-functions.php:299
+msgid "Telugu"
+msgstr ""
+
+#: includes/class-helper-functions.php:300
+msgid "Thai"
+msgstr ""
+
+#: includes/class-helper-functions.php:301
+msgid "Turkish"
+msgstr ""
+
+#: includes/class-helper-functions.php:302
+msgid "Ukrainian"
+msgstr ""
+
+#: includes/class-helper-functions.php:303
+msgid "Vietnamese"
+msgstr ""
+
+#: includes/class-helper-functions.php:304
+msgid "Chinese (simplified)"
+msgstr ""
+
+#: includes/class-helper-functions.php:305
+msgid "Chinese (traditional)"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:94
+msgid "Banner: Title"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:99
+msgid "Banner: Description"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:104
+msgid "Banner: Button Text"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:109
+msgid "Banner: URL"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:114
+msgid "Banner: Button URL"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:125
+#: includes/compatibility/class-dethemekit-addons-wpml.php:318
+msgid "Button: Text"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:130
+#: includes/compatibility/class-dethemekit-addons-wpml.php:323
+msgid "Button: URL"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:141
+msgid "Countdown: Expiration Message"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:146
+msgid "Countdown: Day Singular"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:151
+msgid "Countdown: Day Plural"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:156
+msgid "Countdown: Week Singular"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:161
+msgid "Countdown: Week Plural"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:166
+msgid "Countdown: Month Singular"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:171
+msgid "Countdown: Month Plural"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:176
+msgid "Countdown: Year Singular"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:181
+msgid "Countdown: Year Plural"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:186
+msgid "Countdown: Hour Singular"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:191
+msgid "Countdown: Hour Plural"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:196
+msgid "Countdown: Minute Singular"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:201
+msgid "Countdown: Minute Plural"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:206
+msgid "Countdown: Second Singular"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:211
+msgid "Countdown: Second Plural"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:216
+msgid "Countdown: Direction URL"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:227
+msgid "Counter: Title Text"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:232
+msgid "Counter: Thousands Separator"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:237
+msgid "Counter: Prefix"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:242
+msgid "Counter: Suffix"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:247
+#: includes/compatibility/class-dethemekit-addons-wpml.php:268
+msgid "Advanced Heading: Heading URL"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:258
+msgid "Dual Heading: First Heading"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:263
+msgid "Dual Heading: Second Heading"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:284
+msgid "Fancy Text: Prefix"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:289
+msgid "Fancy Text: Suffix"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:294
+msgid "Fancy Text: Cursor Text"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:306
+msgid "Grid: Load More Button"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:334
+msgid "Image Scroll: Link Title"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:339
+msgid "Image Scroll: URL"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:350
+msgid "Image Separator: Link Title"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:355
+msgid "Image Separator: URL"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:366
+msgid "Maps: Center Latitude"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:371
+msgid "Maps: Center Longitude"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:383
+msgid "Modal Box: Header Title"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:388
+msgid "Modal Box: Content Text"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:393
+msgid "Modal Box: Close Button"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:398
+msgid "Modal Box: Trigger Button"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:403
+msgid "Modal Box: Trigger Text"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:414
+msgid "Person: Name"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:419
+msgid "Person: Title"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:424
+msgid "Person: Description"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:435
+msgid "Pricing Table: Title"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:440
+msgid "Pricing Table: Slashed Price"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:445
+msgid "Pricing Table: Currency"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:450
+msgid "Pricing Table: Price Value"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:455
+msgid "Pricing Table: Separator"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:460
+msgid "Pricing Table: Duration"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:465
+msgid "Pricing Table: Description"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:470
+msgid "Pricing Table: Button Text"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:475
+msgid "Pricing Table: Button URL"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:480
+msgid "Pricing Table: Badge"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:492
+msgid "Progress Bar: Left Label"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:504
+msgid "Testimonial: Name"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:509
+msgid "Testimonial: Company"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:514
+msgid "Testimonial: Company Link"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:519
+msgid "Testimonial: Content"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:530
+msgid "Title: Text"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:541
+msgid "Video Box: Link"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:546
+msgid "Video Box: Description"
+msgstr ""
+
+#: includes/compatibility/class-dethemekit-addons-wpml.php:557
+msgid "Vertical Scroll: Tooltips"
+msgstr ""
+
+#: includes/compatibility/widgets/carousel.php:50
+msgid "Carousel: Template"
+msgstr ""
+
+#: includes/compatibility/widgets/fancy-text.php:50
+msgid "Fancy Text: String"
+msgstr ""
+
+#: includes/compatibility/widgets/grid.php:52
+msgid "Grid: Image Name"
+msgstr ""
+
+#: includes/compatibility/widgets/grid.php:55
+msgid "Grid: Image Description"
+msgstr ""
+
+#: includes/compatibility/widgets/maps.php:54
+msgid "Maps: Marker Latitude"
+msgstr ""
+
+#: includes/compatibility/widgets/maps.php:57
+msgid "Maps: Marker Longitude"
+msgstr ""
+
+#: includes/compatibility/widgets/maps.php:60
+msgid "Maps: Marker Title"
+msgstr ""
+
+#: includes/compatibility/widgets/maps.php:63
+msgid "Maps: Marker Description"
+msgstr ""
+
+#: includes/compatibility/widgets/pricing-table.php:50
+msgid "Pricing Table: Item Text"
+msgstr ""
+
+#: includes/compatibility/widgets/progress-bar.php:50
+msgid "Progress Bar: Label Text"
+msgstr ""
+
+#: includes/compatibility/widgets/vertical-scroll.php:50
+msgid "Vertical Scroll: Section ID"
+msgstr ""
+
+#: includes/de_loop/ajax-pagination.php:54
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:126
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:693
+#: widgets/de-post-author.php:135 widgets/de-post-date.php:136
+#: widgets/de-post-excerpt.php:123 widgets/de-post-featured-image.php:122
+#: widgets/de-post-terms.php:143 widgets/de-post-title.php:144
+#: widgets/de-product-display.php:219 widgets/de-product-tab-slide.php:178
+#: widgets/dethemekit-grid.php:921
+msgid "None"
+msgstr ""
+
+#: includes/de_loop/ajax-pagination.php:55
+#: includes/de_loop/ajax-pagination.php:59
+msgid "Numbers"
+msgstr ""
+
+#: includes/de_loop/ajax-pagination.php:56
+msgid "Load More (Detheme Kit)"
+msgstr ""
+
+#: includes/de_loop/ajax-pagination.php:58
+#: includes/de_loop/ajax-pagination.php:59
+msgid "Previous/Next"
+msgstr ""
+
+#: includes/de_loop/ajax-pagination.php:67
+msgid "Infinite Load"
+msgstr ""
+
+#: includes/de_loop/ajax-pagination.php:79
+msgid "Loading Animation"
+msgstr ""
+
+#: includes/de_loop/ajax-pagination.php:91
+msgid "Animation Color"
+msgstr ""
+
+#: includes/de_loop/ajax-pagination.php:106
+msgid "Animation Spacing"
+msgstr ""
+
+#: includes/de_loop/ajax-pagination.php:128
+msgid "Animation Size"
+msgstr ""
+
+#: includes/de_loop/ajax-pagination.php:150
+#: includes/de_loop/ajax-pagination.php:219 widgets/dethemekit-grid.php:275
+#: widgets/dethemekit-grid.php:1946
+msgid "Load More Button"
+msgstr ""
+
+#: includes/de_loop/ajax-pagination.php:162
+msgid "Text"
+msgstr ""
+
+#: includes/de_loop/ajax-pagination.php:164
+#: includes/de_loop/ajax-pagination.php:165 widgets/dethemekit-grid.php:286
+msgid "Load More"
+msgstr ""
+
+#: includes/de_loop/ajax-pagination.php:175
+msgid "Loading Text"
+msgstr ""
+
+#: includes/de_loop/ajax-pagination.php:177
+#: includes/de_loop/ajax-pagination.php:178
+msgid "Loading..."
+msgstr ""
+
+#: includes/de_loop/ajax-pagination.php:188
+msgid "Button Spacing"
+msgstr ""
+
+#: includes/de_loop/ajax-pagination.php:249
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:160
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:727
+#: widgets/de-product-display.php:434 widgets/de-product-display.php:1329
+#: widgets/de-product-display.php:1625 widgets/de-product-display.php:1958
+#: widgets/de-product-tab-slide.php:281 widgets/de-product-tab-slide.php:649
+#: widgets/de-product-tab-slide.php:885 widgets/de-product-tab-slide.php:1144
+#: widgets/dethemekit-carousel.php:785 widgets/dethemekit-grid.php:1539
+#: widgets/dethemekit-grid.php:1749 widgets/dethemekit-grid.php:1968
+msgid "Normal"
+msgstr ""
+
+#: includes/de_loop/ajax-pagination.php:256
+#: includes/de_loop/ajax-pagination.php:292 widgets/de-breadcrumb.php:220
+#: widgets/de-copyright.php:155 widgets/de-post-author.php:181
+#: widgets/de-post-date.php:181 widgets/de-post-excerpt.php:168
+#: widgets/de-post-terms.php:166 widgets/de-post-title.php:189
+#: widgets/dethemekit-grid.php:1756 widgets/dethemekit-grid.php:1811
+#: widgets/dethemekit-grid.php:1862 widgets/dethemekit-grid.php:1975
+msgid "Text Color"
+msgstr ""
+
+#: includes/de_loop/ajax-pagination.php:268
+#: includes/de_loop/ajax-pagination.php:304 widgets/de-product-display.php:992
+#: widgets/de-product-display.php:1679 widgets/de-product-display.php:1758
+#: widgets/de-product-display.php:1861 widgets/de-product-display.php:2155
+#: widgets/de-product-tab-slide.php:676 widgets/de-product-tab-slide.php:728
+#: widgets/de-product-tab-slide.php:832 widgets/dethemekit-carousel.php:808
+#: widgets/dethemekit-carousel.php:864 widgets/dethemekit-grid.php:1561
+#: widgets/dethemekit-grid.php:1653 widgets/dethemekit-grid.php:1771
+#: widgets/dethemekit-grid.php:1822 widgets/dethemekit-grid.php:1877
+#: widgets/dethemekit-grid.php:2185
+msgid "Background Color"
+msgstr ""
+
+#: includes/de_loop/ajax-pagination.php:285
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:404
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:971
+#: widgets/de-product-display.php:433 widgets/de-product-display.php:1516
+#: widgets/de-product-display.php:1793 widgets/de-product-display.php:2045
+#: widgets/de-product-tab-slide.php:368 widgets/de-product-tab-slide.php:763
+#: widgets/de-product-tab-slide.php:1083 widgets/de-product-tab-slide.php:1205
+#: widgets/dethemekit-carousel.php:841 widgets/dethemekit-grid.php:1631
+#: widgets/dethemekit-grid.php:1804 widgets/dethemekit-grid.php:2077
+msgid "Hover"
+msgstr ""
+
+#: includes/de_loop/ajax-pagination.php:315 widgets/de-product-display.php:557
+#: widgets/de-product-display.php:950
+msgid "Border Color"
+msgstr ""
+
+#: includes/de_loop/ajax-pagination.php:329 widgets/de-post-author.php:298
+#: widgets/de-post-date.php:214 widgets/de-post-excerpt.php:201
+#: widgets/de-post-featured-image.php:231 widgets/de-post-terms.php:199
+#: widgets/de-post-title.php:222
+msgid "Hover Animation"
+msgstr ""
+
+#: includes/de_loop/ajax-pagination.php:350 widgets/de-post-author.php:318
+#: widgets/de-post-featured-image.php:248 widgets/de-product-display.php:1447
+#: widgets/de-product-display.php:1700 widgets/de-product-display.php:1779
+#: widgets/de-product-display.php:1841 widgets/de-product-display.php:1883
+#: widgets/de-product-display.php:2007 widgets/de-product-display.php:2089
+#: widgets/de-product-tab-slide.php:330 widgets/de-product-tab-slide.php:412
+#: widgets/de-product-tab-slide.php:697 widgets/de-product-tab-slide.php:749
+#: widgets/de-product-tab-slide.php:812 widgets/de-product-tab-slide.php:854
+#: widgets/de-product-tab-slide.php:901 widgets/dethemekit-carousel.php:827
+#: widgets/dethemekit-carousel.php:883 widgets/dethemekit-grid.php:1201
+#: widgets/dethemekit-grid.php:1274 widgets/dethemekit-grid.php:1432
+#: widgets/dethemekit-grid.php:1584 widgets/dethemekit-grid.php:1676
+#: widgets/dethemekit-grid.php:1790 widgets/dethemekit-grid.php:1841
+#: widgets/dethemekit-grid.php:1896 widgets/dethemekit-grid.php:2031
+#: widgets/dethemekit-grid.php:2124
+msgid "Border Radius"
+msgstr ""
+
+#: includes/de_loop/ajax-pagination.php:370
+#: includes/ext/element-extension.php:430 widgets/de-product-display.php:926
+#: widgets/de-product-display.php:980 widgets/de-product-display.php:1414
+#: widgets/de-product-display.php:1711 widgets/de-product-tab-slide.php:708
+#: widgets/dethemekit-grid.php:1233 widgets/dethemekit-grid.php:1327
+#: widgets/dethemekit-grid.php:1473 widgets/dethemekit-grid.php:1617
+#: widgets/dethemekit-grid.php:1709 widgets/dethemekit-grid.php:1932
+#: widgets/dethemekit-grid.php:2063 widgets/dethemekit-grid.php:2156
+msgid "Padding"
+msgstr ""
+
+#: includes/de_loop/ajax-pagination.php:487
+msgid "Running Dots"
+msgstr ""
+
+#: includes/de_loop/ajax-pagination.php:491
+msgid "Ball Slide"
+msgstr ""
+
+#: includes/ext/element-extension.php:70 includes/ext/element-extension.php:101
+msgid "De Carousel Child Mode"
+msgstr ""
+
+#: includes/ext/element-extension.php:71 includes/ext/element-extension.php:102
+#: includes/ext/element-extension.php:136
+msgid "Child Mode enables a Thumbnail slide with partial next/previous slides."
+msgstr ""
+
+#: includes/ext/element-extension.php:88
+msgid "De Carousel Extra2"
+msgstr ""
+
+#: includes/ext/element-extension.php:94 includes/ext/element-extension.php:128
+msgid "Parent Mode"
+msgstr ""
+
+#: includes/ext/element-extension.php:95 includes/ext/element-extension.php:129
+msgid ""
+"Parent Mode enables a Thumbnail slide with partial next/previous slides."
+msgstr ""
+
+#: includes/ext/element-extension.php:121
+msgid "De Carousel Extra"
+msgstr ""
+
+#: includes/ext/element-extension.php:135
+msgid "Childs Mode"
+msgstr ""
+
+#: includes/ext/element-extension.php:146
+#: includes/ext/element-extension.php:320
+msgid "De Sticky"
+msgstr ""
+
+#: includes/ext/element-extension.php:154
+msgid "Sticky Column"
+msgstr ""
+
+#: includes/ext/element-extension.php:157 skins/skin-custom.php:92
+#: skins/skin-template-kit.php:92 widgets/de-product-display.php:612
+#: widgets/de-product-display.php:770 widgets/de-product-tab-slide.php:483
+msgid "No"
+msgstr ""
+
+#: includes/ext/element-extension.php:166
+msgid "Top Spacing"
+msgstr ""
+
+#: includes/ext/element-extension.php:181
+msgid "Bottom Spacing"
+msgstr ""
+
+#: includes/ext/element-extension.php:196
+msgid "Sticky On"
+msgstr ""
+
+#: includes/ext/element-extension.php:205
+#: includes/ext/element-extension.php:344
+msgid "Desktop"
+msgstr ""
+
+#: includes/ext/element-extension.php:206
+#: includes/ext/element-extension.php:345 widgets/de-product-display.php:829
+#: widgets/de-product-tab-slide.php:545
+msgid "Tablet"
+msgstr ""
+
+#: includes/ext/element-extension.php:207
+#: includes/ext/element-extension.php:346
+msgid "Mobile"
+msgstr ""
+
+#: includes/ext/element-extension.php:328
+msgid "Sticky Section"
+msgstr ""
+
+#: includes/ext/element-extension.php:338
+msgid "Sticky Section Visibility"
+msgstr ""
+
+#: includes/ext/element-extension.php:358
+msgid "Z-index"
+msgstr ""
+
+#: includes/ext/element-extension.php:376
+msgid "Max Width (px)"
+msgstr ""
+
+#: includes/ext/element-extension.php:396
+msgid "Sticky Section Style"
+msgstr ""
+
+#: includes/ext/element-extension.php:408 widgets/de-product-display.php:938
+#: widgets/de-product-display.php:1087 widgets/de-product-display.php:1142
+#: widgets/de-product-display.php:1207 widgets/de-product-display.php:1253
+#: widgets/de-product-display.php:1426 widgets/de-product-display.php:2177
+#: widgets/dethemekit-grid.php:1221 widgets/dethemekit-grid.php:1315
+#: widgets/dethemekit-grid.php:1461 widgets/dethemekit-grid.php:1605
+#: widgets/dethemekit-grid.php:1697 widgets/dethemekit-grid.php:1920
+#: widgets/dethemekit-grid.php:2051 widgets/dethemekit-grid.php:2144
+msgid "Margin"
+msgstr ""
+
+#: includes/ext/element-extension.php:467
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:645
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:1212
+msgid "Transition Duration"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:71
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:79
+msgid "De Curtain Animation"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:88
+msgid "Curtain Duration"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:99
+msgid "Curtain Color"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:112
+msgid "Curtain Direction"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:115
+msgid "Left to Right"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:116
+msgid "Right to Left"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:117
+msgid "Top to Bottom"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:118
+msgid "Bottom to Top"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:129
+msgid "Curtain Easing"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:145
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:516
+msgid "linear"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:150
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:517
+msgid "easeInQuad"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:151
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:518
+msgid "easeOutQuad"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:152
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:519
+msgid "easeInOutQuad"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:153
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:520
+msgid "easeInCubic"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:154
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:521
+msgid "easeOutCubic"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:155
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:522
+msgid "easeInOutCubic"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:156
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:523
+msgid "easeInQuart"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:157
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:524
+msgid "easeOutQuart"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:158
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:525
+msgid "easeInOutQuart"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:159
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:526
+msgid "easeInQuint"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:160
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:527
+msgid "easeOutQuint"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:161
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:528
+msgid "easeInOutQuint"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:162
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:529
+msgid "easeInExpo"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:163
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:530
+msgid "easeOutExpo"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:164
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:531
+msgid "easeInOutExpo"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:165
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:532
+msgid "easeInSine"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:166
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:533
+msgid "easeOutSine"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:167
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:534
+msgid "easeInOutSine"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:168
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:535
+msgid "easeInCirc"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:169
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:536
+msgid "easeOutCirc"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:170
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:537
+msgid "easeInOutCirc"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:171
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:538
+msgid "easeInElastic"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:172
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:539
+msgid "easeOutElastic"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:173
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:540
+msgid "easeInOutElastic"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:174
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:541
+msgid "easeInBack"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:175
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:542
+msgid "easeOutBack"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:176
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:543
+msgid "easeInOutBack"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:177
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:544
+msgid "easeInBounce"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:178
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:545
+msgid "easeOutBounce"
+msgstr ""
+
+#: includes/ext/sina/inc/de-curtain-animation-controls.php:179
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:546
+msgid "easeInOutBounce"
+msgstr ""
+
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:71
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:79
+msgid "De Scroll Animation"
+msgstr ""
+
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:88
+msgid "Run Animation on Preview"
+msgstr ""
+
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:99
+msgid "Transforms"
+msgstr ""
+
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:109
+msgid "- Translate X"
+msgstr ""
+
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:123
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:150
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:178
+msgid "Distance (px)"
+msgstr ""
+
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:136
+msgid "- Translate Y"
+msgstr ""
+
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:164
+msgid "- Translate Z"
+msgstr ""
+
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:189
+msgid "Perspective (px)"
+msgstr ""
+
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:203
+msgid "- Rotate"
+msgstr ""
+
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:217
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:244
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:271
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:298
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:434
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:461
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:488
+msgid "Degree"
+msgstr ""
+
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:230
+msgid "- Rotate X"
+msgstr ""
+
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:257
+msgid "- Rotate Y"
+msgstr ""
+
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:284
+msgid "- Rotate Z"
+msgstr ""
+
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:311
+msgid "- Scale"
+msgstr ""
+
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:325
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:352
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:379
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:406
+#: widgets/dethemekit-grid.php:924
+msgid "Scale"
+msgstr ""
+
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:338
+msgid "- Scale X"
+msgstr ""
+
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:365
+msgid "- Scale Y"
+msgstr ""
+
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:392
+msgid "- Scale Z"
+msgstr ""
+
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:407
+msgid "TranslateZ transform is needed to be activated."
+msgstr ""
+
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:420
+msgid "- Skew"
+msgstr ""
+
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:447
+msgid "- Skew X"
+msgstr ""
+
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:474
+msgid "- Skew Y"
+msgstr ""
+
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:501
+msgid "Duration (ms)"
+msgstr ""
+
+#: includes/ext/sina/inc/de-scroll-animation-controls.php:513
+msgid "Easing"
+msgstr ""
+
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:105
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:672
+msgid "De Mask"
+msgstr ""
+
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:114
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:681
+msgid "De Transform"
+msgstr ""
+
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:117
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:684
+#: widgets/dethemekit-grid.php:929
+msgid "Translate"
+msgstr ""
+
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:118
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:210
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:454
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:685
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:777
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:1021
+msgid "Scale X"
+msgstr ""
+
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:119
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:233
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:477
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:686
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:800
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:1044
+msgid "Scale Y"
+msgstr ""
+
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:120
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:256
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:500
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:687
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:823
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:1067
+msgid "Scale Z"
+msgstr ""
+
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:121
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:279
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:523
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:688
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:846
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:1090
+msgid "Rotate X"
+msgstr ""
+
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:122
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:302
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:546
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:689
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:869
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:1113
+msgid "Rotate Y"
+msgstr ""
+
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:123
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:325
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:569
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:690
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:892
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:1136
+msgid "Rotate Z"
+msgstr ""
+
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:124
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:348
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:592
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:691
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:915
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:1159
+msgid "Skew X"
+msgstr ""
+
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:125
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:371
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:615
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:692
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:938
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:1182
+msgid "Skew Y"
+msgstr ""
+
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:134
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:701
+msgid "Perspective Size"
+msgstr ""
+
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:167
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:411
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:734
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:978
+msgid "Translate X"
+msgstr ""
+
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:186
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:430
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:753
+#: includes/ext/sina/inc/de-sina-ext-controls-extend.php:997
+msgid "Translate Y"
+msgstr ""
+
+#: includes/helper-function.php:62
+msgid "Select"
+msgstr ""
+
+#: includes/helper-function.php:85
+msgid "Do not Saved Templates."
+msgstr ""
+
+#: includes/helper-function.php:87
+msgid "Select Template"
+msgstr ""
+
+#: includes/helper-function.php:139
+msgid "H1"
+msgstr ""
+
+#: includes/helper-function.php:140
+msgid "H2"
+msgstr ""
+
+#: includes/helper-function.php:141
+msgid "H3"
+msgstr ""
+
+#: includes/helper-function.php:142
+msgid "H4"
+msgstr ""
+
+#: includes/helper-function.php:143
+msgid "H5"
+msgstr ""
+
+#: includes/helper-function.php:144
+msgid "H6"
+msgstr ""
+
+#: includes/helper-function.php:145
+msgid "p"
+msgstr ""
+
+#: includes/helper-function.php:146
+msgid "div"
+msgstr ""
+
+#: includes/helper-function.php:147
+msgid "span"
+msgstr ""
+
+#: includes/helper-function.php:229
+msgid "Sale!"
+msgstr ""
+
+#: includes/helper-function.php:233
+msgid "Out of stock"
+msgstr ""
+
+#: includes/helper-function.php:262
+msgid "Default sorting"
+msgstr ""
+
+#: includes/helper-function.php:263
+msgid "Sort by popularity"
+msgstr ""
+
+#: includes/helper-function.php:264
+msgid "Sort by average rating"
+msgstr ""
+
+#: includes/helper-function.php:265
+msgid "Sort by latest"
+msgstr ""
+
+#: includes/helper-function.php:266
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: includes/helper-function.php:267
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: includes/helper-function.php:408 includes/helper-function.php:426
+msgid "Do not set stock amount for progress bar"
+msgstr ""
+
+#: includes/helper-function.php:421
+msgid "Sold"
+msgstr ""
+
+#: includes/helper-function.php:451
+msgid "Add to Compare"
+msgstr ""
+
+#: includes/helper-function.php:451
+msgid "Compare"
+msgstr ""
+
+#: includes/templates/classes/config.php:61
+#: includes/templates/scripts/template-modal-header-logo.php:10
+msgid "DethemeKit Templates"
+msgstr ""
+
+#: includes/templates/classes/config.php:173
+msgid "Activate License"
+msgstr ""
+
+#: includes/templates/classes/config.php:175
+msgid "Get Pro"
+msgstr ""
+
+#: includes/templates/classes/manager.php:188 widgets/dethemekit-grid.php:384
+msgid "All"
+msgstr ""
+
+#: includes/templates/documents/section.php:14
+#: includes/templates/types/section.php:19
+msgid "Section"
+msgstr ""
+
+#: includes/templates/scripts/template-modal-error.php:12
+msgid "Template couldn't be loaded. Please activate you license key before."
+msgstr ""
+
+#: includes/templates/scripts/template-modal-header.php:9
+msgid "Close"
+msgstr ""
+
+#: includes/templates/scripts/template-modal-insert-button.php:9
+#: includes/templates/scripts/template-modal-item.php:19
+msgid "Insert"
+msgstr ""
+
+#: includes/templates/scripts/template-modal-keywords.php:9
+msgid "Filter by Widget / Addon"
+msgstr ""
+
+#: includes/templates/scripts/template-modal-keywords.php:11
+msgid "All Widgets/Addons"
+msgstr ""
+
+#: includes/templates/scripts/template-modal-loading.php:13
+msgid "Loading"
+msgstr ""
+
+#: includes/templates/types/section.php:23
+msgid "Sections"
+msgstr ""
+
+#: modules/controls/icon.php:33 modules/controls/icon.php:34
+#: widgets/dethemekit-carousel.php:572 widgets/dethemekit-carousel.php:660
+#: widgets/dethemekit-carousel.php:947
+msgid "Select Icon"
+msgstr ""
+
+#: modules/controls/icons.php:24
+msgid "DethemeKit - Icons"
+msgstr ""
+
+#: modules/loop-item/widgets/loop-item.php:33
+msgid "De Loop Item"
+msgstr ""
+
+#: modules/loop-item/widgets/loop-item.php:78
+#: widgets/dethemekit-carousel.php:188
+msgid "Content"
+msgstr ""
+
+#: modules/loop-item/widgets/loop-item.php:86
+msgid "Loop Item Place Holder"
+msgstr ""
+
+#: modules/loop-item/widgets/loop-item.php:88
+msgid "Place this widget where the Loop Item you want to show."
+msgstr ""
+
+#: skins/skin-custom.php:37 skins/skin-custom.php:614
+msgid "Theme Builder (De Loop)"
+msgstr ""
+
+#: skins/skin-custom.php:65 skins/skin-custom.php:104
+#: skins/skin-template-kit.php:65 skins/skin-template-kit.php:104
+msgid "Select a default template"
+msgstr ""
+
+#: skins/skin-custom.php:68 skins/skin-template-kit.php:68
+msgid "Create/edit a Loop Template"
+msgstr ""
+
+#: skins/skin-custom.php:80 skins/skin-template-kit.php:80
+msgid "View"
+msgstr ""
+
+#: skins/skin-custom.php:90 skins/skin-template-kit.php:90
+msgid "Use De Grid?"
+msgstr ""
+
+#: skins/skin-custom.php:107 skins/skin-template-kit.php:107
+msgid "Create/edit a De Grid"
+msgstr ""
+
+#: skins/skin-custom.php:325 skins/skin-template-kit.php:360
+msgid "Please select a default template! "
+msgstr ""
+
+#: skins/skin-custom.php:430 skins/skin-template-kit.php:465
+msgid "Page"
+msgstr ""
+
+#: skins/skin-template-kit.php:37
+msgid "Saved Templates (Section)"
+msgstr ""
+
+#: skins/skin-template-kit.php:649 theme-builder/conditions/loop.php:31
+#: theme-builder/documents/loop.php:32 theme-builder/init.php:60
+msgid "De Loop"
+msgstr ""
+
+#: theme-builder/conditions/custom-grid.php:29
+#: theme-builder/documents/custom-grid.php:35
+#: theme-builder/documents/custom-grid.php:41 theme-builder/init.php:97
+msgid "De Grid"
+msgstr ""
+
+#: theme-builder/conditions/custom-grid.php:33
+#: theme-builder/conditions/loop.php:35
+msgid "No Conditions"
+msgstr ""
+
+#: theme-builder/documents/loop.php:52
+msgid "Single"
+msgstr ""
+
+#: theme-builder/documents/loop.php:55
+msgid "404"
+msgstr ""
+
+#: theme-builder/dynamic-tags/tags/post-summary.php:18
+msgid "Post Summary"
+msgstr ""
+
+#: theme-builder/dynamic-tags/tags/post-summary.php:33
+msgid "Length"
+msgstr ""
+
+#: widgets/de-breadcrumb.php:44
+msgid "De Breadcrumb"
+msgstr ""
+
+#: widgets/de-breadcrumb.php:106
+msgid "Detheme Kit Breadcrumb"
+msgstr ""
+
+#: widgets/de-breadcrumb.php:113
+msgid "Separator Icon"
+msgstr ""
+
+#: widgets/de-breadcrumb.php:126
+msgid "Separator Size"
+msgstr ""
+
+#: widgets/de-breadcrumb.php:144
+msgid "Separator Margin"
+msgstr ""
+
+#: widgets/de-breadcrumb.php:164
+msgid "Separator Padding"
+msgstr ""
+
+#: widgets/de-breadcrumb.php:184 widgets/de-copyright.php:130
+#: widgets/de-post-author.php:101 widgets/de-post-date.php:102
+#: widgets/de-post-excerpt.php:89 widgets/de-post-featured-image.php:88
+#: widgets/de-post-terms.php:109 widgets/de-post-title.php:110
+#: widgets/de-product-display.php:1912 widgets/de-product-tab-slide.php:245
+#: widgets/de-product-tab-slide.php:968 widgets/de-product-tab-slide.php:1049
+#: widgets/dethemekit-grid.php:478
+msgid "Alignment"
+msgstr ""
+
+#: widgets/de-breadcrumb.php:188 widgets/de-copyright.php:134
+#: widgets/de-post-author.php:105 widgets/de-post-date.php:106
+#: widgets/de-post-excerpt.php:93 widgets/de-post-featured-image.php:92
+#: widgets/de-post-terms.php:113 widgets/de-post-title.php:114
+#: widgets/de-product-display.php:449 widgets/de-product-display.php:628
+#: widgets/de-product-display.php:1916 widgets/de-product-tab-slide.php:249
+#: widgets/de-product-tab-slide.php:972 widgets/de-product-tab-slide.php:1053
+#: widgets/dethemekit-grid.php:327 widgets/dethemekit-grid.php:482
+#: widgets/dethemekit-grid.php:1001
+msgid "Left"
+msgstr ""
+
+#: widgets/de-breadcrumb.php:192 widgets/de-copyright.php:138
+#: widgets/de-post-author.php:109 widgets/de-post-date.php:110
+#: widgets/de-post-excerpt.php:97 widgets/de-post-featured-image.php:96
+#: widgets/de-post-terms.php:117 widgets/de-post-title.php:118
+#: widgets/de-product-display.php:1920 widgets/de-product-tab-slide.php:253
+#: widgets/de-product-tab-slide.php:976 widgets/de-product-tab-slide.php:1057
+#: widgets/dethemekit-grid.php:331 widgets/dethemekit-grid.php:486
+#: widgets/dethemekit-grid.php:1005
+msgid "Center"
+msgstr ""
+
+#: widgets/de-breadcrumb.php:196 widgets/de-copyright.php:142
+#: widgets/de-post-author.php:113 widgets/de-post-date.php:114
+#: widgets/de-post-excerpt.php:101 widgets/de-post-featured-image.php:100
+#: widgets/de-post-terms.php:121 widgets/de-post-title.php:122
+#: widgets/de-product-display.php:453 widgets/de-product-display.php:632
+#: widgets/de-product-display.php:1924 widgets/de-product-tab-slide.php:257
+#: widgets/de-product-tab-slide.php:980 widgets/de-product-tab-slide.php:1061
+#: widgets/dethemekit-grid.php:335 widgets/dethemekit-grid.php:490
+#: widgets/dethemekit-grid.php:1009
+msgid "Right"
+msgstr ""
+
+#: widgets/de-breadcrumb.php:212
+msgid "Font"
+msgstr ""
+
+#: widgets/de-breadcrumb.php:235
+msgid "Link Color"
+msgstr ""
+
+#: widgets/de-breadcrumb.php:250
+msgid "Link Color on hover"
+msgstr ""
+
+#: widgets/de-breadcrumb.php:265
+msgid "Separator Icon Color"
+msgstr ""
+
+#: widgets/de-breadcrumb.php:304
+msgid "Home"
+msgstr "Pulang"
+
+#: widgets/de-copyright.php:52
+msgid "De Copyright"
+msgstr ""
+
+#: widgets/de-copyright.php:102
+msgid "Copyright"
+msgstr ""
+
+#: widgets/de-copyright.php:109
+msgid "Copyright Text"
+msgstr ""
+
+#: widgets/de-copyright.php:114
+msgid ""
+"Copyright © [dtk_current_year] [dtk_site_title] | Powered by [dtk_site_title]"
+msgstr ""
+
+#: widgets/de-copyright.php:121 widgets/de-post-author.php:151
+#: widgets/de-post-date.php:151 widgets/de-post-excerpt.php:138
+#: widgets/de-post-title.php:159 widgets/dethemekit-grid.php:737
+msgid "Link"
+msgstr ""
+
+#: widgets/de-instagram.php:44 widgets/de-instagram.php:106
+msgid "De Instagram"
+msgstr ""
+
+#: widgets/de-instagram.php:113
+msgid "Username"
+msgstr ""
+
+#: widgets/de-post-author.php:40 widgets/de-post-author.php:62
+#: widgets/de-post-author.php:171
+#, php-format
+msgid "%s Author"
+msgstr ""
+
+#: widgets/de-post-author.php:71
+msgid "Author"
+msgstr ""
+
+#: widgets/de-post-author.php:81 widgets/de-post-date.php:82
+#: widgets/de-post-excerpt.php:69 widgets/de-post-terms.php:89
+#: widgets/de-post-title.php:90
+msgid "HTML Tag"
+msgstr ""
+
+#: widgets/de-post-author.php:117 widgets/de-post-date.php:118
+#: widgets/de-post-excerpt.php:105 widgets/de-post-featured-image.php:104
+#: widgets/de-post-terms.php:125 widgets/de-post-title.php:126
+#: widgets/de-product-display.php:1928 widgets/de-product-tab-slide.php:261
+#: widgets/de-product-tab-slide.php:984 widgets/de-product-tab-slide.php:1065
+msgid "Justified"
+msgstr ""
+
+#: widgets/de-post-author.php:131 widgets/de-post-date.php:132
+#: widgets/de-post-excerpt.php:119 widgets/de-post-featured-image.php:118
+#: widgets/de-post-featured-image.php:138 widgets/de-post-terms.php:139
+#: widgets/de-post-title.php:140
+msgid "Link to"
+msgstr ""
+
+#: widgets/de-post-author.php:136 widgets/de-post-date.php:137
+#: widgets/de-post-excerpt.php:124 widgets/de-post-featured-image.php:123
+#: widgets/de-post-title.php:145
+msgid "Home URL"
+msgstr ""
+
+#: widgets/de-post-author.php:139 widgets/de-post-date.php:140
+#: widgets/de-post-excerpt.php:127 widgets/de-post-featured-image.php:126
+#: widgets/de-post-title.php:148
+#, php-format
+msgid "%s URL"
+msgstr ""
+
+#: widgets/de-post-author.php:142
+msgid "Author URL"
+msgstr ""
+
+#: widgets/de-post-author.php:143 widgets/de-post-date.php:143
+#: widgets/de-post-excerpt.php:130 widgets/de-post-featured-image.php:130
+#: widgets/de-post-title.php:151
+msgid "Custom URL"
+msgstr ""
+
+#: widgets/de-post-author.php:223 widgets/de-post-featured-image.php:165
+msgid "Size (%)"
+msgstr ""
+
+#: widgets/de-post-author.php:248 widgets/de-post-featured-image.php:187
+msgid "Opacity (%)"
+msgstr ""
+
+#: widgets/de-post-author.php:272 widgets/de-post-featured-image.php:208
+msgid "Angle (deg)"
+msgstr ""
+
+#: widgets/de-post-author.php:307 widgets/de-post-featured-image.php:240
+msgid "Image Border"
+msgstr ""
+
+#: widgets/de-post-author.php:446
+msgid "First Name"
+msgstr ""
+
+#: widgets/de-post-author.php:447
+msgid "Last Name"
+msgstr ""
+
+#: widgets/de-post-author.php:448
+msgid "First Name + Last Name"
+msgstr ""
+
+#: widgets/de-post-author.php:449
+msgid "Last Name + First Name"
+msgstr ""
+
+#: widgets/de-post-author.php:450
+msgid "Nick Name"
+msgstr ""
+
+#: widgets/de-post-author.php:451
+msgid "Display Name"
+msgstr ""
+
+#: widgets/de-post-author.php:452
+msgid "User Name"
+msgstr ""
+
+#: widgets/de-post-author.php:453
+msgid "User Bio"
+msgstr ""
+
+#: widgets/de-post-author.php:454
+msgid "User Image"
+msgstr ""
+
+#: widgets/de-post-comments.php:34 widgets/de-post-comments.php:56
+#, php-format
+msgid "%s Comments"
+msgstr ""
+
+#: widgets/de-post-comments.php:66
+msgid ""
+"This widget displays the default Comments Template included in the current "
+"Theme."
+msgstr ""
+
+#: widgets/de-post-comments.php:68
+msgid ""
+"No custom styling can be applied as each theme uses it's own CSS classes and "
+"IDs."
+msgstr ""
+
+#: widgets/de-post-date.php:38 widgets/de-post-date.php:60
+#: widgets/de-post-date.php:171
+#, php-format
+msgid "%s Date"
+msgstr ""
+
+#: widgets/de-post-date.php:69
+msgid "Date Type"
+msgstr ""
+
+#: widgets/de-post-date.php:72
+msgid "Publish Date"
+msgstr ""
+
+#: widgets/de-post-date.php:73
+msgid "Last Modified Date"
+msgstr ""
+
+#: widgets/de-post-excerpt.php:38 widgets/de-post-excerpt.php:60
+#: widgets/de-post-excerpt.php:158
+#, php-format
+msgid "%s Excerpt"
+msgstr ""
+
+#: widgets/de-post-featured-image.php:38 widgets/de-post-featured-image.php:60
+#: widgets/de-post-featured-image.php:155
+#, php-format
+msgid "%s Featured Image"
+msgstr ""
+
+#: widgets/de-post-featured-image.php:79
+msgid "Image Size"
+msgstr ""
+
+#: widgets/de-post-featured-image.php:129
+msgid "Media File URL"
+msgstr ""
+
+#: widgets/de-post-terms.php:38 widgets/de-post-terms.php:60
+#: widgets/de-post-terms.php:156
+#, php-format
+msgid "%s Terms"
+msgstr ""
+
+#: widgets/de-post-terms.php:69
+msgid "Taxonomy"
+msgstr ""
+
+#: widgets/de-post-terms.php:80
+msgid "Separator"
+msgstr ""
+
+#: widgets/de-post-terms.php:144
+msgid "Term"
+msgstr ""
+
+#: widgets/de-post-title.php:48
+msgid "De Page/Post Title"
+msgstr ""
+
+#: widgets/de-post-title.php:81 widgets/de-post-title.php:179
+#, php-format
+msgid "%s Title"
+msgstr ""
+
+#: widgets/de-product-display.php:37
+msgid "De Product Display"
+msgstr ""
+
+#: widgets/de-product-display.php:77
+msgid "Layout Settings"
+msgstr ""
+
+#: widgets/de-product-display.php:84 widgets/dethemekit-grid.php:171
+msgid "Layout"
+msgstr ""
+
+#: widgets/de-product-display.php:88
+msgid "Slider"
+msgstr ""
+
+#: widgets/de-product-display.php:89
+msgid "Tab"
+msgstr ""
+
+#: widgets/de-product-display.php:98 widgets/de-product-tab-slide.php:109
+#: widgets/dethemekit-grid.php:247
+msgid "Columns"
+msgstr ""
+
+#: widgets/de-product-display.php:129
+msgid "Query Settings"
+msgstr ""
+
+#: widgets/de-product-display.php:136 widgets/de-product-tab-slide.php:92
+msgid "Filter By"
+msgstr ""
+
+#: widgets/de-product-display.php:140 widgets/de-product-tab-slide.php:96
+msgid "Recent Products"
+msgstr ""
+
+#: widgets/de-product-display.php:141 widgets/de-product-tab-slide.php:97
+msgid "Featured Products"
+msgstr ""
+
+#: widgets/de-product-display.php:142 widgets/de-product-tab-slide.php:98
+msgid "Best Selling Products"
+msgstr ""
+
+#: widgets/de-product-display.php:143 widgets/de-product-tab-slide.php:99
+msgid "Sale Products"
+msgstr ""
+
+#: widgets/de-product-display.php:144 widgets/de-product-tab-slide.php:100
+msgid "Top Rated Products"
+msgstr ""
+
+#: widgets/de-product-display.php:145
+msgid "Random Products"
+msgstr ""
+
+#: widgets/de-product-display.php:146
+msgid "Show By ID"
+msgstr ""
+
+#: widgets/de-product-display.php:147
+msgid "Add ID Manually"
+msgstr ""
+
+#: widgets/de-product-display.php:155
+msgid "Select Product"
+msgstr ""
+
+#: widgets/de-product-display.php:169
+msgid "Product IDs"
+msgstr ""
+
+#: widgets/de-product-display.php:181
+msgid "Product Limit"
+msgstr ""
+
+#: widgets/de-product-display.php:191 widgets/de-product-tab-slide.php:153
+msgid "Product Categories"
+msgstr ""
+
+#: widgets/de-product-display.php:205 widgets/de-product-tab-slide.php:164
+msgid "Custom Order"
+msgstr ""
+
+#: widgets/de-product-display.php:215
+msgid "Order by"
+msgstr ""
+
+#: widgets/de-product-display.php:220 widgets/de-product-tab-slide.php:179
+msgid "ID"
+msgstr ""
+
+#: widgets/de-product-display.php:221 widgets/de-product-tab-slide.php:180
+msgid "Date"
+msgstr ""
+
+#: widgets/de-product-display.php:222 widgets/de-product-tab-slide.php:181
+msgid "Name"
+msgstr ""
+
+#: widgets/de-product-display.php:224 widgets/de-product-tab-slide.php:183
+msgid "Comment count"
+msgstr ""
+
+#: widgets/de-product-display.php:225 widgets/de-product-tab-slide.php:184
+msgid "Random"
+msgstr ""
+
+#: widgets/de-product-display.php:236 widgets/de-product-tab-slide.php:195
+msgid "Order"
+msgstr ""
+
+#: widgets/de-product-display.php:240 widgets/de-product-tab-slide.php:199
+msgid "Descending"
+msgstr ""
+
+#: widgets/de-product-display.php:241 widgets/de-product-tab-slide.php:200
+msgid "Ascending"
+msgstr ""
+
+#: widgets/de-product-display.php:255
+msgid "Content Settings"
+msgstr ""
+
+#: widgets/de-product-display.php:262 widgets/de-product-display.php:412
+#: widgets/de-product-display.php:918 widgets/de-product-tab-slide.php:872
+msgid "Style"
+msgstr ""
+
+#: widgets/de-product-display.php:266 widgets/de-product-display.php:416
+#: widgets/de-product-tab-slide.php:82
+msgid "Style One"
+msgstr ""
+
+#: widgets/de-product-display.php:267 widgets/de-product-display.php:417
+#: widgets/de-product-tab-slide.php:83
+msgid "Style Two"
+msgstr ""
+
+#: widgets/de-product-display.php:268 widgets/de-product-display.php:418
+#: widgets/de-product-tab-slide.php:84
+msgid "Style Three"
+msgstr ""
+
+#: widgets/de-product-display.php:269
+msgid "Style Four"
+msgstr ""
+
+#: widgets/de-product-display.php:277
+msgid "Hide Title"
+msgstr ""
+
+#: widgets/de-product-display.php:288
+msgid "Hide Price"
+msgstr ""
+
+#: widgets/de-product-display.php:299
+msgid "Hide Category"
+msgstr ""
+
+#: widgets/de-product-display.php:310
+msgid "Hide Rating"
+msgstr ""
+
+#: widgets/de-product-display.php:321
+msgid "Show Product Stock Progress Bar"
+msgstr ""
+
+#: widgets/de-product-display.php:331 widgets/de-product-display.php:2108
+msgid "Stock Progressbar"
+msgstr ""
+
+#: widgets/de-product-display.php:342
+msgid "Hide Order Counter"
+msgstr ""
+
+#: widgets/de-product-display.php:353
+msgid "Hide Available Counter"
+msgstr ""
+
+#: widgets/de-product-display.php:364
+msgid "Ordered Custom Text"
+msgstr ""
+
+#: widgets/de-product-display.php:366
+msgid "Ordered"
+msgstr ""
+
+#: widgets/de-product-display.php:377
+msgid "Available Custom Text"
+msgstr ""
+
+#: widgets/de-product-display.php:379
+msgid "Items available"
+msgstr ""
+
+#: widgets/de-product-display.php:393
+msgid "Action Button Settings"
+msgstr ""
+
+#: widgets/de-product-display.php:400 widgets/de-product-tab-slide.php:1133
+msgid "Action Button"
+msgstr ""
+
+#: widgets/de-product-display.php:402 widgets/de-product-display.php:599
+msgid "Show"
+msgstr ""
+
+#: widgets/de-product-display.php:403 widgets/de-product-display.php:600
+msgid "Hide"
+msgstr ""
+
+#: widgets/de-product-display.php:429
+msgid "Show on"
+msgstr ""
+
+#: widgets/de-product-display.php:445 widgets/de-product-display.php:624
+#: widgets/de-product-display.php:1640 widgets/de-product-display.php:1731
+#: widgets/dethemekit-carousel.php:246 widgets/dethemekit-grid.php:1495
+msgid "Position"
+msgstr ""
+
+#: widgets/de-product-display.php:457 widgets/de-product-display.php:636
+msgid "Middle"
+msgstr ""
+
+#: widgets/de-product-display.php:461 widgets/de-product-display.php:640
+msgid "Bottom"
+msgstr ""
+
+#: widgets/de-product-display.php:465 widgets/de-product-display.php:644
+msgid "Content Bottom"
+msgstr ""
+
+#: widgets/de-product-display.php:480
+msgid "Show Add to Cart Button Text"
+msgstr ""
+
+#: widgets/de-product-display.php:491
+msgid "Image Settings"
+msgstr ""
+
+#: widgets/de-product-display.php:498
+msgid "Thumbnails Style"
+msgstr ""
+
+#: widgets/de-product-display.php:502
+msgid "Single Image"
+msgstr ""
+
+#: widgets/de-product-display.php:503
+msgid "Image Slider"
+msgstr ""
+
+#: widgets/de-product-display.php:504
+msgid "Gallery Tab"
+msgstr ""
+
+#: widgets/de-product-display.php:512
+msgid "Arrows Color"
+msgstr ""
+
+#: widgets/de-product-display.php:527
+msgid "Dots Background Color"
+msgstr ""
+
+#: widgets/de-product-display.php:542
+msgid "Dots Active Background Color"
+msgstr ""
+
+#: widgets/de-product-display.php:572
+msgid "Active Border Color"
+msgstr ""
+
+#: widgets/de-product-display.php:590
+msgid "Countdown Settings"
+msgstr ""
+
+#: widgets/de-product-display.php:597
+msgid "Show Countdown Timer"
+msgstr ""
+
+#: widgets/de-product-display.php:609
+msgid "Gutter"
+msgstr ""
+
+#: widgets/de-product-display.php:660
+msgid "Custom Label"
+msgstr ""
+
+#: widgets/de-product-display.php:672 widgets/de-product-display.php:674
+msgid "Days"
+msgstr ""
+
+#: widgets/de-product-display.php:685 widgets/de-product-display.php:687
+msgid "Hours"
+msgstr ""
+
+#: widgets/de-product-display.php:698 widgets/de-product-display.php:700
+msgid "Minutes"
+msgstr ""
+
+#: widgets/de-product-display.php:711 widgets/de-product-display.php:713
+msgid "Seconds"
+msgstr ""
+
+#: widgets/de-product-display.php:727 widgets/de-product-tab-slide.php:431
+msgid "Slider Option"
+msgstr ""
+
+#: widgets/de-product-display.php:737 widgets/de-product-display.php:838
+#: widgets/de-product-display.php:881 widgets/de-product-tab-slide.php:441
+#: widgets/de-product-tab-slide.php:554 widgets/de-product-tab-slide.php:597
+msgid "Slider Items"
+msgstr ""
+
+#: widgets/de-product-display.php:749 widgets/de-product-tab-slide.php:456
+msgid "Slider Arrow"
+msgstr ""
+
+#: widgets/de-product-display.php:759 widgets/de-product-tab-slide.php:469
+msgid "Slider dots"
+msgstr ""
+
+#: widgets/de-product-display.php:774 widgets/de-product-tab-slide.php:487
+msgid "Pause on Hover?"
+msgstr ""
+
+#: widgets/de-product-display.php:781 widgets/de-product-tab-slide.php:494
+msgid "Slider auto play"
+msgstr ""
+
+#: widgets/de-product-display.php:792 widgets/de-product-tab-slide.php:508
+msgid "Autoplay speed"
+msgstr ""
+
+#: widgets/de-product-display.php:805 widgets/de-product-tab-slide.php:521
+msgid "Autoplay animation speed"
+msgstr ""
+
+#: widgets/de-product-display.php:817 widgets/de-product-display.php:850
+#: widgets/de-product-display.php:893 widgets/de-product-tab-slide.php:533
+#: widgets/de-product-tab-slide.php:566 widgets/de-product-tab-slide.php:609
+msgid "Slider item to scroll"
+msgstr ""
+
+#: widgets/de-product-display.php:862 widgets/de-product-tab-slide.php:578
+msgid "Tablet Resolution"
+msgstr ""
+
+#: widgets/de-product-display.php:863 widgets/de-product-tab-slide.php:579
+msgid "The resolution to tablet."
+msgstr ""
+
+#: widgets/de-product-display.php:872 widgets/de-product-tab-slide.php:588
+msgid "Mobile Phone"
+msgstr ""
+
+#: widgets/de-product-display.php:905 widgets/de-product-tab-slide.php:621
+msgid "Mobile Resolution"
+msgstr ""
+
+#: widgets/de-product-display.php:906 widgets/de-product-tab-slide.php:622
+msgid "The resolution to mobile."
+msgstr ""
+
+#: widgets/de-product-display.php:963
+msgid "Hover Box Shadow"
+msgstr ""
+
+#: widgets/de-product-display.php:971
+msgid "Content area"
+msgstr ""
+
+#: widgets/de-product-display.php:1005 widgets/de-product-display.php:1439
+#: widgets/de-product-display.php:1547 widgets/de-product-display.php:1692
+#: widgets/de-product-display.php:1771 widgets/de-product-display.php:1833
+#: widgets/de-product-display.php:1875 widgets/de-product-display.php:1999
+#: widgets/de-product-display.php:2080 widgets/de-product-tab-slide.php:322
+#: widgets/de-product-tab-slide.php:403 widgets/de-product-tab-slide.php:689
+#: widgets/de-product-tab-slide.php:741 widgets/de-product-tab-slide.php:804
+#: widgets/de-product-tab-slide.php:846 widgets/de-product-tab-slide.php:893
+msgid "Border"
+msgstr ""
+
+#: widgets/de-product-display.php:1013
+msgid "Product Badge"
+msgstr ""
+
+#: widgets/de-product-display.php:1022
+msgid "Badge Color"
+msgstr ""
+
+#: widgets/de-product-display.php:1044
+msgid "Product Category"
+msgstr ""
+
+#: widgets/de-product-display.php:1062
+msgid "Category Color"
+msgstr ""
+
+#: widgets/de-product-display.php:1075
+msgid "Category Hover Color"
+msgstr ""
+
+#: widgets/de-product-display.php:1100
+msgid "Product Title"
+msgstr ""
+
+#: widgets/de-product-display.php:1118
+msgid "Title Color"
+msgstr ""
+
+#: widgets/de-product-display.php:1130
+msgid "Title Hover Color"
+msgstr ""
+
+#: widgets/de-product-display.php:1155 widgets/de-product-tab-slide.php:1019
+msgid "Product Price"
+msgstr ""
+
+#: widgets/de-product-display.php:1164
+msgid "Sale Price Color"
+msgstr ""
+
+#: widgets/de-product-display.php:1185
+msgid "Regular Price Color"
+msgstr ""
+
+#: widgets/de-product-display.php:1220
+msgid "Product Rating"
+msgstr ""
+
+#: widgets/de-product-display.php:1229
+msgid "Empty Rating Color"
+msgstr ""
+
+#: widgets/de-product-display.php:1241
+msgid "Rating Color"
+msgstr ""
+
+#: widgets/de-product-display.php:1268
+msgid "Action Button Style"
+msgstr ""
+
+#: widgets/de-product-display.php:1277 widgets/de-product-display.php:1317
+#: widgets/de-product-display.php:1405 widgets/de-product-display.php:1537
+#: widgets/de-product-display.php:1820 widgets/de-product-tab-slide.php:791
+msgid "Background"
+msgstr ""
+
+#: widgets/de-product-display.php:1287
+msgid "Box Shadow"
+msgstr ""
+
+#: widgets/de-product-display.php:1295
+msgid "Tooltip"
+msgstr ""
+
+#: widgets/de-product-display.php:1304
+msgid "Tooltip Color"
+msgstr ""
+
+#: widgets/de-product-display.php:1336 widgets/de-product-display.php:1523
+#: widgets/de-product-display.php:1573 widgets/de-product-display.php:1667
+#: widgets/de-product-display.php:1808 widgets/de-product-display.php:1974
+#: widgets/de-product-display.php:2053 widgets/de-product-tab-slide.php:297
+#: widgets/de-product-tab-slide.php:376 widgets/de-product-tab-slide.php:664
+#: widgets/de-product-tab-slide.php:779 widgets/de-product-tab-slide.php:1151
+#: widgets/de-product-tab-slide.php:1211 widgets/dethemekit-carousel.php:792
+#: widgets/dethemekit-carousel.php:848 widgets/dethemekit-carousel.php:976
+#: widgets/dethemekit-grid.php:1357 widgets/dethemekit-grid.php:1390
+#: widgets/dethemekit-grid.php:1546 widgets/dethemekit-grid.php:1638
+msgid "Color"
+msgstr ""
+
+#: widgets/de-product-display.php:1348 widgets/de-product-tab-slide.php:1175
+msgid "Font Size"
+msgstr ""
+
+#: widgets/de-product-display.php:1376
+msgid "Line Height"
+msgstr ""
+
+#: widgets/de-product-display.php:1459 widgets/dethemekit-grid.php:540
+msgid "Width"
+msgstr ""
+
+#: widgets/de-product-display.php:1486 widgets/de-product-display.php:2128
+#: widgets/dethemekit-grid.php:193 widgets/dethemekit-grid.php:561
+#: widgets/dethemekit-grid.php:896
+msgid "Height"
+msgstr ""
+
+#: widgets/de-product-display.php:1562
+msgid "Offer Price Countdown"
+msgstr ""
+
+#: widgets/de-product-display.php:1587
+msgid "Counter Background"
+msgstr ""
+
+#: widgets/de-product-display.php:1596
+msgid "Space"
+msgstr ""
+
+#: widgets/de-product-display.php:1611 widgets/de-product-tab-slide.php:634
+msgid "Slider Controller Style"
+msgstr ""
+
+#: widgets/de-product-display.php:1632 widgets/de-product-tab-slide.php:656
+msgid "Navigation Arrow"
+msgstr ""
+
+#: widgets/de-product-display.php:1723 widgets/de-product-display.php:1853
+#: widgets/de-product-tab-slide.php:720 widgets/de-product-tab-slide.php:824
+#: widgets/dethemekit-carousel.php:901
+msgid "Navigation Dots"
+msgstr ""
+
+#: widgets/de-product-display.php:1800 widgets/de-product-tab-slide.php:771
+msgid "Navigation"
+msgstr ""
+
+#: widgets/de-product-display.php:1901 widgets/de-product-tab-slide.php:235
+msgid "Tab Menu Style"
+msgstr ""
+
+#: widgets/de-product-display.php:1943
+msgid "Tab Menu Area Margin"
+msgstr ""
+
+#: widgets/de-product-display.php:1986 widgets/de-product-display.php:2066
+#: widgets/de-product-tab-slide.php:309 widgets/de-product-tab-slide.php:389
+msgid "Product tab menu background"
+msgstr ""
+
+#: widgets/de-product-display.php:2018 widgets/de-product-tab-slide.php:341
+msgid "Tab Menu padding"
+msgstr ""
+
+#: widgets/de-product-display.php:2030 widgets/de-product-tab-slide.php:353
+msgid "Tab Menu margin"
+msgstr ""
+
+#: widgets/de-product-display.php:2119
+msgid "Progressbar"
+msgstr ""
+
+#: widgets/de-product-display.php:2166
+msgid "Sell Progress Background Color"
+msgstr ""
+
+#: widgets/de-product-display.php:2189
+msgid "Order & Ability Counter"
+msgstr ""
+
+#: widgets/de-product-display.php:2199
+msgid "Typography"
+msgstr ""
+
+#: widgets/de-product-display.php:2207
+msgid "Label Color"
+msgstr ""
+
+#: widgets/de-product-display.php:2218
+msgid "Counter Number Color"
+msgstr ""
+
+#: widgets/de-product-display.php:2243
+msgid "Ordered:"
+msgstr ""
+
+#: widgets/de-product-display.php:2244
+msgid "Items available:"
+msgstr ""
+
+#: widgets/de-product-display.php:2611 widgets/de-product-display.php:2651
+#: widgets/de-product-display.php:2798 widgets/de-product-display.php:2838
+msgid "Quick View"
+msgstr ""
+
+#: widgets/de-product-tab-slide.php:34
+msgid "De Product Tab & Slide"
+msgstr ""
+
+#: widgets/de-product-tab-slide.php:71
+msgid "Product Settings"
+msgstr ""
+
+#: widgets/de-product-tab-slide.php:78
+msgid "Product Style"
+msgstr ""
+
+#: widgets/de-product-tab-slide.php:101
+msgid "Mixed order Products"
+msgstr ""
+
+#: widgets/de-product-tab-slide.php:113
+msgid "1"
+msgstr ""
+
+#: widgets/de-product-tab-slide.php:114
+msgid "2"
+msgstr ""
+
+#: widgets/de-product-tab-slide.php:115
+msgid "3"
+msgstr ""
+
+#: widgets/de-product-tab-slide.php:116
+msgid "4"
+msgstr ""
+
+#: widgets/de-product-tab-slide.php:117
+msgid "5"
+msgstr ""
+
+#: widgets/de-product-tab-slide.php:118
+msgid "6"
+msgstr ""
+
+#: widgets/de-product-tab-slide.php:129
+msgid "Rows"
+msgstr ""
+
+#: widgets/de-product-tab-slide.php:141
+msgid "Number of Products"
+msgstr ""
+
+#: widgets/de-product-tab-slide.php:174
+msgid "Orderby"
+msgstr ""
+
+#: widgets/de-product-tab-slide.php:211
+msgid "Product Tab"
+msgstr ""
+
+#: widgets/de-product-tab-slide.php:221
+msgid "Product Slider"
+msgstr ""
+
+#: widgets/de-product-tab-slide.php:225
+msgid "When product tab is off, Then working slider."
+msgstr ""
+
+#: widgets/de-product-tab-slide.php:912
+msgid "Product Image Area Padding"
+msgstr ""
+
+#: widgets/de-product-tab-slide.php:924
+msgid "Product Image Background"
+msgstr ""
+
+#: widgets/de-product-tab-slide.php:936
+msgid "Product Content Area Padding"
+msgstr ""
+
+#: widgets/de-product-tab-slide.php:948
+msgid "Product Content Background"
+msgstr ""
+
+#: widgets/de-product-tab-slide.php:1007 widgets/de-product-tab-slide.php:1090
+msgid "Title color"
+msgstr ""
+
+#: widgets/de-product-tab-slide.php:1027
+msgid "Price color"
+msgstr ""
+
+#: widgets/de-product-tab-slide.php:1102
+msgid "Product content background"
+msgstr ""
+
+#: widgets/de-product-tab-slide.php:1114
+msgid "Product hover content area padding"
+msgstr ""
+
+#: widgets/de-product-tab-slide.php:1163 widgets/de-product-tab-slide.php:1223
+msgid "Backgournd Color"
+msgstr ""
+
+#: widgets/de-product-tab-slide.php:1498 widgets/de-product-tab-slide.php:1631
+msgid ":"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:59 widgets/dethemekit-carousel.php:150
+msgid "De Carousel"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:157
+msgid "Content Type"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:158
+msgid "How templates are selected"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:161
+msgid "Select Field"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:162
+msgid "Repeater"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:172
+msgid ""
+"Slider content is a template which you can choose from Elementor library. "
+"Each template will be a slider content"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:198
+msgid "Custom Navigation Element Selector"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:201
+msgid ""
+"Use this to add an element selector to be used to navigate to this slide. "
+"For example #slide-1"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:221 widgets/dethemekit-grid.php:591
+msgid "Type"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:222
+msgid "Set a navigation type"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:225
+msgid "Horizontal"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:226
+msgid "Vertical"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:235
+msgid "Dots"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:236
+msgid "Enable or disable navigation dots"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:250
+msgid "Below Slides"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:251
+msgid "On Slides"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:262
+msgid "Horizontal Offset"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:278
+msgid "Vertical Offset"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:294
+msgid "Ripple Effect"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:295
+msgid "Enable a ripple effect when the active dot is hovered/clicked"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:307
+msgid "Arrows"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:308
+msgid "Enable or disable navigation arrows"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:318
+msgid "Appearance"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:323
+msgid "All visible"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:324
+msgid "One at a time"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:332
+msgid "Desktop Slides"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:341
+msgid "Tabs Slides"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:350
+msgid "Mobile Slides"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:361
+msgid "Slides Settings"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:368
+msgid "Infinite Loop"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:370
+msgid "Restart the slider automatically as it passes the last slide"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:378
+msgid "Fade"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:380
+msgid "Enable fade transition between slides"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:390
+msgid "Zoom Effect"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:402
+msgid "Transition Speed"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:403
+msgid ""
+"Set a navigation speed value. The value will be counted in milliseconds (ms)"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:412
+msgid "Autoplay Slides‏"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:413
+msgid "Slide will start automatically"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:422
+msgid "Autoplay Speed"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:423
+msgid ""
+"Autoplay Speed means at which time the next slide should come. Set a value "
+"in milliseconds (ms)"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:435
+msgid "Animations"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:444
+msgid "Extra Class"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:446
+msgid ""
+"Add extra class name that will be applied to the carousel, and you can use "
+"this class for your customizations."
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:455
+msgid "Additional Settings"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:462
+msgid "Draggable Effect"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:463
+msgid "Allow the slides to be dragged by mouse click"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:472
+msgid "Touch Move"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:473
+msgid "Enable slide moving with touch"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:482 widgets/dethemekit-grid.php:987
+msgid "RTL Mode"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:483
+msgid "Turn on RTL mode if your language starts from right to left"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:494
+msgid "Adaptive Height"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:495
+msgid ""
+"Adaptive height setting gives each slide a fixed height to avoid huge white "
+"space gaps"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:503
+msgid "Pause on Hover"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:504
+msgid "Pause the slider when mouse hover"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:512
+msgid "Center Mode"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:513
+msgid ""
+"Center mode enables a centered view with partial next/previous slides. "
+"Animations and all visible scroll type doesn't work with this mode"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:521
+msgid "Slides' Spacing"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:522
+msgid "Set a spacing value in pixels (px)"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:531
+msgid "Tablet Breakpoint"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:532
+msgid ""
+"Sets the breakpoint between desktop and tablet devices. Below this "
+"breakpoint tablet layout will appear (Default: 1025px)."
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:541
+msgid "Mobile Breakpoint"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:542
+msgid ""
+"Sets the breakpoint between tablet and mobile devices. Below this breakpoint "
+"mobile layout will appear (Default: 768px)."
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:553
+msgid "Navigation Arrows"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:564
+msgid "Custom Previous Icon"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:589
+msgid "Top Icon"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:620
+msgid "Left Icon"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:651
+msgid "Custom Next Icon"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:677
+msgid "Right Icon"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:708
+msgid "Bottom Icon"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:739 widgets/dethemekit-carousel.php:964
+#: widgets/dethemekit-grid.php:1517
+msgid "Size"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:763
+msgid "Position (PX)"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:912
+msgid "Icon"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:939
+msgid "Custom Icon"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:992
+msgid "Active Color"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:1008
+msgid "Active Ripple Color"
+msgstr ""
+
+#: widgets/dethemekit-carousel.php:1022
+msgid "Inactive Ripple Color"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:68
+msgid "De Gallery"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:179
+msgid "Grid Layout"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:182
+msgid "Even"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:183
+msgid "Masonry"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:184
+msgid "Metro"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:220
+msgid "Images Fit"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:223
+msgid "Fill"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:224
+msgid "Cover"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:254
+msgid "1 Column"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:255
+msgid "2 Columns"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:256
+msgid "3 Columns"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:257
+msgid "4 Columns"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:258
+msgid "5 Columns"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:259
+msgid "6 Columns"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:260
+msgid "12 Columns"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:276
+msgid "Requires number of images larger than 6"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:284
+msgid "Button Text"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:297
+msgid "Minimum Number of Images"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:299
+msgid "Set the minimum number of images before showing load more button"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:310
+msgid "Images to Show"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:312
+msgid "Set the minimum number of images to show with each click"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:323
+msgid "Button Alignment"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:354 widgets/dethemekit-grid.php:423
+msgid "Categories"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:361
+msgid "Filter Tabs"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:372
+msgid "First Category"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:382
+msgid "First Category Label"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:400 widgets/dethemekit-grid.php:710
+msgid "Category"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:409
+msgid "Rotation Degrees"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:411
+msgid "Set rotation value in degrees"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:442
+msgid "Active Category Index"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:454
+msgid ""
+"Please note categories are zero indexed, so if you need the first category "
+"to be active, you need to set the value to 0"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:464
+msgid "Shuffle Images on Filter Click"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:505
+msgid "URL Flag"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:508
+msgid ""
+"This is used to link categories from different pages. For example: "
+"dethemekitaddons.com/grid-widget-for-elementor-page-builder?cat=2"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:519
+msgid "Images/Videos"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:528
+msgid "Upload Image"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:541
+msgid "Works only when layout set to Metro"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:562
+msgid "Works only when layout set to 'Metro'"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:582
+msgid "Video"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:594
+msgid "YouTube"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:595
+msgid "Vimeo"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:596
+msgid "Self Hosted"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:609
+msgid "Video URL"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:629
+msgid "Select Video"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:649
+msgid "Remote Video URL"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:665
+msgid "Controls"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:678
+msgid "Mute"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:700 widgets/dethemekit-grid.php:1381
+msgid "Description"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:712
+msgid "To assign for multiple categories, separate by a comma ','"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:720
+msgid "Link Type"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:723
+msgid "URL"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:724 widgets/dethemekit-grid.php:752
+msgid "Existing Page"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:771
+msgid "Whole Image Link"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:782
+msgid "Whole Image Lightbox"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:793
+msgid "Images"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:813
+msgid "Shuffle Images on Page Load"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:821
+msgid "Youtube Videos Thumbnail Size"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:824
+msgid "Maximum Resolution"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:825
+msgid "High Quality"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:826
+msgid "Medium Quality"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:827
+msgid "Standard Quality"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:839
+msgid "Display Options"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:847
+msgid "Image Gap"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:865
+msgid "Skin"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:867
+msgid "Choose a layout style for the gallery"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:869
+msgid "Style 1"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:870
+msgid "Style 2"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:871
+msgid "Style 3"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:872
+msgid "Style 4"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:883
+msgid "Style 4 works only with Even / Masonry Layout"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:917
+msgid "Hover Effect"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:919
+msgid "Choose a hover effect for the image"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:922
+msgid "Zoom In"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:923
+msgid "Zoom Out"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:925
+msgid "Grayscale"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:926
+msgid "Blur"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:927
+msgid "Bright"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:928
+msgid "Sepia"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:940
+msgid "Links Icon"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:952
+msgid "Videos"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:961
+msgid "Always Show Play Icon"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:975
+msgid "Videos Play Icon"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:988
+msgid ""
+"This option moves the origin of the grid to the right side. Useful for RTL "
+"direction sites"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:997
+msgid "Content Alignment"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1026 widgets/dethemekit-grid.php:1033
+#: widgets/dethemekit-grid.php:2174
+msgid "Lightbox"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1043
+msgid "Lightbox Style"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1047
+msgid "PrettyPhoto"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1049
+msgid "Other Lightbox Plugin"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1060
+msgid "Show Image Title"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1073
+msgid "Please note Elementor lightbox style is always applied on videos."
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1082
+msgid "Lightbox Theme"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1086
+msgid "Light Rounded"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1087
+msgid "Dark Rounded"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1088
+msgid "Light Square"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1089
+msgid "Dark Square"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1090
+msgid "Facebook"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1103
+msgid "Overlay Gallery Images"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1115
+msgid "Lightbox Icon"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1132
+msgid "Responsive"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1139
+msgid "Responsive Controls"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1141
+msgid ""
+"If the content text is not suiting well on specific screen sizes, you may "
+"enable this option which will hide the description text."
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1148
+msgid "Minimum Size"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1150
+msgid "Note: minimum size for extra small screens is 1px."
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1161
+msgid "Maximum Size"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1163
+msgid "Note: maximum size for extra small screens is 767px."
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1176
+msgid "General"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1247
+msgid "Image"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1255
+msgid "Hover Overlay Color"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1286 widgets/dethemekit-grid.php:1444
+#: widgets/dethemekit-grid.php:1596 widgets/dethemekit-grid.php:1688
+msgid "Shadow"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1306
+msgid "Hover CSS Filters"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1341
+msgid "Title / Description"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1487
+msgid "Icons"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1727
+msgid "Filter"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1855
+msgid "Active"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:1991
+msgid "Spinner Color"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:2084
+msgid "Text Hover Color"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:2196
+msgid "UI Color"
+msgstr ""
+
+#: widgets/dethemekit-grid.php:2207
+msgid "UI Hover Color"
+msgstr ""

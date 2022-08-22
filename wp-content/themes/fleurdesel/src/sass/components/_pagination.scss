@@ -1,0 +1,99 @@
+.pagination-row {
+  border-top: 1px solid $color-3;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.pagination {
+  .nav-links {
+    text-align: center;
+    width: 100%;
+    position: relative;
+
+    .page-numbers {
+      display: inline-block;
+      height: 40px;
+      width: 40px;
+      line-height: 38px;
+      text-align: center;
+      font-size: 14px;
+      color: $color-2;
+      border-radius: 50%;
+      border: 1px solid transparent;
+
+      i {
+        line-height: 38px;
+      }
+    }
+
+    a.page-numbers:hover,
+    a.page-numbers:focus,
+    span.current {
+      background-color: $color-1;
+      color: #fff;
+      text-decoration: none;
+      border-color: $color-1;
+    }
+
+    .prev,
+    .next {
+      border-color: $color-3;
+      font-size: 10px;
+    }
+  }
+}
+
+.page-links {
+  > a,
+  > span {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    line-height: 38px;
+    text-align: center;
+    font-size: 14px;
+    color: $color-2;
+    border-radius: 50%;
+    border: 1px solid transparent;
+  }
+
+  > a:hover,
+  > a:focus,
+  > span.current {
+    color: #fff !important;
+    background-color: $color-1;
+    text-decoration: none;
+    border-color: $color-1;
+  }
+}
+
+@include media(">=sm") {
+  .pagination {
+    .nav-links {
+      .page-numbers {
+        margin: 0 6px;
+      }
+
+      .prev,
+      .next {
+        position: absolute;
+        top: 0;
+      }
+
+      .prev {
+        left: 0;
+      }
+
+      .next {
+        right: 0;
+      }
+    }
+  }
+
+  .page-links {
+    a,
+    span {
+      margin: 0 6px;
+    }
+  }
+}
